@@ -64,3 +64,26 @@
 [23:39:31] [User Authenticator #1/INFO]: UUID of player mas_58_loco is b3beefaa-3e3f-32cc-a98d-a6e365f4fed6
 [23:39:31] [Server thread/INFO]: mas_58_loco joined the game
 [23:39:31] [Server thread/INFO]: mas_58_loco[/100.86.4.53:59844] logged in with entity id 2686 at ([world]112.87972266391789, 80.75929969621482, 119.69999998807907)
+[23:39:58] [Server thread/INFO]: mas_58_loco lost connection: Kicked for exceeding packet rate limit
+[23:39:58] [Server thread/INFO]: mas_58_loco left the game
+[23:39:59] [User Authenticator #1/INFO]: UUID of player mas_58_loco is b3beefaa-3e3f-32cc-a98d-a6e365f4fed6
+[23:40:00] [Server thread/INFO]: mas_58_loco joined the game
+[23:40:00] [Server thread/INFO]: mas_58_loco[/100.86.4.53:59857] logged in with entity id 2858 at ([world]119.13615920550595, 91.95586847471729, 107.90439163905069)
+[23:40:02] [Server thread/INFO]: mas_58_loco lost connection: Kicked for exceeding packet rate limit
+[23:40:02] [Server thread/INFO]: mas_58_loco left the game
+[23:40:24] [User Authenticator #1/INFO]: UUID of player mas_58_loco is b3beefaa-3e3f-32cc-a98d-a6e365f4fed6
+[23:40:25] [Server thread/INFO]: mas_58_loco joined the game
+[23:40:25] [Server thread/INFO]: mas_58_loco[/100.86.4.53:59883] logged in with entity id 2864 at ([world]127.45796319189176, 85.56790920956726, 115.86572146719968)
+[23:41:23] [Server thread/INFO]: mas_58_loco lost connection: Kicked for exceeding packet rate limit
+[23:41:23] [Server thread/INFO]: mas_58_loco left the game
+[23:41:24] [User Authenticator #1/INFO]: UUID of player mas_58_loco is b3beefaa-3e3f-32cc-a98d-a6e365f4fed6
+[23:41:25] [Server thread/INFO]: mas_58_loco joined the game
+[23:41:25] [Server thread/INFO]: mas_58_loco[/100.86.4.53:59910] logged in with entity id 2994 at ([world]134.92296029306104, 72.49385858096132, 93.04572077017181)
+[23:43:05] [Server thread/INFO]: mas_58_loco issued server command: /gamemode survival
+[23:43:05] [Server thread/INFO]: [mas_58_loco: Set own game mode to Survival Mode]
+[23:43:16] [Server thread/INFO]: mas_58_loco issued server command: /gamemode creative
+[23:43:16] [Server thread/INFO]: [mas_58_loco: Set own game mode to Creative Mode]
+[23:43:23] [Server thread/INFO]: mas_58_loco issued server command: /gamemode survival
+[23:43:23] [Server thread/INFO]: [mas_58_loco: Set own game mode to Survival Mode]
+[23:44:01] [Server thread/INFO]: mas_58_loco issued server command: /gamemode creative
+[23:44:01] [Server thread/INFO]: [mas_58_loco: Set own game mode to Creative Mode]
