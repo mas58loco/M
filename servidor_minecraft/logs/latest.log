@@ -1,50 +1,66 @@
-[23:08:58] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[23:08:58] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[23:08:59] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[23:08:59] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[23:09:00] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Remapping server...
-[23:09:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:09:06] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[23:09:06] [ServerMain/INFO]: Found new data pack paper, loading it automatically
-[23:09:07] [ServerMain/INFO]: No existing world data, creating new world
-[23:09:09] [ServerMain/INFO]: Loaded 1290 recipes
-[23:09:09] [ServerMain/INFO]: Loaded 1399 advancements
-[23:09:09] [Server thread/INFO]: Starting minecraft server version 1.21
-[23:09:09] [Server thread/INFO]: Loading properties
-[23:09:09] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Done remapping server in 9466ms.
-[23:09:09] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[23:09:10] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[23:09:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[23:09:10] [Server thread/INFO]: Using 4 threads for Netty based IO
-[23:09:11] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[23:09:11] [Server thread/INFO]: Default game type: SURVIVAL
-[23:09:11] [Server thread/INFO]: Generating keypair
-[23:09:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:09:11] [Server thread/INFO]: Using epoll channel type
-[23:09:11] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[23:09:11] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[23:09:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:09:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:09:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:09:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:09:11] [Server thread/INFO]: Preparing level "world"
-[23:09:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:09:29] [Server thread/INFO]: Time elapsed: 5862 ms
-[23:09:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[23:09:31] [Server thread/INFO]: Time elapsed: 1947 ms
-[23:09:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[23:09:32] [Server thread/INFO]: Time elapsed: 604 ms
-[23:09:32] [Server thread/INFO]: [spark] Starting background profiler...
-[23:09:32] [Server thread/INFO]: Done preparing level "world" (20.671s)
-[23:09:32] [Server thread/INFO]: Running delayed init tasks
-[23:09:32] [Server thread/INFO]: Done (34.321s)! For help, type "help"
-[23:09:32] [Server thread/INFO]: *************************************************************************************
-[23:09:32] [Server thread/INFO]: This is the first time you're starting this server.
-[23:09:32] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
-[23:09:32] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
-[23:09:32] [Server thread/INFO]: *************************************************************************************
-[23:09:32] [Server thread/INFO]: Timings Reset
-[23:10:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
-op<--[HERE]
-[23:10:16] [Server thread/INFO]: Made m a server operator
-[23:11:35] [Server thread/INFO]: Made mas_58_loco a server operator
+[23:29:38] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[23:29:38] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[23:29:38] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[23:29:38] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[23:29:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:29:44] [ServerMain/INFO]: Loaded 1290 recipes
+[23:29:45] [ServerMain/INFO]: Loaded 1399 advancements
+[23:29:45] [Server thread/INFO]: Starting minecraft server version 1.21
+[23:29:45] [Server thread/INFO]: Loading properties
+[23:29:45] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[23:29:46] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[23:29:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:29:46] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:29:47] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[23:29:47] [Server thread/INFO]: Default game type: SURVIVAL
+[23:29:47] [Server thread/INFO]: Generating keypair
+[23:29:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:29:47] [Server thread/INFO]: Using epoll channel type
+[23:29:47] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:29:47] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[23:29:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:29:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:29:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:29:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:29:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:29:47] [Server thread/INFO]: Preparing level "world"
+[23:29:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:29:48] [Server thread/INFO]: Time elapsed: 735 ms
+[23:29:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:29:49] [Server thread/INFO]: Time elapsed: 542 ms
+[23:29:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:29:49] [Server thread/INFO]: Time elapsed: 411 ms
+[23:29:49] [Server thread/INFO]: [spark] Starting background profiler...
+[23:29:50] [Server thread/INFO]: Done preparing level "world" (2.547s)
+[23:29:50] [Server thread/INFO]: Running delayed init tasks
+[23:29:50] [Server thread/INFO]: Done (12.369s)! For help, type "help"
+[23:29:50] [Server thread/INFO]: Timings Reset
+[23:33:39] [User Authenticator #0/INFO]: UUID of player mas_58_loco is b3beefaa-3e3f-32cc-a98d-a6e365f4fed6
+[23:33:41] [Server thread/INFO]: mas_58_loco joined the game
+[23:33:41] [Server thread/INFO]: mas_58_loco[/100.86.4.53:59681] logged in with entity id 11 at ([world]-6.5, 126.0, 4.5)
+[23:34:07] [Server thread/INFO]: mas_58_loco fell from a high place
+[23:34:35] [Server thread/INFO]: mas_58_loco issued server command: /op
+[23:34:39] [Server thread/INFO]: mas_58_loco issued server command: /op q
+[23:34:39] [Server thread/INFO]: [mas_58_loco: Made q a server operator]
+[23:35:02] [Server thread/INFO]: mas_58_loco issued server command: /memory
+[23:35:23] [Server thread/INFO]: Nothing changed. The player already is an operator
+[23:35:33] [Server thread/INFO]: mas_58_loco issued server command: /random
+[23:35:38] [Server thread/INFO]: mas_58_loco issued server command: /random
+[23:35:43] [Server thread/INFO]: mas_58_loco issued server command: /random reset
+[23:35:47] [Server thread/INFO]: mas_58_loco issued server command: /random reset minecraft:entities/player
+[23:35:59] [Server thread/INFO]: mas_58_loco issued server command: /gamemode creative
+[23:35:59] [Server thread/INFO]: [mas_58_loco: Set own game mode to Creative Mode]
+[23:37:19] [Server thread/INFO]: mas_58_loco issued server command: /spawnpoint
+[23:37:19] [Server thread/INFO]: [mas_58_loco: Set spawn point to 79, 77, 465 [0.0] in minecraft:overworld for mas_58_loco]
+[23:38:36] [Server thread/INFO]: mas_58_loco has made the advancement [Monster Hunter]
+[23:39:23] [Server thread/INFO]: mas_58_loco issued server command: /home
+[23:39:25] [Server thread/INFO]: mas_58_loco lost connection: Kicked for exceeding packet rate limit
+[23:39:25] [Server thread/INFO]: mas_58_loco left the game
+[23:39:26] [User Authenticator #1/INFO]: UUID of player mas_58_loco is b3beefaa-3e3f-32cc-a98d-a6e365f4fed6
+[23:39:27] [Server thread/INFO]: mas_58_loco joined the game
+[23:39:27] [Server thread/INFO]: mas_58_loco[/100.86.4.53:59842] logged in with entity id 2681 at ([world]112.87972266391789, 94.0, 119.69999998807907)
+[23:39:29] [Server thread/INFO]: mas_58_loco lost connection: Kicked for exceeding packet rate limit
+[23:39:29] [Server thread/INFO]: mas_58_loco left the game
+[23:39:31] [User Authenticator #1/INFO]: UUID of player mas_58_loco is b3beefaa-3e3f-32cc-a98d-a6e365f4fed6
+[23:39:31] [Server thread/INFO]: mas_58_loco joined the game
+[23:39:31] [Server thread/INFO]: mas_58_loco[/100.86.4.53:59844] logged in with entity id 2686 at ([world]112.87972266391789, 80.75929969621482, 119.69999998807907)
