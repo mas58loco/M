@@ -395,3 +395,6 @@ Update at https://www.spigotmc.org/resources/13932/
 [07:24:28] [Server thread/INFO]: Unknown or incomplete command, see below for error
 op<--[HERE]
 [07:24:30] [Server thread/INFO]: Made mm a server operator
+[07:36:34] [Craft Scheduler Thread - 79 - Vault/INFO]: [Vault] Checking for Updates ... 
+[07:36:34] [Craft Scheduler Thread - 79 - Vault/INFO]: [Vault] No new version available
+[07:36:40] [Craft Scheduler Thread - 70 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
