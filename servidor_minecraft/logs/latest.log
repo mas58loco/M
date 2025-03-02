@@ -3782,3 +3782,4 @@ java.lang.IllegalArgumentException: Newer version! Server downgrades are not sup
 [21:38:57] [Server thread/INFO]: mas_58_loco issued server command: /gamemode spectator
 [21:39:08] [Server thread/INFO]: mas_58_loco issued server command: /gamemode creative
 [22:04:40] [Server thread/INFO]: mas_58_loco issued server command: /gamemode survival
+[22:06:02] [Server thread/INFO]: mas_58_loco issued server command: /gamemode creative
