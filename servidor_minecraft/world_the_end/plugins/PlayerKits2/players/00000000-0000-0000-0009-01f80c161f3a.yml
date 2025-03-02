@@ -1,0 +1,10 @@
+name: _Minemods07
+kits:
+  KITINICIAL:
+    cooldown: 1727582885595
+    one_time: false
+    bought: false
+  PROTECCION_INICIAL:
+    cooldown: 1730172188035
+    one_time: false
+    bought: false

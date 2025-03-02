@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 190.93.198.2
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727581156409
+  login: 1727576813530
+money: '0'
+last-account-name: CrbGiuly
+lastlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 857.590699996058
+  y: 69.0
+  z: 2970.457007049928
+  yaw: -91.76705932617188
+  pitch: -10.29558277130127
+logoutlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: -366.30000001192093
+  y: 101.0
+  z: 835.8565777602842
+  yaw: 75.593505859375
+  pitch: -21.000545501708984

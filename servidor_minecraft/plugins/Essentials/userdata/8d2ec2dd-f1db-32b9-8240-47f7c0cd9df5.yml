@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 177.200.239.66
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737945949845
+  login: 1737945924455
+money: '0'
+last-account-name: FFisaaYT
+lastlocation:
+  world: 49cb30f3-bad9-4632-8f8b-a0346c5376a2
+  world-name: world
+  x: 0.0
+  y: 63.0
+  z: -32.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 75740612-7402-4a48-8f37-d2844ff36ceb
+  world-name: Survival
+  x: -4485.2065
+  y: 69.0
+  z: -3667.6501
+  yaw: -1.4337310791015625
+  pitch: 0.8953704833984375

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 186.155.12.27
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727579072683
+  login: 1727579297345
+money: '0'
+last-account-name: _Its_0perez
+lastlocation:
+  world: 4cac5ad4-e878-4976-b087-07d8ba3c786e
+  world-name: lobby
+  x: 48.553493
+  y: 94.0
+  z: 100.82803
+  yaw: 2.614166259765625
+  pitch: 13.70965576171875
+logoutlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: -390.30001
+  y: 62.0
+  z: 5575.69999
+  yaw: -8.29315185546875
+  pitch: 30.90362548828125

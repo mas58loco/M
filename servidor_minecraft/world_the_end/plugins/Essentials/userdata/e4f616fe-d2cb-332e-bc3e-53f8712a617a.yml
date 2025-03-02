@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.137.186.164
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727583175516
+  login: 1727583179117
+money: '0'
+last-account-name: Aleyesmy
+lastlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 678.0644489930468
+  y: -31.0
+  z: 4778.143300590118
+  yaw: -67.47674560546875
+  pitch: 13.349979400634766
+logoutlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: -667.8229151134163
+  y: 92.0
+  z: 1597.1318115251277
+  yaw: -127.91305541992188
+  pitch: 69.06634521484375

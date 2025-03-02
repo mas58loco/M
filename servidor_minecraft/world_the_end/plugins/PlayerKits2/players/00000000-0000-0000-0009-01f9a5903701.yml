@@ -1,0 +1,10 @@
+name: _CurrentRain9167
+kits:
+  PROTECCION_INICIAL:
+    cooldown: 1730173380002
+    one_time: false
+    bought: false
+  KITINICIAL:
+    cooldown: 1727584197185
+    one_time: false
+    bought: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 181.209.89.84
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727579957925
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727580677332
+  login: 1727580688008
+money: '0'
+last-account-name: ByJuanelGamer
+lastlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 816.5659572246173
+  y: 76.0
+  z: 2971.635107297931
+  yaw: -93.65355682373047
+  pitch: 5.905879020690918
+logoutlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: -930.7626759613386
+  y: 102.0
+  z: 1479.934707018957
+  yaw: -33.55632400512695
+  pitch: 4.442821979522705

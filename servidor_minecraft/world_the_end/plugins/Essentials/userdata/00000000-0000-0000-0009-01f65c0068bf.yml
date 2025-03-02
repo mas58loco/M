@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 190.239.221.144
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727581866002
+  login: 1727581822258
+money: '0'
+last-account-name: _marlon2000K
+lastlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 922.763
+  y: 62.0
+  z: 2867.2305
+  yaw: 109.67999267578125
+  pitch: 46.69122314453125
+logoutlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 924.6439
+  y: 63.0
+  z: 2867.7573
+  yaw: -84.0546646118164
+  pitch: 29.53814697265625

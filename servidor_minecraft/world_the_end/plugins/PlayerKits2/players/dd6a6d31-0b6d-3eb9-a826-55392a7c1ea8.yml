@@ -1,0 +1,10 @@
+name: DT_Tokito
+kits:
+  PROTECCION_INICIAL:
+    cooldown: 1730172159815
+    one_time: false
+    bought: false
+  KITINICIAL:
+    cooldown: 1727582861393
+    one_time: false
+    bought: false

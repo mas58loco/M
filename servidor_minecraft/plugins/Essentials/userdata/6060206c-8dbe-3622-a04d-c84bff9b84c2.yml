@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 181.59.3.57
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737947203409
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737947637502
+  login: 1737946459405
+money: '0'
+last-account-name: elflaco535
+lastlocation:
+  world: 75740612-7402-4a48-8f37-d2844ff36ceb
+  world-name: Survival
+  x: -4430.646130753344
+  y: 72.0
+  z: 2121.6210487945496
+  yaw: 111.11993408203125
+  pitch: 11.368082046508789
+logoutlocation:
+  world: 75740612-7402-4a48-8f37-d2844ff36ceb
+  world-name: Survival
+  x: -4695.156339954315
+  y: 67.5
+  z: -3715.923487674808
+  yaw: 102.01171875
+  pitch: 35.47196960449219

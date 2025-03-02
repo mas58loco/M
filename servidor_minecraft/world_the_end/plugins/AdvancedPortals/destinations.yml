@@ -1,0 +1,22 @@
+#  ExampleDestination:
+#    world: it will be the world name
+#    pos:
+#      X:
+#      Y:
+
+survival:
+  world: survival
+  pos:
+    X: 814.2033869908156
+    Y: 76.0
+    Z: 2971.3280281880234
+    pitch: -1.4457215
+    yaw: -89.21703
+creativo:
+  world: creativo
+  pos:
+    X: -259.42692791639365
+    Y: 65.0
+    Z: -67.69999998807907
+    pitch: -8.249996
+    yaw: -0.7511715

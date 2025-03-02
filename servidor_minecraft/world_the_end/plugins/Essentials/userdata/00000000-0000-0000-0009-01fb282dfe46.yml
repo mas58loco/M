@@ -1,0 +1,32 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 191.104.118.247
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727554988704
+  login: 1727583357820
+money: '0'
+last-account-name: _Lobitostivo1312
+logoutlocation:
+  world: 4cac5ad4-e878-4976-b087-07d8ba3c786e
+  world-name: lobby
+  x: 80.28535
+  y: 91.0
+  z: 140.79503
+  yaw: 27.125534057617188
+  pitch: -36.18409729003906
+past-usernames:
+- Lobitostivo1312

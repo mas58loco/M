@@ -1,0 +1,10 @@
+name: _Derliscraft
+kits:
+  PROTECCION_INICIAL:
+    cooldown: 1730172152704
+    one_time: false
+    bought: false
+  KITINICIAL:
+    cooldown: 1727582858465
+    one_time: false
+    bought: false

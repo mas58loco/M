@@ -1,0 +1,42 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 186.108.125.11
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727560088487
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727574445265
+  login: 1727574431022
+money: '0'
+last-account-name: _Richuus3109
+lastlocation:
+  world: 81972c17-73ed-4dd5-a2d1-95ed426b9263
+  world-name: creativo
+  x: -259.69028
+  y: 65.0
+  z: -87.33858
+  yaw: 7.75244140625
+  pitch: -8.730148315429688
+logoutlocation:
+  world: 4cac5ad4-e878-4976-b087-07d8ba3c786e
+  world-name: lobby
+  x: 35.097816
+  y: 92.0
+  z: 96.34051
+  yaw: -78.85363006591797
+  pitch: 1.46942138671875
+past-usernames:
+- .Richuus3109
+- Richuus3109
+- .Richuus3109

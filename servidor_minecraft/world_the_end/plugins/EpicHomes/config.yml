@@ -1,0 +1,208 @@
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+#                                        ----[EpicHomes]----                                        #
+#                                     ----[By Loving11ish]----                                      #
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+#                                   ----[Plugin Config File]----                                    #
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+#EpicHomes config for 1.1.1
+
+#Changing anything below MAY require a server restart to take effect!
+
+#Homes config options.
+homes:
+  #Set the default maximum amount of homes a player can have. [Default value: 3]
+  ##ANY OP PLAYER BYPASS ALL LIMITS!##
+  #To bypass all limits grant permission `epichomes.maxhomes.*`
+  default-max-homes: 3
+  #To allow the use of a tiered permission system for home sizes instead of the global amount, use the system below.
+  permission-based-homes-max-amount:
+    #Enable the tiered system use. [Default value: false]
+    enabled: false
+    #To set the max amount of homes for each permission group, use the system below.
+    #The permission group must be in the format of 'epichomes.maxhomes.groupX' where X is the group number.
+    #The permission group must be given to the player in order for the max amount to take effect.
+    #The highest priority group should be at the top of the list.
+    permission-group-list:
+      - group: "epichomes.maxhomes.group6"
+        maxAmount: 24
+      - group: "epichomes.maxhomes.group5"
+        maxAmount: 20
+      - group: "epichomes.maxhomes.group4"
+        maxAmount: 16
+      - group: "epichomes.maxhomes.group3"
+        maxAmount: 12
+      - group: "epichomes.maxhomes.group2"
+        maxAmount: 8
+      - group: "epichomes.maxhomes.group1"
+        maxAmount: 5
+  #Set below names that are not allowed to be used in home names. [They ARE case & syntax sensitive]
+  disallowed-home-names:
+    - "Gamers"
+    - "Rise"
+    - "Up"
+
+  teleportation:
+    delay-before-teleport:
+      #Do you want to have a delay before teleporting the player to their home? [Default value: true]
+      enabled: true
+      #How long do you want the countdown delay to be? (In seconds) [Default value: 5]
+      time: 5
+      #Do you want the server to constantly check if the player moves when they have requested a home teleport?
+      ##WARNING - THIS ENABLES ADDITIONAL MOVEMENT EVENT CHECKS THAT MAY CAUSE INCREASED LOAD ON YOUR SERVER##
+      ##IF YOU EXPERIENCE PERFORMANCE ISSUES TRY SETTING BELOW TO 'FALSE'##
+      #[Default value: true]
+      cancel-teleport-on-move: true
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+
+#This section is for any general plugin config options.
+general:
+  command-cool-down:
+    #Do you want to have a cool-down for ALL the plugins commands? [Default value: false]
+    #THIS ALSO APPLIES TO THE GUI OPENING COMMANDS!#
+    enabled: false
+    #How long (In seconds) do you want the cool-down to be between command usages? [Default value: 60]
+    cool-down-time: 60
+
+  developer-debug-mode:
+    #Do you want to see a lot of debug messages in console when most actions are performed? [Default value: false]
+    enabled: false
+
+  home-data-importer:
+    #Do you want to import and convert the home data from another supported plugin? [Default value: false]
+    enabled: false
+      #Do you want to import home and player data from another homes' plugin?
+      #To import, set below to one of the supported options listed then restart the server.
+      ##ENSURE THAT BOTH EPICHOMES AND YOUR OLD HOMES PLUGIN ARE BOTH ENABLED BEFORE PROCEEDING!##
+      #Next, run the command `/importhomes` either in game or from the console. (Permission: 'epichomes.command.import')
+      #If no errors are reported the import process should be completed then you are safe to remove or disable the previous homes' plugin.
+      #current-supported-plugins:
+      #- StormerHomes
+      #- StormerHomesReloaded
+      #- EssentialsX
+    import-from: EssentialsX
+
+  show-auto-save-task-message:
+    #Do you want to see notifications in console when the auto-save task runs? [Default value: true]
+    enabled: true
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+
+gui-system:
+  use-global-gui:
+    #Do you want to use the gui system to allow players to view and select their homes? [Default value: true]
+    enabled: true
+#----------------------------------------------------------------------------#
+  home-list-gui:
+    #What title do you want the GUI to have? [Default value: &d&nYour Homes:]
+    title: "&d&nYour Homes:"
+
+    icons:
+      #What material do you want the home item to be represented by? [Default value: RED_BED]
+      #Use Bukkit material names only! (https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html)
+      home-material: RED_BED
+      #What name do you want the home item to be? [Default value: &6%HOME%]
+      display-name: "&6%HOME%"
+      #Below is the lore for the home item. If you don't want to show the player the home location values, simply
+      #remove the lines below that contain the values inside the '%%' symbols.
+      lore:
+        - "&3<============>"
+        - "&6Home Word: &a%LOCATION-WORLD%"
+        - "&6Home X: &a%LOCATION-X%"
+        - "&6Home Y: &a%LOCATION-Y%"
+        - "&6Home Z: &a%LOCATION-Z%"
+        - "&3<============>"
+        - "&e&oLeft click me to travel here"
+        - "&7------------"
+        - "&c&oRight click me to delete this home"
+        - "&3<============>"
+#----------------------------------------------------------------------------#
+  delete-list-gui:
+    #What title do you want the GUI to have? [Default value: &d&nYour Homes:]
+    title: "&d&nSelect Home To Delete"
+
+    icons:
+      #What material do you want the home item to be represented by? [Default value: RED_BED]
+      #Use Bukkit material names only! (https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html)
+      home-material: RED_BED
+      #What name do you want the home item to be? [Default value: &6%HOME%]
+      display-name: "&6%HOME%"
+      #Below is the lore for the home item. If you don't want to show the player the home location values, simply
+      #remove the lines below that contain the values inside the '%%' symbols.
+      lore:
+        - "&3<============>"
+        - "&6Home Word: &a%LOCATION-WORLD%"
+        - "&6Home X: &a%LOCATION-X%"
+        - "&6Home Y: &a%LOCATION-Y%"
+        - "&6Home Z: &a%LOCATION-Z%"
+        - "&3<============>"
+        - "&e&oLeft click me to delete this home"
+        - "&3<============>"
+
+  #----------------------------------------------------------------------------#
+  delete-single-home-gui:
+    #What title do you want the GUI to have? [Default value: &d&nDelete %HOME%]
+    title: "&d&nDelete %HOME%"
+
+    icons:
+      home-info:
+        #What material do you want the home item to be represented by? [Default value: RED_BED]
+        #Use Bukkit material names only! (https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html)
+        home-material: RED_BED
+        #What name do you want the home item to be? [Default value: &6%HOME%]
+        display-name: "&6%HOME%"
+        #Below is the lore for the home item. If you don't want to show the player the home location values, simply
+        #remove the lines below that contain the values inside the '%%' symbols.
+        lore:
+          - "&3<============>"
+          - "&6Home Word: &a%LOCATION-WORLD%"
+          - "&6Home X: &a%LOCATION-X%"
+          - "&6Home Y: &a%LOCATION-Y%"
+          - "&6Home Z: &a%LOCATION-Z%"
+          - "&3<============>"
+
+      confirm-delete:
+        #What material do you want the confirmation delete item to be represented by? [Default value: TNT]
+        #Use Bukkit material names only! (https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html)
+        material: TNT
+        #What name do you want the confirmation delete item to be? [Default value: &cConfirm]
+        display-name: "&cConfirm"
+        #Below is the lore for the confirmation delete item.
+        lore:
+          - "&3<============>"
+          - "&c&lThis action CANNOT be undone!"
+          - "&3<============>"
+          - "&e&oLeft click me to delete this home"
+          - "&3<============>"
+
+      cancel-delete:
+        #What material do you want the cancel delete item to be represented by? [Default value: BARRIER]
+        #Use Bukkit material names only! (https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html)
+        material: BARRIER
+        #What name do you want the cancel delete item to be? [Default value: &aCancel]
+        display-name: "&aCancel"
+        #Below is the lore for the cancel delete item.
+        lore:
+          - "&3<============>"
+          - "&a&lCancel and close this GUI"
+          - "&3<============>"
+          - "&e&oLeft click me to cancel"
+          - "&3<============>"
+#----------------------------------------------------------------------------#
+  #Menu controls options
+  menu-controls:
+    #The name of the previous page icon
+    previous-page-icon-name: "&2Previous Page"
+    #The name of the next page icon
+    next-page-icon-name: "&2Next Page"
+    #The name of the close/go back icon
+    close-go-back-icon-name: "&4Close/Go Back"
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+
+#EpicHomes update system
+plugin-update-notifications:
+  #Do you want to enable in game plugin update notifications? (Permission:'epichomes.update'). [Default value: true]
+  enabled: true

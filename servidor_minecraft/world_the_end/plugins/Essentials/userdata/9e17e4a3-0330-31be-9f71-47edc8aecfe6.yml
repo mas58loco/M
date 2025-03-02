@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 200.219.53.26
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727576639778
+  login: 1727576618666
+money: '0'
+last-account-name: SATCraft4
+lastlocation:
+  world: 4cac5ad4-e878-4976-b087-07d8ba3c786e
+  world-name: lobby
+  x: 48.553493
+  y: 94.0
+  z: 100.82803
+  yaw: 2.614166259765625
+  pitch: 13.70965576171875
+logoutlocation:
+  world: 4cac5ad4-e878-4976-b087-07d8ba3c786e
+  world-name: lobby
+  x: 46.353233
+  y: 91.5
+  z: 207.98453
+  yaw: 0.14727783203125
+  pitch: 10.905441284179688

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.190.91.39
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727583475532
+  login: 1727581209349
+money: '0'
+last-account-name: DarkexGame
+lastlocation:
+  world: 4cac5ad4-e878-4976-b087-07d8ba3c786e
+  world-name: lobby
+  x: 48.553493
+  y: 94.0
+  z: 100.82803
+  yaw: 2.614166259765625
+  pitch: 13.70965576171875
+logoutlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: -227.57161635342732
+  y: 67.0
+  z: 4998.382472557014
+  yaw: 139.78903198242188
+  pitch: 52.447330474853516

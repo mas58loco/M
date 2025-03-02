@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 149.40.58.151
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727481549328
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727481906594
+  login: 1727478102496
+money: '0'
+last-account-name: Servidor
+lastlocation:
+  world: 4cac5ad4-e878-4976-b087-07d8ba3c786e
+  world-name: lobby
+  x: -21.76531553170096
+  y: 95.11638252848152
+  z: 125.64041754751237
+  yaw: -159.78041076660156
+  pitch: 30.269575119018555
+logoutlocation:
+  world: 958a0976-f033-44d0-9f6c-adda5f5074df
+  world-name: dragon
+  x: 217.9717980515329
+  y: 87.1110178067728
+  z: -205.80298183127871
+  yaw: 114.95709228515625
+  pitch: 28.6500186920166
+past-usernames:
+- servidor

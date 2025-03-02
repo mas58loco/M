@@ -1,0 +1,10 @@
+name: TakanaDestroyer
+kits:
+  KITINICIAL:
+    cooldown: 1727497354730
+    one_time: false
+    bought: false
+  KITVIP:
+    cooldown: 1728181537531
+    one_time: false
+    bought: false

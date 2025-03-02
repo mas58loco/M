@@ -1,0 +1,54 @@
+LicenseKey: 0UST-XD8L-QSS4-SA0S
+
+worldedit_item_name: "&e&l&kX &6WorldEdit Pickaxe &e&l&kX"
+worldedit_item_lore:
+  - "&7Use command &e/pwe help &7for help!"
+  - ""
+  - "&7Max distance: &e80"
+  - "&7Max blocks: &e500"
+  - ""
+  - "&eNumber of uses: &6%usage%"
+worldedit_item_type: "DIAMOND_PICKAXE"
+pos1_set: "Position1 set to &e%pos%"
+pos2_set: "Position2 set to &e%pos%"
+
+block_not_found: "Block was not found!"
+location_not_found: "Position nou found!"
+location_not_in_same_world: "The positions are not in the same world!"
+
+prefix: "&cPlayerWorldEdit &8&l» &7"
+
+max_distance: 80
+max_blocks: 500
+cooldown: 5
+usage_when_destroying: 2
+
+
+cooldown_message: "Wait &e%time%&7 seconds before you use the command again!"
+too_many_blocks: "Too many blocks! (Max 500). Current number of blocks: %count%"
+too_large_distance: "Maximum distance is 80 blocks!"
+not_enough_blocks: "Not enough blocks! Current number required: %count%"
+pos_not_set: "One of the positions is not set!"
+not_holding_worldedit_item: "you're not holding the WorldEdit Pickaxe!"
+success: "Successfully launched worldedit!"
+
+bedrock_in_area: "In the marked zone is bedrock!"
+no_permission_in_res: "You have no right in this residence!"
+no_permission_in_wg: "You have no right in this worldguard region!"
+no_permission: "You have no permission!"
+world_disabled: "Usage in this world is not allowed!"
+
+help_message:
+  - "§7§m----------------------------------------"
+  - "§6/pwe help §7- §fShows help"
+  - "§6/pwe set <block> §7- §fSets blocks"
+  - "§7§m----------------------------------------"
+
+player_not_found: "Player not found!"
+command_usage: "Use command &e/pwe help &7for help!"
+worldedit_item_given: "Item was successfully added to player %player%"
+player_not_online: "Player is not online!"
+
+blocked_worlds:
+  - "new_spawn"
+  - "Event"

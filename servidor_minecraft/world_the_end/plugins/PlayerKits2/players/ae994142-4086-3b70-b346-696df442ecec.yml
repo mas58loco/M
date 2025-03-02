@@ -1,0 +1,10 @@
+name: kzls__
+kits:
+  KITINICIAL:
+    cooldown: 1727582550512
+    one_time: false
+    bought: false
+  PROTECCION_INICIAL:
+    cooldown: 1730171851283
+    one_time: false
+    bought: false

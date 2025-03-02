@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 45.232.95.96
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727577776023
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727578326668
+  login: 1727577368122
+money: '0'
+last-account-name: ilovepucca
+lastlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: -88.69999998807907
+  y: -16.0
+  z: -893.3000000119209
+  yaw: 171.91261291503906
+  pitch: 45.95560073852539
+logoutlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 1055.1335414177272
+  y: 79.0
+  z: 2881.734443924591
+  yaw: 59.6142578125
+  pitch: 38.279483795166016

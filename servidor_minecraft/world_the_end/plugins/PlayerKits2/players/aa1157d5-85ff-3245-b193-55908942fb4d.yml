@@ -1,0 +1,10 @@
+name: lasumc
+kits:
+  PROTECCION_INICIAL:
+    cooldown: 1730171239233
+    one_time: false
+    bought: false
+  KITINICIAL:
+    cooldown: 1727581940423
+    one_time: false
+    bought: false

@@ -1,1 +1,18 @@
 name: mas_58_loco
+kits:
+  Estrella:
+    cooldown: 1738031493703
+    one_time: false
+    bought: false
+  Cometa:
+    cooldown: 1738032020367
+    one_time: false
+    bought: false
+  '16':
+    cooldown: 1737949223267
+    one_time: false
+    bought: false
+  Inicial:
+    cooldown: 1738032024658
+    one_time: false
+    bought: false

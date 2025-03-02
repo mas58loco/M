@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 190.103.29.253
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727582989832
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727580779778
+  login: 1727576599820
+  kits:
+    usuario: 0
+money: '90000.0'
+last-account-name: Andreselpro5000
+lastlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: -999.6999999880791
+  y: -27.0
+  z: 191.06571122947832
+  yaw: 116.06570434570312
+  pitch: 33.63446807861328
+logoutlocation:
+  world: 4cac5ad4-e878-4976-b087-07d8ba3c786e
+  world-name: lobby
+  x: 46.609835832154346
+  y: 94.0625
+  z: 142.1078820063927
+  yaw: 178.770263671875
+  pitch: 20.669647216796875
+nickname: Andreselpro5000

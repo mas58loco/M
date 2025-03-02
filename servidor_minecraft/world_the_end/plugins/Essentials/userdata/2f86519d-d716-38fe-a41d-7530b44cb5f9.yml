@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 38.250.158.155
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727574315501
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727579436972
+  login: 1727575975063
+money: '0'
+last-account-name: TakanaDestroyer
+logoutlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: -2177.2910186597164
+  y: 75.0
+  z: 5000.237500011921
+  yaw: -124.65048217773438
+  pitch: 29.10001564025879
+lastlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 981.3895632141866
+  y: 73.0
+  z: 1916.6203905528023
+  yaw: -3.6671142578125
+  pitch: 28.500011444091797

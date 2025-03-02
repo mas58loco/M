@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.137.37.70
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727554305548
+  login: 1727553816792
+money: '0'
+last-account-name: _Arc_Shimilko
+lastlocation:
+  world: f934269f-21b8-495a-8822-ba9f219a07db
+  world-name: world
+  x: 16.0
+  y: 77.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 805.56635
+  y: 76.0
+  z: 2979.4978
+  yaw: 4.1367340087890625
+  pitch: 50.421478271484375
+past-usernames:
+- Arc_Shimilko

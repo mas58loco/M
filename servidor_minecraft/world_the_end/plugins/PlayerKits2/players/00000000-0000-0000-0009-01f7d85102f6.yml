@@ -1,0 +1,10 @@
+name: _BOMF15
+kits:
+  KITINICIAL:
+    cooldown: 1727579306877
+    one_time: false
+    bought: false
+  PROTECCION_INICIAL:
+    cooldown: 1730168613000
+    one_time: false
+    bought: false

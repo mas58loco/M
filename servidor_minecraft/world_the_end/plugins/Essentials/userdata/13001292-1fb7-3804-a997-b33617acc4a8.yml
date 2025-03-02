@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 189.217.195.83
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727582132220
+  login: 1727578263549
+money: '0'
+last-account-name: Viloori
+lastlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 864.7798759748122
+  y: -6.0
+  z: 621.3000000119209
+  yaw: -42.013580322265625
+  pitch: -2.0999503135681152
+logoutlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: -222.34242503999656
+  y: -15.0
+  z: -997.3000000119209
+  yaw: -6.5775146484375
+  pitch: 33.58441162109375

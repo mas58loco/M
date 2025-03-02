@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 177.245.44.11
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727241258824
+  login: 1727239689125
+money: '0'
+last-account-name: Blinknx6017
+logoutlocation:
+  world: 8abc6f94-c14c-4892-be1a-b0fb7c2e3cc5
+  world-name: lobby1
+  x: 12.242092
+  y: 65.0
+  z: 0.41290882
+  yaw: 101.23565673828125
+  pitch: 18.371246337890625

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 38.250.131.34
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727582285632
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727581768178
+  login: 1727581771007
+money: '0'
+last-account-name: kzls__
+lastlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 4142.698497070897
+  y: 13.0
+  z: 3994.699999988079
+  yaw: 69.77188873291016
+  pitch: 44.100013732910156
+logoutlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 4017.836901225232
+  y: 68.0
+  z: 3922.8359036841603
+  yaw: 109.06884765625
+  pitch: 9.600205421447754

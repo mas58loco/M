@@ -1,0 +1,13 @@
+homes:
+- '1'
+- '2'
+'1':
+  world: lobby
+  x: 49
+  y: 94
+  z: 103
+'2':
+  world: lobby
+  x: 47
+  y: 94
+  z: 115

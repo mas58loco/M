@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 181.209.120.141
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727582848430
+  login: 1727580859538
+money: '0'
+last-account-name: _PrayedCapibarar
+lastlocation:
+  world: 4cac5ad4-e878-4976-b087-07d8ba3c786e
+  world-name: lobby
+  x: 48.553493
+  y: 94.0
+  z: 100.82803
+  yaw: 2.614166259765625
+  pitch: 13.70965576171875
+logoutlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 34.637497
+  y: 12.0
+  z: 2778.9731
+  yaw: 159.28060913085938
+  pitch: 48.456695556640625

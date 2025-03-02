@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 45.161.181.12
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727583150574
+  login: 1727582608665
+money: '0'
+last-account-name: _Ema20043591
+lastlocation:
+  world: 4cac5ad4-e878-4976-b087-07d8ba3c786e
+  world-name: lobby
+  x: 48.553493
+  y: 94.0
+  z: 100.82803
+  yaw: 2.614166259765625
+  pitch: 13.70965576171875
+logoutlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 996.98047
+  y: 106.0
+  z: 2917.4736
+  yaw: -138.5288848876953
+  pitch: 35.102020263671875

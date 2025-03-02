@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 200.219.53.26
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727577207366
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727578581919
+  login: 1727578158781
+money: '0'
+last-account-name: _SATCraft4
+lastlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 268.10706
+  y: 187.0
+  z: 135.7515
+  yaw: 158.30453491210938
+  pitch: 23.27532958984375
+logoutlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 1857.7496
+  y: 70.0
+  z: 2835.0461
+  yaw: -96.47308349609375
+  pitch: -11.871307373046875

@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 100.86.4.53
+ip-address: 186.102.101.113
 afk: false
 socialspy: false
 npc: false
@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1736187383382
+  lastteleport: 1737972341956
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740886305981
-  login: 1740928308883
-money: '495.0'
+  logout: 1738004347545
+  login: 1738003222052
+money: '9999994.0'
 last-account-name: mas_58_loco
 lastlocation:
-  world: a1d1ad45-9b8c-48eb-acac-5cf2c56f9373
-  world-name: world
-  x: 93.30000001192093
-  y: 66.0
-  z: -114.61867915976362
-  yaw: 78.73014068603516
-  pitch: 36.00027847290039
+  world: 75740612-7402-4a48-8f37-d2844ff36ceb
+  world-name: Survival
+  x: -6362.053683583946
+  y: 54.0
+  z: -3455.376569759865
+  yaw: -97.65198516845703
+  pitch: 23.849512100219727
 logoutlocation:
-  world: 188d3430-cc3d-460f-99eb-bcbf7bf29edc
-  world-name: world
-  x: -7.566400129163405
+  world: 75740612-7402-4a48-8f37-d2844ff36ceb
+  world-name: Survival
+  x: -6350.044185237373
   y: 63.0
-  z: 77.69999998807907
-  yaw: -50.550498962402344
-  pitch: 38.7000732421875
+  z: -3430.342147347858
+  yaw: 16.4578857421875
+  pitch: 72.69938659667969

@@ -1,0 +1,22 @@
+name: _VittoMilo
+kits:
+  food:
+    cooldown: 1737952663070
+    one_time: false
+    bought: false
+  Inicial:
+    cooldown: 1738035468746
+    one_time: false
+    bought: false
+  '16':
+    cooldown: 1737975305708
+    one_time: false
+    bought: false
+  Deidad:
+    cooldown: 1738313609410
+    one_time: false
+    bought: false
+  Supernova:
+    cooldown: 1738229116144
+    one_time: false
+    bought: false

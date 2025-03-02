@@ -1,0 +1,7 @@
+homes:
+- reset en 20 seg
+reset en 20 seg:
+  world: lobby
+  x: 53
+  y: 94
+  z: 107

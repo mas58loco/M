@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 181.94.228.152
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727577925786
+  login: 1727576461966
+money: '0'
+last-account-name: _OmgYamelMC
+lastlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 999.4544
+  y: 94.0
+  z: 2932.5576
+  yaw: -33.66990661621094
+  pitch: -1.6738433837890625
+logoutlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 357.70334
+  y: 71.0
+  z: 373.41473
+  yaw: -99.38944244384766
+  pitch: 3.629150390625

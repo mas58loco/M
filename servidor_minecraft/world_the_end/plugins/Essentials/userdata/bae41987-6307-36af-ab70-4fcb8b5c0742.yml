@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 167.249.46.94
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727489635862
+  login: 1727489609859
+money: '0'
+last-account-name: BarcoMc40
+lastlocation:
+  world: 4cac5ad4-e878-4976-b087-07d8ba3c786e
+  world-name: lobby
+  x: 51.30703
+  y: 91.0
+  z: 83.39071
+  yaw: -16.7041015625
+  pitch: -38.947601318359375
+logoutlocation:
+  world: 4cac5ad4-e878-4976-b087-07d8ba3c786e
+  world-name: lobby
+  x: 48.490643
+  y: 93.0
+  z: 75.55234
+  yaw: -0.032989501953125
+  pitch: -14.7271728515625

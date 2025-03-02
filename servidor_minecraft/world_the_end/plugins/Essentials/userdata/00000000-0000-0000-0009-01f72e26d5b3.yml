@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 177.227.58.230
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727577409674
+  login: 1727577271130
+money: '0'
+last-account-name: _MozartXD2760
+lastlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 814.63354
+  y: 76.0
+  z: 2971.3337
+  yaw: -89.219970703125
+  pitch: -1.065673828125
+logoutlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 94.374756
+  y: 132.0
+  z: 525.84875
+  yaw: -176.47412109375
+  pitch: 18.751724243164062

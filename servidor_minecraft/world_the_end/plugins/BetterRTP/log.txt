@@ -1,0 +1,106 @@
+2024-09-28 22:09:00 [INFO]: Loading Overrides...
+2024-09-28 22:09:00 [WARNING]: The world `world` doesn't seem to exist! Please update `master_world's` override! Maybe there are capital letters?
+2024-09-28 22:09:00 [WARNING]: The world `world` doesn't seem to exist! Please update `creative_world's` override! Maybe there are capital letters?
+2024-09-28 22:09:00 [INFO]: Loading World Types...
+2024-09-28 22:09:00 [INFO]: - World Type for 'world' set to 'NORMAL'
+2024-09-28 22:09:00 [INFO]: - World Type for 'world_nether' set to 'NETHER'
+2024-09-28 22:09:00 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
+2024-09-28 22:09:00 [INFO]: Loading Defaults...
+2024-09-28 22:09:00 [INFO]: Loading Custom Worlds...
+2024-09-28 22:09:00 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
+2024-09-28 22:09:00 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
+2024-09-28 22:09:00 [INFO]: Loading Permission Groups...
+2024-09-28 22:09:00 [INFO]: - Permission Group: vip
+2024-09-28 22:09:00 [INFO]: - -- World: Build_World
+2024-09-28 22:09:00 [INFO]: - - The Permission Group 'vip's world 'Build_World' does not exist! Permission Group not loaded...
+2024-09-28 22:09:00 [INFO]: - -- World: Survival_World
+2024-09-28 22:09:00 [INFO]: - - The Permission Group 'vip's world 'Survival_World' does not exist! Permission Group not loaded...
+2024-09-28 22:09:00 [INFO]: - Permission Group: vip2
+2024-09-28 22:09:00 [INFO]: - -- World: Build_World
+2024-09-28 22:09:00 [INFO]: - - The Permission Group 'vip2's world 'Build_World' does not exist! Permission Group not loaded...
+2024-09-28 22:09:00 [SEVERE]: The particle 'EXPLOSION_NORMAL' created a fatal error when loading particles! Your MC version isn't supported!
+2024-09-28 22:09:09 [INFO]: Database QUEUE:Queue configured and loaded!
+2024-09-28 22:09:09 [INFO]: Database PLAYERS:Players configured and loaded!
+2024-09-28 22:09:09 [INFO]: Database COOLDOWN:lobby configured and loaded!
+2024-09-28 22:09:09 [INFO]: Database COOLDOWN:lobby_the_end configured and loaded!
+2024-09-28 22:09:09 [INFO]: Database COOLDOWN:p1 configured and loaded!
+2024-09-28 22:09:09 [INFO]: Database COOLDOWN:arbol configured and loaded!
+2024-09-28 22:09:09 [INFO]: Database COOLDOWN:mundo configured and loaded!
+2024-09-28 22:09:09 [INFO]: Database COOLDOWN:survival configured and loaded!
+2024-09-28 22:09:09 [INFO]: Database COOLDOWN:eventos configured and loaded!
+2024-09-28 22:09:09 [INFO]: Database COOLDOWN:dragon configured and loaded!
+2024-09-28 22:09:09 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
+2024-09-28 22:09:09 [INFO]: Database COOLDOWN:creativo configured and loaded!
+2024-09-28 22:09:09 [INFO]: Database COOLDOWN:Spawn configured and loaded!
+2024-09-28 22:09:09 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
+2024-09-28 22:09:09 [INFO]: Attempting to queue up some more safe locations...
+2024-09-28 22:09:10 [INFO]: Queueing paused, max queue limit reached!
+2024-09-28 22:27:14 [WARNING]: Seems like the world `survival` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- survival: NETHER`
+2024-09-28 22:27:19 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=209.5,y=189.0,z=137.5,pitch=-8.29028,yaw=-23.154572}
+2024-09-28 22:27:51 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-950.5,y=107.0,z=-708.5,pitch=-0.3000946,yaw=-81.61113}
+2024-09-28 22:28:08 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=304.5,y=146.0,z=161.5,pitch=86.4834,yaw=-163.03854}
+2024-09-28 22:28:43 [WARNING]: Seems like the world `lobby` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- lobby: NETHER`
+2024-09-28 22:29:17 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=51.5,y=125.0,z=564.5,pitch=-7.4457273,yaw=162.48071}
+2024-09-28 22:29:36 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=307.5,y=121.0,z=419.5,pitch=-1.6738434,yaw=-33.669907}
+2024-09-28 22:29:47 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=451.5,y=121.0,z=-75.5,pitch=16.32164,yaw=12.912537}
+2024-09-28 22:29:56 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-636.5,y=65.0,z=-288.5,pitch=16.104399,yaw=-41.96551}
+2024-09-28 22:30:06 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-112.5,y=96.0,z=775.5,pitch=8.067322,yaw=-86.036}
+2024-09-28 22:30:52 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-623.5,y=91.0,z=430.5,pitch=29.7724,yaw=59.00647}
+2024-09-28 22:31:00 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-315.5,y=121.0,z=927.5,pitch=-14.704285,yaw=104.450714}
+2024-09-28 22:32:19 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-623.5,y=95.0,z=314.5,pitch=11.851028,yaw=-79.10594}
+2024-09-28 22:33:27 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=686.5,y=139.0,z=783.5,pitch=12.810867,yaw=-31.842651}
+2024-09-28 22:34:31 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-126.5,y=63.0,z=-987.5,pitch=41.60254,yaw=-89.3175}
+2024-09-28 22:37:58 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=35.5,y=66.0,z=-691.5,pitch=13.333274,yaw=-52.206833}
+2024-09-28 22:38:41 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-435.5,y=106.0,z=162.5,pitch=20.09903,yaw=-114.445755}
+2024-09-28 22:46:10 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-205.5,y=105.0,z=705.5,pitch=23.45429,yaw=-74.9671}
+2024-09-28 22:46:11 [INFO]: Attempting to queue up some more safe locations...
+2024-09-28 22:46:13 [INFO]: Queue position generated: id= rtp_survival, database_ID= 278, location= x: -651, y: 103, z: 476, world: survival
+2024-09-28 22:46:18 [INFO]: Queue position generated: id= rtp_survival, database_ID= 279, location= x: -932, y: 64, z: -221, world: survival
+2024-09-28 22:46:26 [INFO]: Queue position generated: id= rtp_survival, database_ID= 280, location= x: -140, y: 143, z: 481, world: survival
+2024-09-28 22:46:28 [INFO]: Queue position generated: id= rtp_survival, database_ID= 281, location= x: 326, y: 169, z: 568, world: survival
+2024-09-28 22:46:30 [INFO]: Queue position generated: id= rtp_survival, database_ID= 282, location= x: -574, y: 122, z: 99, world: survival
+2024-09-28 22:46:32 [INFO]: Queue position generated: id= rtp_survival, database_ID= 283, location= x: -790, y: 75, z: -704, world: survival
+2024-09-28 22:46:34 [INFO]: Queue position generated: id= rtp_survival, database_ID= 284, location= x: -672, y: 116, z: 615, world: survival
+2024-09-28 22:46:36 [INFO]: Queue position generated: id= rtp_survival, database_ID= 285, location= x: -833, y: 97, z: 570, world: survival
+2024-09-28 22:46:38 [INFO]: Queue position generated: id= rtp_survival, database_ID= 286, location= x: -279, y: 98, z: -63, world: survival
+2024-09-28 22:46:40 [INFO]: Queue position generated: id= rtp_survival, database_ID= 287, location= x: 70, y: 128, z: 608, world: survival
+2024-09-28 22:46:43 [INFO]: Queue position generated: id= rtp_survival, database_ID= 288, location= x: -123, y: 71, z: -928, world: survival
+2024-09-28 22:46:45 [INFO]: Queue position generated: id= rtp_survival, database_ID= 289, location= x: -970, y: 127, z: 967, world: survival
+2024-09-28 22:46:47 [INFO]: Queue position generated: id= rtp_survival, database_ID= 290, location= x: -748, y: 79, z: -688, world: survival
+2024-09-28 22:46:49 [INFO]: Queue position generated: id= rtp_survival, database_ID= 291, location= x: -162, y: 119, z: 133, world: survival
+2024-09-28 22:46:51 [INFO]: Queue position generated: id= rtp_survival, database_ID= 292, location= x: -751, y: 106, z: 341, world: survival
+2024-09-28 22:47:02 [INFO]: Queue position generated: id= rtp_survival, database_ID= 293, location= x: 24, y: 101, z: 177, world: survival
+2024-09-28 22:47:08 [INFO]: Queue position generated: id= rtp_survival, database_ID= 294, location= x: 506, y: 208, z: 786, world: survival
+2024-09-28 22:47:14 [INFO]: Queue position generated: id= rtp_survival, database_ID= 295, location= x: 763, y: 200, z: 694, world: survival
+2024-09-28 22:47:16 [INFO]: Queue position generated: id= rtp_survival, database_ID= 296, location= x: -553, y: 101, z: 619, world: survival
+2024-09-28 22:47:18 [INFO]: Queue position generated: id= rtp_survival, database_ID= 297, location= x: -974, y: 142, z: 238, world: survival
+2024-09-28 22:47:21 [INFO]: Queue position generated: id= rtp_survival, database_ID= 298, location= x: -145, y: 124, z: 444, world: survival
+2024-09-28 22:47:23 [INFO]: Queue position generated: id= rtp_survival, database_ID= 299, location= x: -904, y: 152, z: 190, world: survival
+2024-09-28 22:47:26 [INFO]: Queue position generated: id= rtp_survival, database_ID= 300, location= x: -452, y: 45, z: -646, world: survival
+2024-09-28 22:47:39 [INFO]: Queue position generated: id= rtp_survival, database_ID= 301, location= x: -971, y: 66, z: -544, world: survival
+2024-09-28 22:47:40 [INFO]: Queue position generated: id= rtp_survival, database_ID= 302, location= x: -834, y: 72, z: 482, world: survival
+2024-09-28 22:47:47 [INFO]: Queue position generated: id= rtp_survival, database_ID= 303, location= x: 257, y: 101, z: 878, world: survival
+2024-09-28 22:47:54 [INFO]: Queue position generated: id= rtp_survival, database_ID= 304, location= x: -258, y: 95, z: 977, world: survival
+2024-09-28 22:47:56 [INFO]: Queue position generated: id= rtp_survival, database_ID= 305, location= x: -916, y: 94, z: 855, world: survival
+2024-09-28 22:48:02 [INFO]: Queue position generated: id= rtp_survival, database_ID= 306, location= x: -344, y: 70, z: -976, world: survival
+2024-09-28 22:48:04 [INFO]: Max attempts to create a Queue reached for rtp_survival (amount: 30)
+2024-09-28 22:49:48 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-969.5,y=127.0,z=967.5,pitch=8.118578,yaw=83.120186}
+2024-09-28 22:51:26 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-650.5,y=103.0,z=476.5,pitch=18.871435,yaw=-93.09576}
+2024-09-28 22:53:04 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=763.5,y=200.0,z=694.5,pitch=5.1542788,yaw=-100.01699}
+2024-09-28 23:01:11 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-671.5,y=116.0,z=615.5,pitch=-10.295583,yaw=-91.76706}
+2024-09-28 23:01:30 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-161.5,y=119.0,z=133.5,pitch=31.74219,yaw=-96.74774}
+2024-09-28 23:04:02 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-915.5,y=94.0,z=855.5,pitch=10.285141,yaw=-91.24388}
+2024-09-28 23:05:04 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=257.5,y=101.0,z=878.5,pitch=18.028488,yaw=117.70184}
+2024-09-28 23:07:28 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-573.5,y=122.0,z=99.5,pitch=13.40428,yaw=-114.56706}
+2024-09-28 23:20:09 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-139.5,y=143.0,z=481.5,pitch=5.905879,yaw=-93.65356}
+2024-09-28 23:24:30 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-973.5,y=142.0,z=238.5,pitch=9.88945,yaw=78.43442}
+2024-09-28 23:32:19 [WARNING]: Seems like the world `creativo` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- creativo: NETHER`
+2024-09-28 23:33:46 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-833.5,y=72.0,z=482.5,pitch=20.454292,yaw=-126.27063}
+2024-09-28 23:39:11 [INFO]: -Removed a queue Location{world=CraftWorld{name=lobby},x=-109.5,y=88.0,z=150.5,pitch=9.149988,yaw=150.36386}
+2024-09-28 23:39:38 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=24.5,y=101.0,z=177.5,pitch=7.704282,yaw=-86.21703}
+2024-09-28 23:43:13 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-343.5,y=70.0,z=-975.5,pitch=-2.0999503,yaw=-42.01358}
+2024-09-28 23:47:48 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=10.5,y=117.0,z=616.5,pitch=24.800354,yaw=10.651245}
+2024-09-28 23:50:02 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-451.5,y=45.0,z=-645.5,pitch=46.691223,yaw=109.67999}
+2024-09-28 23:54:08 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-144.5,y=124.0,z=444.5,pitch=26.365885,yaw=-73.76581}
+2024-09-28 23:58:38 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-832.5,y=97.0,z=570.5,pitch=13.349979,yaw=-67.476746}
+2024-09-29 00:17:20 [INFO]: -Removed a queue Location{world=CraftWorld{name=survival},x=-122.5,y=71.0,z=-927.5,pitch=24.430859,yaw=1.3446064}

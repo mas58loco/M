@@ -1,0 +1,50 @@
+[2025/01/09 11:40:54]: §9          __             _       
+[2025/01/09 11:40:54]: §9  _ __   / /  ___   __ _(_)_ __  
+[2025/01/09 11:40:54]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2025/01/09 11:40:54]: §9 | | | / /__| (_) | (_| | | | | |
+[2025/01/09 11:40:54]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2025/01/09 11:40:54]: §9                  |___/            
+[2025/01/09 11:40:54]: §9 By: www.nickuc.com - V 10.4.18 DEVELOPMENT
+[2025/01/09 11:40:54]: §9 
+[2025/01/09 11:40:55]: §3[nLogin] [DEBUG] All settings were loaded in 69 ms.
+[2025/01/09 11:40:55]: §3[nLogin] [DEBUG] Loading the messages_es.yml message file...
+[2025/01/09 11:40:55]: §3[nLogin] [DEBUG] All plugin messages were loaded in 69 ms (languageByClient=false).
+[2025/01/09 11:40:55]: §3[nLogin] [DEBUG] All proxy settings were loaded in 0 ms.
+[2025/01/09 11:40:55]: §3[nLogin] [DEBUG] Loading database...
+[2025/01/09 11:40:55]: §3[nLogin] [DEBUG] Starting logger filter...
+[2025/01/09 11:41:54]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'mas_58_loco', `unique_id` = b3beefaa3e3f32cca98da6e365f4fed6,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$B0Zj36xmFq7LwN32lS.qWOGNrlrrJMnPtFshiHgmKjj1kfCeVtraa', `last_ip` = '68.235.46.72', `creation_date` = 2025-01-07 14:43:02.246, `last_seen` = 2025-01-09 11:41:54.634, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":{"block-tries-68.235.46.72":{"expires-on":1736441291755,"value":1}},"key":"temporary"},{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/01/09 11:41:54]: §4[nLogin] [ERROR] §cUnexpected error during sending plugin message via ProtocolLib
+java.lang.ExceptionInInitializerError
+	at com.comphenix.protocol.wrappers.CustomPacketPayloadWrapper.<clinit>(CustomPacketPayloadWrapper.java:93)
+	at com.comphenix.protocol.events.AbstractStructure.getCustomPacketPayloads(AbstractStructure.java:978)
+	at com.nickuc.login.πιμΦζΩτχβΦγυξΛ.a(:123)
+	at com.nickuc.login.ξπξξςκγχ.b(:75)
+	at com.nickuc.login.ξπξξςκγχ.a(:123)
+	at com.nickuc.login.γδδΛζΨφδΠΛ.a(:71)
+	at com.nickuc.login.ςτΩΦπρηΩΓ.a(:100)
+	at com.nickuc.login.ςτΩΦπρηΩΓ.a(:114)
+	at com.nickuc.login.ξΩνεξτεθΩΓυςπΩε.a(:83)
+	at com.nickuc.login.ξξοηλξνΨ.b(:92)
+	at com.nickuc.login.ΨπξΣευΣΠγςτ.d(:118)
+	at org.bukkit.craftbukkit.v1_21_R1.scheduler.CraftTask.run(CraftTask.java:82)
+	at org.bukkit.craftbukkit.v1_21_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.IllegalArgumentException: Unable to find a method that matches {modifiers=[required: 0, banned: 1000], return={ type exactly class net.minecraft.resources.MinecraftKey }, paramCount=0}
+	at com.comphenix.protocol.reflect.FuzzyReflection.getMethod(FuzzyReflection.java:193)
+	at com.comphenix.protocol.wrappers.CustomPacketPayloadWrapper.<clinit>(CustomPacketPayloadWrapper.java:58)
+	... 15 more
+[2025/01/09 11:41:54]: [nLogin] The user mas_58_loco has successfully logged in.
+[2025/01/09 11:43:22]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'mas_58_loco', `unique_id` = b3beefaa3e3f32cca98da6e365f4fed6,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$B0Zj36xmFq7LwN32lS.qWOGNrlrrJMnPtFshiHgmKjj1kfCeVtraa', `last_ip` = '68.235.46.72', `creation_date` = 2025-01-07 14:43:02.246, `last_seen` = 2025-01-09 11:43:22.393, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":{"block-tries-68.235.46.72":{"expires-on":1736441291755,"value":1}},"key":"temporary"},{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2025/01/09 21:42:48]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'mas_58_loco', `unique_id` = b3beefaa3e3f32cca98da6e365f4fed6,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$B0Zj36xmFq7LwN32lS.qWOGNrlrrJMnPtFshiHgmKjj1kfCeVtraa', `last_ip` = '68.235.46.72', `creation_date` = 2025-01-07 14:43:02.246, `last_seen` = 2025-01-09 11:43:22.393, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [settings] columns)
+[2025/01/09 21:44:19]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'mas_58_loco', `unique_id` = b3beefaa3e3f32cca98da6e365f4fed6,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$B0Zj36xmFq7LwN32lS.qWOGNrlrrJMnPtFshiHgmKjj1kfCeVtraa', `last_ip` = '149.88.104.18', `creation_date` = 2025-01-07 14:43:02.246, `last_seen` = 2025-01-09 21:44:19.653, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/01/09 21:44:19]: [nLogin] The user mas_58_loco has successfully logged in.
+[2025/01/09 21:46:42]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'mas_58_loco', `unique_id` = b3beefaa3e3f32cca98da6e365f4fed6,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$B0Zj36xmFq7LwN32lS.qWOGNrlrrJMnPtFshiHgmKjj1kfCeVtraa', `last_ip` = '149.88.104.18', `creation_date` = 2025-01-07 14:43:02.246, `last_seen` = 2025-01-09 21:46:41.992, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2025/01/11 18:28:55]: §3[nLogin] [DEBUG] The mas_58_loco (154.47.16.37) player entered an incorrect password
+[2025/01/11 18:28:55]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'mas_58_loco', `unique_id` = b3beefaa3e3f32cca98da6e365f4fed6,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$B0Zj36xmFq7LwN32lS.qWOGNrlrrJMnPtFshiHgmKjj1kfCeVtraa', `last_ip` = '149.88.104.18', `creation_date` = 2025-01-07 14:43:02.246, `last_seen` = 2025-01-09 21:46:41.992, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":{"block-tries-154.47.16.37":{"expires-on":1736639335691,"value":1}},"key":"temporary"},{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [settings] columns)
+[2025/01/11 18:29:06]: §3[nLogin] [DEBUG] The mas_58_loco (154.47.16.37) player entered an incorrect password
+[2025/01/11 18:29:06]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'mas_58_loco', `unique_id` = b3beefaa3e3f32cca98da6e365f4fed6,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$B0Zj36xmFq7LwN32lS.qWOGNrlrrJMnPtFshiHgmKjj1kfCeVtraa', `last_ip` = '149.88.104.18', `creation_date` = 2025-01-07 14:43:02.246, `last_seen` = 2025-01-09 21:46:41.992, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":{"block-tries-154.47.16.37":{"expires-on":1736639346894,"value":2}},"key":"temporary"},{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [settings] columns)
+[2025/01/11 18:29:15]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'mas_58_loco', `unique_id` = b3beefaa3e3f32cca98da6e365f4fed6,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$B0Zj36xmFq7LwN32lS.qWOGNrlrrJMnPtFshiHgmKjj1kfCeVtraa', `last_ip` = '154.47.16.37', `creation_date` = 2025-01-07 14:43:02.246, `last_seen` = 2025-01-11 18:29:15.648, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":{"block-tries-154.47.16.37":{"expires-on":1736639346894,"value":2}},"key":"temporary"},{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/01/11 18:29:15]: [nLogin] The user mas_58_loco has successfully logged in.
+[2025/01/11 18:35:41]: [nLogin] Successful plugin core shutdown (took 0.00s)

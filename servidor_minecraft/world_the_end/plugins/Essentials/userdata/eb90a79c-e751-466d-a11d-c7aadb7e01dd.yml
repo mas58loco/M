@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 190.103.29.253
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1726830366240
+  login: 1726830189692
+money: '0'
+last-account-name: Andreselpro5000
+logoutlocation:
+  world: 140bd52a-227f-490f-897c-1f8a13e553a1
+  world-name: Spawn
+  x: 2935.1511000677883
+  y: 209.0
+  z: 756.8653907002033
+  yaw: 111.20503234863281
+  pitch: -16.949981689453125
+lastlocation:
+  world: f934269f-21b8-495a-8822-ba9f219a07db
+  world-name: world
+  x: 16.0
+  y: 77.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0

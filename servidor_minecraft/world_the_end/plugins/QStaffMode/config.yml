@@ -1,0 +1,47 @@
+# The scoreboard is enabled.
+scoreboard: true
+# This is a command without the "/" that will be executed when a player disconnected while frozen.
+frozenDisconnect: say <player> disconnected frozen!
+# This will let a player use the random tp item, and teleport to a player who is on another world.
+randomTpMultiworld: true
+# Quantity of impulse that the navigator gives to the player.
+navigatorImpulse: 3.0
+# If not, no one will be able to use staff-chat.
+staffChatEnabled: true
+# If not, the player won't keep flying when disabled the staff-mode.
+keepFlyingWhenDisableStaffMode: true
+# When entering the server, the player will automatically enter in staff-mode.
+autoStaffModeOnJoin: false
+# Enabling or disabling all options (vanish, staff-chat...) depending on the state of the player
+# when leaving last time.
+autoEnableBySavedInfo: true
+# It won't be possible to throw items when the player is frozen.
+dropItemsWhileFrozen: true
+# It won't be possible to move items in the inventory when the player is frozen.
+moveInventoryWhileFrozen: true
+# The player will be teleported to the position where he enabled staff-mode when quitting it.
+teleportToInitialPosWhenDisabling: true
+# If the player is vanished, the chest will not do animation or sound.
+chestSoundCancel: true
+# If /chat lock is enabled.
+chatLock: true
+# If /chat slowmode is enabled.
+slowmode: true
+# Time in seconds to have permission for talking.
+slowmodeCooldown: 3
+# A message wil be broadcast when a player enters/quits staff-mode
+bcStaffMode: true
+# A message is shown on the action bar when vanishing
+actionbarWhenVanish: true
+# If it is true, the player's gamemode will change to creative when enabling staff-mode.
+creativeOnStaffmode: false
+# When clicking the tp item, it opens a menu with 2 options: random teleport to any player or opening
+# a menu with all the players in the mining layers.
+tpMenu: true
+# These layers are used for checking to all the players in them, for displaying the menu of the tp item.
+miningLayers: 10,11,12,13,14
+# When entering staffmode, you will receive night vision effect.
+nightVision: true
+# When freezing someone, it will change it's helmet by an item.
+freezeHelmetChange: true
+freezeHelmetID: ICE

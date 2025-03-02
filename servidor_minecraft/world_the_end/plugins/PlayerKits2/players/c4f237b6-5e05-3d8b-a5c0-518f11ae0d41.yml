@@ -1,0 +1,10 @@
+name: CrbGiuly
+kits:
+  KITINICIAL:
+    cooldown: 1727579584831
+    one_time: false
+    bought: false
+  PROTECCION_INICIAL:
+    cooldown: 1730168887289
+    one_time: false
+    bought: false

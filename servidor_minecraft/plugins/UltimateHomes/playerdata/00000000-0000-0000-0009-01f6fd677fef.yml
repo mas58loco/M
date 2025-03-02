@@ -1,0 +1,11 @@
+player:
+  info:
+    lastSeenAs: _VittoMilo
+homes:
+  c1:
+    x: -6361
+    y: 54
+    z: -3454
+    yaw: 118.30084
+    pitch: 28.781204
+    world: Survival

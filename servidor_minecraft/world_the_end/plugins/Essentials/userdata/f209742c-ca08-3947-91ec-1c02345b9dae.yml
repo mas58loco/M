@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 186.108.125.11
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727559712972
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727573319759
+  login: 1727573098012
+money: '0'
+last-account-name: Richuus3109
+lastlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 980.48126
+  y: 85.0
+  z: 2922.781
+  yaw: 117.446044921875
+  pitch: 24.858123779296875
+logoutlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: -229.5
+  y: 88.0
+  z: 805.5
+  yaw: 117.446044921875
+  pitch: 24.858123779296875

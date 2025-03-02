@@ -1,0 +1,57 @@
+cooldown: 2592000
+one_time: false
+auto_armor: false
+permission_required: false
+save_original_items: true
+display:
+  default:
+    id: COAL_ORE
+    name: '&a&m<---&b 16 Radius Protection Block &a&m--->'
+    amount: 1
+    lore:
+    - '&6 Nobody''s going to touch my stuff!'
+  no_permission:
+    id: BARRIER
+    name: '&c&l%kit_name% &cKit'
+    amount: 1
+    lore:
+    - '&cYou don''t have permissions to claim'
+    - '&cthis kit.'
+  cooldown:
+    id: STONE_SWORD
+    name: '&c&l%kit_name% &cKit'
+    amount: 1
+    lore:
+    - '&cYou need to wait &7%time%'
+    - '&cto claim this kit again.'
+    item_flags:
+    - HIDE_ATTRIBUTES
+items:
+  '1':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: COAL_ORE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"","extra":[{"text":"<---","obfuscated":false,"italic":false,"underlined":false,"strikethrough":true,"color":"green","bold":false},{"text":"
+          16 Radius Protection Block ","italic":false,"color":"aqua"},{"text":"--->","italic":false,"strikethrough":true,"color":"green"}]}'
+        lore:
+        - '{"text":"","extra":[{"text":" Nobody''s going to touch my stuff!","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+        PublicBukkitValues: |-
+          {
+              "protectionstones:ispsblock": 1b
+          }
+    preview_slot: 0
+actions:
+  claim:
+    '1':
+      action: 'playsound: BLOCK_NOTE_BLOCK_PLING;10;2'
+      execute_before_items: false
+      count_as_item: false
+  error:
+    '1':
+      action: 'playsound: BLOCK_NOTE_BLOCK_PLING;10;0.1'
+      execute_before_items: false
+      count_as_item: false

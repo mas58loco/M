@@ -1,0 +1,4 @@
+reglas_server:
+command: /reglas
+  type: TEXT
+  text: reglas:no matar 

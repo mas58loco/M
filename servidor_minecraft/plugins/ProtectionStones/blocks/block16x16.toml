@@ -5,7 +5,7 @@
 # To use custom player heads, you need the base64 value of the head. On minecraft-heads.com, you will find this value in the Other section under "Value:".
 # To use UUIDs for player heads, go to https://sessionserver.mojang.com/session/minecraft/profile/PUT-UUID-HERE and copy the value from the "value" field not including quotes.
 # When you have the value, you can set the type to "PLAYER_HEAD:value"
-type = "coal_ore"
+type = "COAL_ORE"
 
 # Another way to refer to the protection stone
 # Can be used for /ps give and /ps get
@@ -14,7 +14,7 @@ alias = "16"
 
 # Description of the protection block type
 # Shows up in /ps get menu
-description = "Este bloque cubre un radio de 16x16."
+description = " Block de protección radio 16x16."
 
 # Whether or not to restrict obtaining of the protection stone to only /ps get and /ps give and custom crafting recipes.
 # Other ways to obtain this block (ex. mining) will not work as a protection stone.
@@ -150,13 +150,13 @@ placing_bypasses_wg_passthrough = true
     # Name given to protection block when obtained with /ps give or /ps get
     # Also affects custom crafted items (see custom_recipe)
     # Leave as '' for no name
-    display_name = "&a&m<---&r&b 64 Radius Protection Block &r&a&m--->"
+    display_name = "&7&l[Kit Inicial 16x16]"
 
     # Lore given to protection block when obtained with /ps give or /ps get
     # Also affects custom crafted items (see custom_recipe)
     # Leave as [] for no lore
     lore = [
-        "",
+
     ]
 
     # Whether the item should have an "glow/enchant" effect look when in a player's inventory.
@@ -290,7 +290,7 @@ placing_bypasses_wg_passthrough = true
     # Execute commands when a region is created (ex. player place protection block)
     # Variables: %player%, %world%, %region%, %block_x%, %block_y%, %block_z%
     on_region_create = [
-        'Mensaje global: %player% creó la región %region%!',
+        'global_message: &l%player% created the region %region%!',
     ]
 
     # Execute commands when a region is destroyed (ex. when player destroy protection block)

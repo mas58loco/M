@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.90.44.23
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727349412028
+  login: 1727349411782
+money: '0'
+last-account-name: Blinknx6017
+lastlocation:
+  world: f934269f-21b8-495a-8822-ba9f219a07db
+  world-name: world
+  x: 16.0
+  y: 77.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: b0221063-84ec-4080-a3c2-b00a3e0ac7bc
+  world-name: world_the_end
+  x: 100.72462
+  y: 49.0
+  z: 0.17313811
+  yaw: 152.35879516601562
+  pitch: 18.198104858398438

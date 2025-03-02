@@ -1,0 +1,55 @@
+[2025/01/24 19:00:00]: §9          __             _       
+[2025/01/24 19:00:00]: §9  _ __   / /  ___   __ _(_)_ __  
+[2025/01/24 19:00:00]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2025/01/24 19:00:00]: §9 | | | / /__| (_) | (_| | | | | |
+[2025/01/24 19:00:00]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2025/01/24 19:00:00]: §9                  |___/            
+[2025/01/24 19:00:00]: §9 By: www.nickuc.com - V 10.4.18 DEVELOPMENT
+[2025/01/24 19:00:00]: §9 
+[2025/01/24 19:00:01]: §3[nLogin] [DEBUG] All settings were loaded in 60 ms.
+[2025/01/24 19:00:01]: §3[nLogin] [DEBUG] Loading the messages_es.yml message file...
+[2025/01/24 19:00:01]: §3[nLogin] [DEBUG] All plugin messages were loaded in 63 ms (languageByClient=false).
+[2025/01/24 19:00:01]: §3[nLogin] [DEBUG] All proxy settings were loaded in 0 ms.
+[2025/01/24 19:00:01]: §3[nLogin] [DEBUG] Loading database...
+[2025/01/24 19:00:01]: §3[nLogin] [DEBUG] Starting logger filter...
+[2025/01/24 19:00:58]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'mas_58_loco', `unique_id` = b3beefaa3e3f32cca98da6e365f4fed6,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$Ervy/9nqdjAxu50vP9YCqOZYAEg0meZf5Ta7bGFP6YUoWgPdUzArO', `last_ip` = '186.102.101.113', `creation_date` = 2025-01-07 14:43:02.246, `last_seen` = 2025-01-24 19:00:58.85, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/01/24 19:00:58]: §4[nLogin] [ERROR] §cUnexpected error during sending plugin message via ProtocolLib
+java.lang.ExceptionInInitializerError
+	at com.comphenix.protocol.wrappers.CustomPacketPayloadWrapper.<clinit>(CustomPacketPayloadWrapper.java:93)
+	at com.comphenix.protocol.events.AbstractStructure.getCustomPacketPayloads(AbstractStructure.java:978)
+	at com.nickuc.login.πιμΦζΩτχβΦγυξΛ.a(:123)
+	at com.nickuc.login.ξπξξςκγχ.b(:75)
+	at com.nickuc.login.ξπξξςκγχ.a(:123)
+	at com.nickuc.login.γδδΛζΨφδΠΛ.a(:71)
+	at com.nickuc.login.ςτΩΦπρηΩΓ.a(:100)
+	at com.nickuc.login.ςτΩΦπρηΩΓ.a(:114)
+	at com.nickuc.login.ξΩνεξτεθΩΓυςπΩε.a(:83)
+	at com.nickuc.login.ξξοηλξνΨ.b(:92)
+	at com.nickuc.login.ΨπξΣευΣΠγςτ.d(:118)
+	at org.bukkit.craftbukkit.v1_21_R1.scheduler.CraftTask.run(CraftTask.java:82)
+	at org.bukkit.craftbukkit.v1_21_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.IllegalArgumentException: Unable to find a method that matches {modifiers=[required: 0, banned: 1000], return={ type exactly class net.minecraft.resources.MinecraftKey }, paramCount=0}
+	at com.comphenix.protocol.reflect.FuzzyReflection.getMethod(FuzzyReflection.java:193)
+	at com.comphenix.protocol.wrappers.CustomPacketPayloadWrapper.<clinit>(CustomPacketPayloadWrapper.java:58)
+	... 15 more
+[2025/01/24 19:00:58]: [nLogin] The user mas_58_loco has successfully logged in.
+[2025/01/24 19:01:43]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = '_FFisaaYT', `unique_id` = null,  `mojang_id` = null,  `bedrock_id` = 0000000000000000000901f0f2d21748,  `password` = '$2a$10$wGxlt2wE98NkUIYNSISJY.w01JMfLcGiadsoOyDlY4Q7mACBIm.Ti', `last_ip` = '177.200.239.66', `creation_date` = 2025-01-22 21:18:48.441, `last_seen` = 2025-01-24 19:01:43.325, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 4" (applied to [last_ip, last_seen, settings] columns)
+[2025/01/24 19:01:43]: [nLogin] The user _FFisaaYT has successfully logged in.
+[2025/01/24 19:05:57]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = '_FFisaaYT', `unique_id` = null,  `mojang_id` = null,  `bedrock_id` = 0000000000000000000901f0f2d21748,  `password` = '$2a$10$wGxlt2wE98NkUIYNSISJY.w01JMfLcGiadsoOyDlY4Q7mACBIm.Ti', `last_ip` = '177.200.239.66', `creation_date` = 2025-01-22 21:18:48.441, `last_seen` = 2025-01-24 19:05:57.755, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 4" (applied to [last_seen, settings] columns)
+[2025/01/24 19:06:54]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = '_FFisaaYT', `unique_id` = null,  `mojang_id` = null,  `bedrock_id` = 0000000000000000000901f0f2d21748,  `password` = '$2a$10$wGxlt2wE98NkUIYNSISJY.w01JMfLcGiadsoOyDlY4Q7mACBIm.Ti', `last_ip` = '177.200.239.66', `creation_date` = 2025-01-22 21:18:48.441, `last_seen` = 2025-01-24 19:06:54.805, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 4" (applied to [last_ip, last_seen, settings] columns)
+[2025/01/24 19:06:54]: [nLogin] The user _FFisaaYT has successfully logged in.
+[2025/01/24 19:07:02]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = '_FFisaaYT', `unique_id` = null,  `mojang_id` = null,  `bedrock_id` = 0000000000000000000901f0f2d21748,  `password` = '$2a$10$wGxlt2wE98NkUIYNSISJY.w01JMfLcGiadsoOyDlY4Q7mACBIm.Ti', `last_ip` = '177.200.239.66', `creation_date` = 2025-01-22 21:18:48.441, `last_seen` = 2025-01-24 19:07:02.804, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 4" (applied to [last_seen, settings] columns)
+[2025/01/24 19:09:21]: §3[nLogin] [DEBUG] The _FFisaaYT (177.200.239.66) player entered an incorrect password
+[2025/01/24 19:10:08]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = '_FFisaaYT', `unique_id` = null,  `mojang_id` = null,  `bedrock_id` = 0000000000000000000901f0f2d21748,  `password` = '$2a$10$wGxlt2wE98NkUIYNSISJY.w01JMfLcGiadsoOyDlY4Q7mACBIm.Ti', `last_ip` = '177.200.239.66', `creation_date` = 2025-01-22 21:18:48.441, `last_seen` = 2025-01-24 19:10:08.356, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 4" (applied to [last_ip, last_seen, settings] columns)
+[2025/01/24 19:10:08]: [nLogin] The user _FFisaaYT has successfully logged in.
+[2025/01/24 19:10:50]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'mas_58_loco', `unique_id` = b3beefaa3e3f32cca98da6e365f4fed6,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$Ervy/9nqdjAxu50vP9YCqOZYAEg0meZf5Ta7bGFP6YUoWgPdUzArO', `last_ip` = '186.102.101.113', `creation_date` = 2025-01-07 14:43:02.246, `last_seen` = 2025-01-24 19:10:50.453, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2025/01/24 19:11:59]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'mas_58_loco', `unique_id` = b3beefaa3e3f32cca98da6e365f4fed6,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$Ervy/9nqdjAxu50vP9YCqOZYAEg0meZf5Ta7bGFP6YUoWgPdUzArO', `last_ip` = '186.102.101.113', `creation_date` = 2025-01-07 14:43:02.246, `last_seen` = 2025-01-24 19:11:59.706, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/01/24 19:11:59]: [nLogin] The user mas_58_loco has successfully logged in.
+[2025/01/24 19:12:03]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'mas_58_loco', `unique_id` = b3beefaa3e3f32cca98da6e365f4fed6,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$Ervy/9nqdjAxu50vP9YCqOZYAEg0meZf5Ta7bGFP6YUoWgPdUzArO', `last_ip` = '186.102.101.113', `creation_date` = 2025-01-07 14:43:02.246, `last_seen` = 2025-01-24 19:12:03.801, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2025/01/24 19:12:54]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "INSERT INTO `nlogin` (`last_name`, `unique_id`, `mojang_id`, `bedrock_id`, `password`, `last_ip`, `creation_date`, `last_seen`, `email`, `discord`, `settings`) VALUES ('Servidor', 582b76edd8e83a028260bc638ebf4a1c, null, null, '$2a$10$MDkITYKpifS8IMkv80YMKONVPDARVjes5lJJmgFf0KdWFEXk9E8O2', '186.102.101.113', '2025-01-24 19:12:54.497', '2025-01-24 19:12:54.497', null, null, '{"settings":[{"value":true,"key":"force-invalid-session"}],"version":0}')" (applied to all columns)
+[2025/01/24 19:12:54]: [nLogin] The user Servidor has successfully registered.
+[2025/01/24 19:14:15]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = '_FFisaaYT', `unique_id` = null,  `mojang_id` = null,  `bedrock_id` = 0000000000000000000901f0f2d21748,  `password` = '$2a$10$wGxlt2wE98NkUIYNSISJY.w01JMfLcGiadsoOyDlY4Q7mACBIm.Ti', `last_ip` = '177.200.239.66', `creation_date` = 2025-01-22 21:18:48.441, `last_seen` = 2025-01-24 19:14:15.853, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 4" (applied to [last_seen, settings] columns)
+[2025/01/24 19:14:35]: [nLogin] Successful plugin core shutdown (took 0.00s)

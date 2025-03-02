@@ -1,0 +1,32 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.244.98.79
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727580825880
+  login: 1727580964782
+money: '0'
+last-account-name: _MaicolMalcom
+logoutlocation:
+  world: 4cac5ad4-e878-4976-b087-07d8ba3c786e
+  world-name: lobby
+  x: 48.204044
+  y: 94.0625
+  z: 122.98391
+  yaw: 2.18603515625
+  pitch: 23.344161987304688
+past-usernames:
+- MaicolMalcom

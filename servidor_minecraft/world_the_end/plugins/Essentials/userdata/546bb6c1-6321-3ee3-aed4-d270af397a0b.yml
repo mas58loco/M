@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 186.167.168.124
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727544380835
+  login: 1727544306349
+money: '0'
+last-account-name: mas58loco5
+logoutlocation:
+  world: f934269f-21b8-495a-8822-ba9f219a07db
+  world-name: world
+  x: 16.0
+  y: 77.0
+  z: 0.0
+  yaw: 111.74998474121094
+  pitch: 36.45000457763672

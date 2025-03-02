@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 179.6.4.165
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727577267579
+  login: 1727576988542
+money: '0'
+last-account-name: LeessPLayDaniel
+lastlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 832.0816383659837
+  y: 72.5
+  z: 2972.009260181176
+  yaw: 104.45071411132812
+  pitch: -14.70428466796875
+logoutlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: -264.0081335813845
+  y: 91.0
+  z: 786.3000000119209
+  yaw: 131.20394897460938
+  pitch: 55.80103302001953

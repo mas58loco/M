@@ -1,0 +1,10 @@
+name: 3SkyAjax3
+kits:
+  PROTECCION_INICIAL:
+    cooldown: 1730168860700
+    one_time: false
+    bought: false
+  KITINICIAL:
+    cooldown: 1727582957320
+    one_time: false
+    bought: false

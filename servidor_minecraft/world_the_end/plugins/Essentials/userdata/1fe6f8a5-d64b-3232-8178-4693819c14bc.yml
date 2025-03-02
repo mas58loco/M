@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.244.98.79
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727556266900
+  login: 1727554274244
+money: '0'
+last-account-name: MaicolMalcom
+logoutlocation:
+  world: 4cac5ad4-e878-4976-b087-07d8ba3c786e
+  world-name: lobby
+  x: 48.541435
+  y: 94.0625
+  z: 114.77766
+  yaw: -10.482986450195312
+  pitch: 70.1640625
+lastlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 995.6288
+  y: 115.24918
+  z: 2903.0132
+  yaw: -9.080825805664062
+  pitch: 78.22991943359375

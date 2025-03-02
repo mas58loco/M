@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 186.102.101.113
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737765978816
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737766101662
+  login: 1737766061879
+money: '0'
+last-account-name: Servidor
+lastlocation:
+  world: 75740612-7402-4a48-8f37-d2844ff36ceb
+  world-name: Survival
+  x: -4472.31059592927
+  y: -37.0
+  z: -3580.1873701686554
+  yaw: 66.1046142578125
+  pitch: 57.89964294433594
+logoutlocation:
+  world: 75740612-7402-4a48-8f37-d2844ff36ceb
+  world-name: Survival
+  x: -4485.377771002371
+  y: 69.0
+  z: -3668.163719649032
+  yaw: -155.3299560546875
+  pitch: -1.5000879764556885

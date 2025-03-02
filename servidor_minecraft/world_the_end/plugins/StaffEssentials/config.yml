@@ -1,0 +1,248 @@
+# The prefix for the whole plugin
+Prefix: '&0[&cStaffEssentials&0]&f'
+
+# ---------- [Clear Chat] ----------
+# This configuration section is for Clear Chat
+
+# Lines to clear when a player does /cc or /clearchat
+LinesToClear: 100
+
+# Message to send when a player's chat is cleared
+# Variables
+# %player% - The player who cleard the chat
+ClearedMessage: '&bChat has been &acleared &b by: &c%player%'
+
+# If you do not want this, then set this to false
+ClearChatEnabled: true
+
+# ---------- [Staff Logs] ----------
+# This configuration section is for Staff Logs
+
+# Permission needed for the player's commands to be logged (Leave it blank for all 
+# players)
+LogPermission: staffessentials.log
+
+# Commands to log
+LogCommands:
+- op
+- home
+
+# If you do not want this, then set this to false
+StaffLogsEnabled: true
+
+# ---------- [Reports] ----------
+# This configuration section is for Reports
+
+# The format you want the reports to be shown in
+# Variables
+# %id% - The id of the report
+# %reporter% - The reporter of the report
+# %report% - The reason of the report
+# %reported% - The player that had been reported
+ReportFormat:
+- '&6%id%) Reporter: &c%reporter%'
+- '    &6Report: &c%report%'
+- '    &6Reported: &c%reported%'
+
+# Permission for them to be sent the message when someone reports
+ReportView: staffessentials.report
+
+# Turn this to true if you want the staff to see the reports when they join
+ShowOnJoin: true
+
+# Message to send when the player joins if the above is turned to true
+# Variables:
+# %amount% - Amounts of reports open
+ReportMessage: '&4There are currently &b%amount% &4 reports open!'
+
+# Put amount of reports per page when you do /report list
+ReportsPerPage: 4
+
+# If you do not want this, then set this to false
+ReportEnabled: true
+
+# ---------- [Staff Chat] ----------
+# This configuration section is for Staff Chat
+
+# Format for the player when they are in staff chat
+# Variables
+# %player% - Player Name
+# %message% - Message
+# %rank% - Rank of the player
+ChatPrefix: '&0[&4StaffChat&0]&f %rank%%player%: %message%'
+
+# The permission to view the chat message
+ViewPermission: staffchat.view
+
+# If you do not want this, then set this to false
+StaffChatEnabled: true
+
+# ---------- [Staff Join] ----------
+# This configuration section is for Staff Join
+
+# The message to broadcast when the player joins the server
+Format: '&c%player% has joined the server!'
+
+# Permission for the player's name to be broadcasted
+JoinPermission: staffessentials.joinmessage
+
+# If you do not want this, then set this to false
+StaffJoinEnabled: true
+
+# ---------- [Staff List] ----------
+# This configuration section is for Staff List
+
+# Permission for their name to be displayed in the staffs list
+StaffPermission: staffessentials.staff
+
+# The message to send when a player runs the command
+# Variables
+# %staffcount% - Staff online
+# %staff% - List of staff online
+StaffList:
+- '&cStaff Online: %staffcount%'
+- '&bStaff with Name: %staff%'
+
+# If you do not want this, then set this to false
+StaffListEnabled: true
+
+# ---------- [Staff Alert] ----------
+# This configuration section is for Staff Alert
+
+# Permission for them to receive the broadcast message
+StaffAlertPermission: staffessentials.staff
+
+# Alert Staff Format
+# Variables 
+# %message% - Message to be sent
+# %player% - Name of Sender
+StaffAlertFormat: '&0[&bStaffAlert&0]&f %message%'
+
+# Enable this if you want the message to be sent via Action Bar as well
+AlertActionBar: true
+
+# Action Bar Format - Has to have AlertActionBar on true
+# Variables
+# %message% - Message to be sent
+# %player% - Name of Sender
+ActionBarFormat: '&0[&bStaffAlert&0]&f %message%'
+
+# If you do not want this, then set this to false
+StaffAlertEnabled: true
+
+# ---------- [Staff Freeze] ----------
+# This configuration section is for Staff Freeze
+
+# Bypass Permission
+FrozenBypass: staffessentials.bypass
+
+# Message to send when frozen
+FrozenMessage: '&cYou just got frozen!'
+
+# Message to send when unfrozen
+UnfrozenMessage: '&bThe ice has melted!'
+
+# If you do not want this, then set this to false
+FreezeEnabled: true
+
+# ---------- [Maintenance] ----------
+# This configuration section is for Maintenance
+
+# If you turn this on, it will kick all players without permission
+KickPlayers: true
+
+# Permission to be able to come on the server when it is on maintenance
+MaintenancePermission: staffessentials.staff
+
+# Message to send if the server is on maintenance
+MaintenanceMessage: '&bThis server is undergoing maintenance!'
+
+# If you do not want this, then set this to false
+MaintenanceModeEnabled: true
+
+# ---------- [Warnings] ----------
+# This configuration section is for Warnings
+
+# Punishments
+# WarnAmount:
+# - 'Command 1'
+# - 'Command 2'
+# - 'Command 3' (And so on)
+Punishments:
+    5:
+    - 'tempban %player% 1'
+    - 'bc %player% has been temp banned for 1 minute!'
+    10:
+    - 'ban %player%'
+    - 'bc %player% has been banned!'
+
+# Amount of time for a warning amount to be removed from a player (in seconds)
+WarningRemoveTime: 50
+
+# If you do not want this, then set this to false
+WarnEnabled: true
+
+# ---------- [StaffVanish] ----------
+# This configuration section is for StaffVanish
+
+# The message to send when a staff goes onto vanish
+LeaveMessage: '&e%player% left'
+
+# Join message to send when a staff unvanishes
+JoinMessage: '&e%player% joined'
+
+# If you do not want this, then set this to false
+StaffVanishEnabled: true
+
+# ---------- [Ban/Mute] ----------
+# This configuration section is for Bans and TempBans
+
+# If you do not want this, then set this to false
+BanMuteEnabled: true
+
+# ---------- [InventoryCheck] ----------
+# This configuration section is for InventoryCheck
+
+# If you do not want this, then set this to false
+InventoryCheckEnabled: true
+
+# ---------- [Staff Applications] ----------
+# This configuration section is for Staff Applications
+
+# This is the maximum amount of times a player can apply
+MaxApplyAmount: 5
+
+# If you do not want this, then set this to false
+StaffApplicationsEnabled: true
+
+# ---------- [MySQL] ----------
+# This configuration section is for MySQL Users
+# What these will send data of:
+# - PlayerData (Reports)
+
+# If you want to enable SQL support, enable this
+SQLEnabled: false
+
+# The port
+SQLPort: 3306
+
+# The IP
+SQLIP: 'localhost'
+
+# The Database Name
+SQLDatabase: 'SQLDatabase'
+
+# The username
+SQLUsername: 'root'
+
+# The password
+SQLPassword: 'password'
+
+# The name of the table
+SQLTable: 'StaffEssentials'
+
+# ---------- [Auto Updater] ----------
+# This configuration section is for the Update Checker + Downloader
+
+# Enable this if you want the plugin to automatically download the newest version
+AutoDownload: true

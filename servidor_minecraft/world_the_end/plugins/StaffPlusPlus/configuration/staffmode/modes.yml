@@ -1,0 +1,88 @@
+modes:
+  default:
+    # Whether or not a player is allowed to break/place blocks while in staff mode.
+    block-manipulation: false
+    
+    # Whether or not a player is allowed to interact with their inventory while in staff mode.
+    inventory-interaction: true
+    
+    # Whether or not a player is allowed to drop/pickup items while in staff mode.
+    item-change: false
+    
+    # The type of vanish that will be applied when a player goes into staff mode.
+    # Valid vanish types are: TOTAL, LIST, and NONE.
+    vanish-type: TOTAL
+    
+    # Whether or not a player will be invincible while in staff mode.
+    invincible: true
+    
+    # Whether or not a player in staff mode can attack other players.
+    damage: false
+    
+    # Whether or not a player will lose hunger while in staff mode.
+    hunger-loss: false
+    
+    # Whether or not a player can fly while in staff mode.
+    flight: true
+    
+    # Whether or not a player will be put into creative while in staff mode.\
+    creative: false
+    
+    # Whether or not a play in mode can only speak in staffchat if enabled all chat goes to staffchat
+    force_staffchat: false
+    
+    # Whether or not to a player to the location they were in before they toggled staff mode.
+    original-location: false
+    
+    # Whether or not staff mode will be enabled for staff when they login.
+    enable-on-login: false
+    
+    # Name says it all what commands do you want to block while the player is not logged in
+    prelogin-blocked-commands: /ban
+    
+    # Commands to execute when staff mode is enabled. Leave blank to disable.
+    # Each command is separated with a comma.
+    enable-commands:
+    - command: example1 %staff%
+    - command: example2 %staff%
+    
+    # Commands to execute when staff mode is disable. Leave blank to disable.
+    # Each command is separated with a comma.
+    disable-commands:
+    - command: example1 %staff%
+    - command: example2 %staff%
+    
+    # Should Staff mode disable on world change
+    disable-on-world-change: false
+    
+    # Should other staff be able to see staff that are in mode while they are not in mode.
+    staff-see-staff-in-mode: false
+    
+    # Should staffmode block chat
+    block-chat: true
+    
+    # Should staff mode force staff chat requires block chat false
+    force-staffchat: false
+    
+    enderchest-module:
+      enabled: true
+      offline-viewing: true
+    gui:
+    - compass-module:1
+    - random-teleport-module:2
+    - vanish-module:3
+    - gui-module:4
+    - counter-module:5
+    - freeze-module:6
+    - cps-module:7
+    - examine-module:8
+    - follow-module:9
+    - player-details-module:0
+    - Whip:34
+    silent-chest-interaction: false
+    item-drop: false
+    item-pickup: false
+    vanish-on-enter: true
+    night-vision: false
+    disable-on-logout: false
+    initial-item-states: []

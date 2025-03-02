@@ -1,0 +1,56 @@
+# ###########################################################
+# +------------------------------------------------------+ #
+# |                       Custom                         | #
+# +------------------------------------------------------+ #
+# ###########################################################
+# Add custom actions to your staff mode items
+# When clicked, this will execute the custom action.
+# For more information: https://staffplusplus-minecraft.gitbook.io/staffplusplus/features/staff-mode/custom-staff-modules
+custom-modules:
+- enabled: false
+  type: COMMAND_STATIC
+  slot: 30
+  item:
+    lore: '&4line1, &6line2, &3line3'
+    name: '&4Ban all god kids'
+    type: DIAMOND
+  commands:
+  - ban Shortninja &4For coding 2hard!!11!1!one!
+  name: StaticCommand
+- enabled: false
+  type: COMMAND_DYNAMIC
+  slot: 31
+  item:
+    lore: '&cyou damn lazy staff'
+    name: '&4Ban this kid'
+    type: QUARTZ
+  commands:
+  - ban %clicked% &6for shitposting too much with %clicker%
+  name: DynamicCommand
+- enabled: false
+  type: COMMAND_CONSOLE
+  slot: 33
+  item:
+    lore: '&7you''re so lazy'
+    name: '&bDisable staff mode'
+    type: OBSIDIAN
+  commands:
+  - staff %clicker% disable
+  name: ConsoleCommand
+- enabled: false
+  type: ITEM
+  slot: 34
+  item:
+    lore: '&8don''t grief shitlord!!'
+    name: '&7WorldEdit Wand'
+    type: WOOD_AXE
+  name: Item
+- enabled: true
+  type: ITEM
+  slot: 34
+  item:
+    lore: '&8Knock em out!!'
+    name: '&7Knock out stick'
+    type: STICK
+  enchantment: knockback:2
+  name: Whip

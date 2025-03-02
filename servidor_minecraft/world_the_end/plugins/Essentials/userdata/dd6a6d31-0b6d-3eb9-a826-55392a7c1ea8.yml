@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 190.112.99.197
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727580747800
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727581320815
+  login: 1727579211509
+money: '0'
+last-account-name: DT_Tokito
+lastlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 806.9346314360782
+  y: 76.0
+  z: 2952.422851201257
+  yaw: -126.2706298828125
+  pitch: 20.45429229736328
+logoutlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: -1870.7362040614744
+  y: 96.0
+  z: 115.10347622437868
+  yaw: 101.57929992675781
+  pitch: 37.95001983642578

@@ -1,0 +1,10 @@
+name: losus4
+kits:
+  KITINICIAL:
+    cooldown: 1727580968548
+    one_time: false
+    bought: false
+  PROTECCION_INICIAL:
+    cooldown: 1730173906669
+    one_time: false
+    bought: false

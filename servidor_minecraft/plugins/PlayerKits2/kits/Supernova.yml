@@ -1,0 +1,187 @@
+cooldown: 259200
+one_time: false
+auto_armor: true
+permission_required: true
+save_original_items: true
+display:
+  default:
+    id: DIAMOND_SWORD
+    name: '&4&l[Kit Supernova]'
+    amount: 1
+    lore:
+    - '&4&l[El poder de una Supernova]'
+  no_permission:
+    id: BARRIER
+    name: '&c&l%kit_name% &cKit'
+    amount: 1
+    lore:
+    - '&cYou don''t have permissions to claim'
+    - '&cthis kit.'
+  cooldown:
+    id: STONE_SWORD
+    name: '&c&l%kit_name% &cKit'
+    amount: 1
+    lore:
+    - '&cYou need to wait &7%time%'
+    - '&cto claim this kit again.'
+    item_flags:
+    - HIDE_ATTRIBUTES
+items:
+  '1':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: DIAMOND_SWORD
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"","extra":[{"text":"[Espada Supernova]","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+        enchants:
+          minecraft:sharpness: 4
+          minecraft:unbreaking: 3
+          minecraft:fire_aspect: 2
+  '2':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: DIAMOND_AXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"","extra":[{"text":"[Hacha Supernova]","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+        enchants:
+          minecraft:unbreaking: 3
+          minecraft:efficiency: 5
+  '3':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: DIAMOND_PICKAXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"","extra":[{"text":"[Pico Supernova]","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+        enchants:
+          minecraft:unbreaking: 3
+          minecraft:efficiency: 5
+  '4':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: DIAMOND_SHOVEL
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"","extra":[{"text":"[Pala Supernova]","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+        enchants:
+          minecraft:unbreaking: 3
+          minecraft:efficiency: 5
+  '5':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: TOTEM_OF_UNDYING
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"","extra":[{"text":"[Totem Supernova]","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+  '6':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: SENTRY_ARMOR_TRIM_SMITHING_TEMPLATE
+  '7':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: GOLDEN_CARROT
+      amount: 64
+  '8':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: GOLDEN_APPLE
+      amount: 32
+  '9':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: DIAMOND_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        display-name: '{"text":"","extra":[{"text":"[Botas Supernova]","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+        enchants:
+          minecraft:unbreaking: 3
+          minecraft:protection: 4
+        trim:
+          material: minecraft:diamond
+          pattern: minecraft:sentry
+  '10':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: DIAMOND_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        display-name: '{"text":"","extra":[{"text":"[Pantalon Supernova]","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+        enchants:
+          minecraft:unbreaking: 3
+          minecraft:protection: 4
+        trim:
+          material: minecraft:diamond
+          pattern: minecraft:sentry
+  '11':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: DIAMOND_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        display-name: '{"text":"","extra":[{"text":"[Pechera Supernova]","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+        enchants:
+          minecraft:unbreaking: 3
+          minecraft:protection: 4
+        trim:
+          material: minecraft:diamond
+          pattern: minecraft:sentry
+  '12':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: DIAMOND_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        display-name: '{"text":"","extra":[{"text":"[Casco Supernova]","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+        enchants:
+          minecraft:unbreaking: 3
+          minecraft:protection: 4
+        trim:
+          material: minecraft:diamond
+          pattern: minecraft:sentry
+  '13':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: SHIELD
+      meta:
+        ==: ItemMeta
+        meta-type: SHIELD
+        display-name: '{"text":"","extra":[{"text":"[Escudo Supernova]","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+        enchants:
+          minecraft:unbreaking: 3
+    offhand: true
+actions:
+  claim:
+    '1':
+      action: 'playsound: BLOCK_NOTE_BLOCK_PLING;10;2'
+      execute_before_items: false
+      count_as_item: false
+  error:
+    '1':
+      action: 'playsound: BLOCK_NOTE_BLOCK_PLING;10;0.1'
+      execute_before_items: false
+      count_as_item: false

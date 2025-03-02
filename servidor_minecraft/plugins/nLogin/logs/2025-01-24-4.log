@@ -1,0 +1,41 @@
+[2025/01/24 20:19:37]: §9          __             _       
+[2025/01/24 20:19:37]: §9  _ __   / /  ___   __ _(_)_ __  
+[2025/01/24 20:19:37]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2025/01/24 20:19:37]: §9 | | | / /__| (_) | (_| | | | | |
+[2025/01/24 20:19:37]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2025/01/24 20:19:37]: §9                  |___/            
+[2025/01/24 20:19:37]: §9 By: www.nickuc.com - V 10.4.18 DEVELOPMENT
+[2025/01/24 20:19:37]: §9 
+[2025/01/24 20:19:37]: §3[nLogin] [DEBUG] All settings were loaded in 61 ms.
+[2025/01/24 20:19:37]: §3[nLogin] [DEBUG] Loading the messages_es.yml message file...
+[2025/01/24 20:19:37]: §3[nLogin] [DEBUG] All plugin messages were loaded in 61 ms (languageByClient=false).
+[2025/01/24 20:19:37]: §3[nLogin] [DEBUG] All proxy settings were loaded in 0 ms.
+[2025/01/24 20:19:37]: §3[nLogin] [DEBUG] Loading database...
+[2025/01/24 20:19:37]: §3[nLogin] [DEBUG] Starting logger filter...
+[2025/01/24 20:24:16]: §3[nLogin] [DEBUG] The _FFisaaYT (177.200.239.66) player entered an incorrect password
+[2025/01/24 20:26:44]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = '_FFisaaYT', `unique_id` = null,  `mojang_id` = null,  `bedrock_id` = 0000000000000000000901f0f2d21748,  `password` = '$2a$10$wGxlt2wE98NkUIYNSISJY.w01JMfLcGiadsoOyDlY4Q7mACBIm.Ti', `last_ip` = '177.200.239.66', `creation_date` = 2025-01-22 21:18:48.441, `last_seen` = 2025-01-24 20:26:44.845, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 4" (applied to [last_ip, last_seen, settings] columns)
+[2025/01/24 20:26:44]: §4[nLogin] [ERROR] §cUnexpected error during sending plugin message via ProtocolLib
+java.lang.ExceptionInInitializerError
+	at com.comphenix.protocol.wrappers.CustomPacketPayloadWrapper.<clinit>(CustomPacketPayloadWrapper.java:93)
+	at com.comphenix.protocol.events.AbstractStructure.getCustomPacketPayloads(AbstractStructure.java:978)
+	at com.nickuc.login.πιμΦζΩτχβΦγυξΛ.a(:123)
+	at com.nickuc.login.ξπξξςκγχ.b(:75)
+	at com.nickuc.login.ξπξξςκγχ.a(:123)
+	at com.nickuc.login.γδδΛζΨφδΠΛ.a(:71)
+	at com.nickuc.login.ςτΩΦπρηΩΓ.a(:100)
+	at com.nickuc.login.ςτΩΦπρηΩΓ.a(:114)
+	at com.nickuc.login.ξΩνεξτεθΩΓυςπΩε.a(:83)
+	at com.nickuc.login.ξξοηλξνΨ.b(:92)
+	at com.nickuc.login.ΨπξΣευΣΠγςτ.d(:118)
+	at org.bukkit.craftbukkit.v1_21_R1.scheduler.CraftTask.run(CraftTask.java:82)
+	at org.bukkit.craftbukkit.v1_21_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.IllegalArgumentException: Unable to find a method that matches {modifiers=[required: 0, banned: 1000], return={ type exactly class net.minecraft.resources.MinecraftKey }, paramCount=0}
+	at com.comphenix.protocol.reflect.FuzzyReflection.getMethod(FuzzyReflection.java:193)
+	at com.comphenix.protocol.wrappers.CustomPacketPayloadWrapper.<clinit>(CustomPacketPayloadWrapper.java:58)
+	... 15 more
+[2025/01/24 20:26:44]: [nLogin] The user _FFisaaYT has successfully logged in.
+[2025/01/24 20:27:39]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = '_FFisaaYT', `unique_id` = null,  `mojang_id` = null,  `bedrock_id` = 0000000000000000000901f0f2d21748,  `password` = '$2a$10$wGxlt2wE98NkUIYNSISJY.w01JMfLcGiadsoOyDlY4Q7mACBIm.Ti', `last_ip` = '177.200.239.66', `creation_date` = 2025-01-22 21:18:48.441, `last_seen` = 2025-01-24 20:27:39.336, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 4" (applied to [last_seen, settings] columns)
+[2025/01/24 20:37:21]: [nLogin] Successful plugin core shutdown (took 0.00s)

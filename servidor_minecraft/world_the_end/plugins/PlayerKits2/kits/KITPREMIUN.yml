@@ -1,0 +1,286 @@
+cooldown: 1209600
+one_time: false
+auto_armor: true
+permission_required: true
+save_original_items: true
+display:
+  default:
+    id: DIAMOND_SWORD
+    name: '&6&lKIT PREMIUM'
+    amount: 1
+    lore:
+    - '&a&lArmadura de DIAMANTE x1'
+    - '&a&lHerramienta de DIAMANTE x1'
+    - '&5 Ender pearl x16'
+    - '&lChuleta x64'
+    - '&lBistec x64'
+    - '&lEscudo'
+    - '&lTotem x2'
+    - '&lTintes'
+    - '&6&lY mucho mas'
+  no_permission:
+    id: BARRIER
+    name: '&c&l%kit_name% &cKit'
+    amount: 1
+    lore:
+    - '&cYou don''t have permissions to claim'
+    - '&cthis kit.'
+  cooldown:
+    id: STONE_SWORD
+    name: '&c&l%kit_name% &cKit'
+    amount: 1
+    lore:
+    - '&cYou need to wait &7%time%'
+    - '&cto claim this kit again.'
+    item_flags:
+    - HIDE_ATTRIBUTES
+items:
+  '1':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: DIAMOND_SWORD
+    preview_slot: 0
+  '2':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: DIAMOND_AXE
+    preview_slot: 1
+  '3':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: DIAMOND_PICKAXE
+    preview_slot: 2
+  '4':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: DIAMOND_SHOVEL
+    preview_slot: 3
+  '5':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: BOW
+    preview_slot: 4
+  '6':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: COOKED_PORKCHOP
+      amount: 64
+    preview_slot: 5
+  '7':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: WATER_BUCKET
+    preview_slot: 6
+  '8':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: ENCHANTED_GOLDEN_APPLE
+      amount: 5
+    preview_slot: 7
+  '9':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: DIAMOND
+      amount: 10
+    preview_slot: 8
+  '10':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: SHIELD
+    preview_slot: 9
+  '11':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: DIAMOND_BOOTS
+    preview_slot: 10
+  '12':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: DIAMOND_LEGGINGS
+    preview_slot: 11
+  '13':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: DIAMOND_CHESTPLATE
+    preview_slot: 12
+  '14':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: DIAMOND_HELMET
+    preview_slot: 13
+  '15':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: TOTEM_OF_UNDYING
+    offhand: true
+    preview_slot: 14
+  '16':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: GOLDEN_CARROT
+      amount: 32
+    preview_slot: 15
+  '17':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: ARROW
+      amount: 64
+    preview_slot: 17
+  '18':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: YELLOW_SHULKER_BOX
+      meta:
+        ==: ItemMeta
+        meta-type: TILE_ENTITY
+        display-name: '{"text":"","extra":[{"text":"Objetos Varios","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+        internal: H4sIAAAAAAAA/33SXW7DIAwHcLdJtybtQ/elaYfIBXaZiICboRgTAdGU2489UR7gzX/JP9mW3AP08DmRlcuAHHTYB2nNajkG38Gb0YzSiXv4lpaDiMn1AHBtoPVkQyyjb3VAc4ajVvCSgEM1qh0bOEm78X/rASC5Q+bek7NO8Iw1eizRHYnsb402Gf1I1Ig5nixqti2NXTe3UnXjU0ZfE51oq8KnElw1LzX4XIKkTXXiOYMPDzA7RK7JriQnEnIZJ1Ql2WfylqT/QeF8iV0y9pXYnTSHUbAafUCk3AP8ASLrgKD1AgAA
+        blockMaterial: YELLOW_SHULKER_BOX
+    preview_slot: 18
+  '19':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: DIAMOND_ORE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"text":"","extra":[{"text":"<---","obfuscated":false,"italic":false,"underlined":false,"strikethrough":true,"color":"green","bold":false},{"text":"
+          32 Radius Protection Block ","italic":false,"color":"aqua"},{"text":"--->","italic":false,"strikethrough":true,"color":"green"}]}'
+        lore:
+        - '{"text":"","extra":[{"text":"Nobody''s going to touch my stuff!","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+        PublicBukkitValues: |-
+          {
+              "protectionstones:ispsblock": 1b
+          }
+    preview_slot: 19
+  '20':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: NAME_TAG
+      amount: 2
+    preview_slot: 20
+  '21':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: SADDLE
+    preview_slot: 21
+  '22':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: WOLF_ARMOR
+    preview_slot: 22
+  '23':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: TOTEM_OF_UNDYING
+    preview_slot: 23
+  '24':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: SPYGLASS
+    preview_slot: 24
+  '25':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: ENDER_CHEST
+      amount: 5
+    preview_slot: 25
+  '26':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: ENDER_PEARL
+      amount: 16
+    preview_slot: 26
+  '27':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: YELLOW_SHULKER_BOX
+      meta:
+        ==: ItemMeta
+        meta-type: TILE_ENTITY
+        display-name: '{"text":"","extra":[{"text":"Encantamiento","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+        internal: H4sIAAAAAAAA/83UwW7DIAwGYCekXctlmjZp22GP0BfYy1SUmAWV2BG4m/r2I+o0qirnNDeQ/ZtPCKEBNLweAtvjDkm8nHeW+4Epb9IWnntPaKNx8mmZxORd1JAzCpoUWGBcQ+MF+w3UvoW3EkCynSHBdn9gPipYWT7RmKg06HKIho+SScIxB/6i/aW+DviNISl4KY1DZEErnikPVCMDCqmaj/ReGh0a6TDunQnB01eeWt+46vlcT6Uxl9qLp7rxqLt4HEc5EU54muU9pdXySOv5SI9XJP7BOKF5WN4FbeYjXf2PqTNxIExpQrS9yyWhc9763Hf+/4sAfgHugYI38QUAAA==
+        blockMaterial: YELLOW_SHULKER_BOX
+    preview_slot: 30
+  '28':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: DIAMOND_HORSE_ARMOR
+    preview_slot: 31
+  '29':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: TORCH
+      amount: 64
+    preview_slot: 32
+  '30':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: MUSIC_DISC_CHIRP
+    preview_slot: 33
+  '31':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: JUKEBOX
+    preview_slot: 34
+  '32':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: COOKED_BEEF
+      amount: 64
+    preview_slot: 35
+  '33':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: BLACK_BED
+    preview_slot: 42
+  '34':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3955
+      type: DIAMOND_HOE
+    preview_slot: 44
+actions:
+  claim:
+    '1':
+      action: 'playsound: BLOCK_NOTE_BLOCK_PLING;10;2'
+      execute_before_items: false
+      count_as_item: false
+  error:
+    '1':
+      action: 'playsound: BLOCK_NOTE_BLOCK_PLING;10;0.1'
+      execute_before_items: false
+      count_as_item: false

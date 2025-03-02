@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 177.200.239.66
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727211903713
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727575683942
+  login: 1727575448021
+money: '89999.0'
+last-account-name: FFisaaYT
+lastlocation:
+  world: c0ee5cf8-ea9f-40d7-8557-c9fec49ea669
+  world-name: p1
+  x: 1.849237
+  y: 7.000000476837158
+  z: -73.7618
+  yaw: -125.54141998291016
+  pitch: -15.322738647460938
+logoutlocation:
+  world: 4cac5ad4-e878-4976-b087-07d8ba3c786e
+  world-name: lobby
+  x: 46.623642
+  y: 92.48666
+  z: 210.1005
+  yaw: 8.113876342773438
+  pitch: 16.209686279296875

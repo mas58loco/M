@@ -5,7 +5,7 @@ header-footer:
     - "<#FFFFFF>&m                                                </#FFFF00>"
     - "&3&lArzycraft"
     - "&7&l>> %animation:Welcome%&3 &l%player%&7&l! &7&l<<"
-    - "&7Online players: &f%online%"
+    - "&7En linea: &f%online%"
     - "&6Online staff: &e%staffonline%"
     - ""
   footer:
@@ -99,28 +99,28 @@ scoreboard:
       lines:
         - "&7%date%"
         - "%animation:MyAnimation1%"
-        - "&6Online:"
-        - "* &eOnline&7:||%online%"
+
+        - "* &eEn linea&7:||%online%"
         - ""
         - "&6Personal Info:"
-        - "* &bRank&7:||%Luckperms_prefix%"
+        - "* &bRango&7:||%Luckperms_prefix%"
         - "* &aDinero:||%vault_eco_balance%"
         - "* &bPing&7:||%ping%&8ms"
-        - "* &bWorld&7:||%world%"
+        - "* &bMundo&7:||%world%"
+        - "* Clan:||%veldora_clan_tag%"
         - "%animation:MyAnimation1%"
     scoreboard:
-      title: "<#E0B11E>ArzyCraft</#FF0000>"
+      title: "<#53d4ff>ArzyCraft</#def7ff>"
       lines:
         - "&7%date%"
         - "%animation:MyAnimation1%"
-        - "&6Online:"
-        - "* &eOnline&7:||%online%"
+        - "* &eEn linea&7:||%online%"
         - ""
         - "&6Personal Info:"
-        - "* &bRank&7:||%Luckperms_prefix%"
+        - "* &bRango&7:||%Luckperms_prefix%"
         - "* &aDinero:||%vault_eco_balance%"
         - "* &bPing&7:||%ping%&8ms"
-        - "* &bWorld&7:||%world%"
+        - "* &bMundo&7:||%world%"
         - "%animation:MyAnimation1%"
 
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Layout

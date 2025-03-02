@@ -4,6 +4,15 @@ users:
     b3beefaa-3e3f-32cc-a98d-a6e365f4fed6:
       userUUID: b3beefaa-3e3f-32cc-a98d-a6e365f4fed6
       lastKnownName: mas_58_loco
+      homes:
+        Base:
+          homeName: Base
+          homeWorld: Survival
+          homeX: -6365.484095654833
+          homeY: 63.4857524151089
+          homeZ: -3460.0082053942724
+          homeYaw: -52.165573
+          homePitch: 32.850014
     00000000-0000-0000-0009-01f5e3b241e7:
       userUUID: 00000000-0000-0000-0009-01f5e3b241e7
       lastKnownName: _FFisaacRD6119
@@ -13,3 +22,60 @@ users:
     408e36f3-b12b-3089-b30c-0da8bbb865a8:
       userUUID: 408e36f3-b12b-3089-b30c-0da8bbb865a8
       lastKnownName: _FFisaacRD6119
+    0acdc6fc-c2cd-3dee-a005-2be12f064fc1:
+      userUUID: 0acdc6fc-c2cd-3dee-a005-2be12f064fc1
+      lastKnownName: WarningBot
+    00000000-0000-0000-0009-01f53c832413:
+      userUUID: 00000000-0000-0000-0009-01f53c832413
+      lastKnownName: _Mas_58_loco
+    ca2971bb-6643-3479-bcc6-0f4f15bcc650:
+      userUUID: ca2971bb-6643-3479-bcc6-0f4f15bcc650
+      lastKnownName: hchcj
+    00000000-0000-0000-0009-01f0f2d21748:
+      userUUID: 00000000-0000-0000-0009-01f0f2d21748
+      lastKnownName: _FFisaaYT
+      homes:
+        '1':
+          homeName: '1'
+          homeWorld: Survival
+          homeX: 415.47302
+          homeY: 80.0
+          homeZ: -2277.779
+          homeYaw: 105.02106
+          homePitch: 31.618988
+    8d2ec2dd-f1db-32b9-8240-47f7c0cd9df5:
+      userUUID: 8d2ec2dd-f1db-32b9-8240-47f7c0cd9df5
+      lastKnownName: FFisaaYT
+    582b76ed-d8e8-3a02-8260-bc638ebf4a1c:
+      userUUID: 582b76ed-d8e8-3a02-8260-bc638ebf4a1c
+      lastKnownName: Servidor
+    278f091b-8ec2-303e-a722-d63e332acde6:
+      userUUID: 278f091b-8ec2-303e-a722-d63e332acde6
+      lastKnownName: Richuus
+    088bee28-b907-3014-bba0-00710c3d6932:
+      userUUID: 088bee28-b907-3014-bba0-00710c3d6932
+      lastKnownName: buvie
+    6060206c-8dbe-3622-a04d-c84bff9b84c2:
+      userUUID: 6060206c-8dbe-3622-a04d-c84bff9b84c2
+      lastKnownName: elflaco535
+      homes:
+        casa:
+          homeName: casa
+          homeWorld: Survival
+          homeX: -4430.646130753344
+          homeY: 72.0
+          homeZ: 2121.6210487945496
+          homeYaw: 108.8714
+          homePitch: 11.617929
+    00000000-0000-0000-0009-01f6fd677fef:
+      userUUID: 00000000-0000-0000-0009-01f6fd677fef
+      lastKnownName: _VittoMilo
+      homes:
+        casa:
+          homeName: casa
+          homeWorld: Survival
+          homeX: -6360.463
+          homeY: 54.0
+          homeZ: -3453.2678
+          homeYaw: 84.71884
+          homePitch: 32.540726

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 186.14.254.195
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727579519427
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727580594967
+  login: 1727583392617
+money: '0'
+last-account-name: _Robotnick15GG
+lastlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 885.228
+  y: 69.0
+  z: 3092.5942
+  yaw: 104.792724609375
+  pitch: 7.1220550537109375
+logoutlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 689.2568
+  y: 88.0
+  z: 3136.731
+  yaw: 46.42631530761719
+  pitch: 21.05169677734375

@@ -1,0 +1,217 @@
+modules:
+  compass-module:
+    # Whether or not this feature is enabled.
+    enabled: true
+    
+    # The slot that this module's item is at by default.
+    slot: 1
+    
+    # The velocity at which a player will be launched.
+    velocity: 5
+    item:
+      type: COMPASS
+      name: '&4Launcher'
+      lore: '&7Launches you towards the, &7location you are facing.'
+  
+  random-teleport-module:
+    # Whether or not this feature is enabled.
+    enabled: true
+    
+    # The slot that this module's item is at by default.
+    slot: 2
+    item:
+      type: ENDEREYE
+      name: '&cRandom Teleport'
+      lore: '&7Teleports you to a random player.'
+    
+    # Whether or not actual pseudo-randomness will be used.
+    # If set to false, "random" teleport will just cycle through players in order.
+    random: false
+  
+  vanish-module:
+    # Whether or not this feature is enabled.
+    enabled: true
+    
+    # The slot that this module's item is at by default.
+    slot: 3
+    item:
+      type: INK:10
+      name: '&6Vanish'
+      lore: '&7Toggles your total vanish.'
+    item-off:
+      type: INK:8
+      name: '&6Vanish'
+      lore: '&7Toggles your total vanish.'
+  
+  gui-module:
+    # Whether or not this feature is enabled.
+    enabled: true
+    
+    # The slot that this module's item is at by default.
+    slot: 4
+    item:
+      type: PAPER
+      name: '&eStaff Hub'
+      lore: '&7Opens the Staff hub.'
+    
+    # Whether or not the unresolved reports GUI is enabled in the hub.
+    reports-gui: true
+    
+    # The title of the unresolved reports GUI.
+    reports-title: '&bUnresolved reports'
+    
+    # The name of the reports item
+    reports-name: '&bUnresolved reports GUI'
+    
+    # The lore of the reports item
+    reports-lore: '&7Shows all reports that haven''t been resolved.'
+    
+    # Whether or not the miner GUI is enabled in the hub.
+    miner-gui: true
+    
+    # The title of the miner GUI.
+    miner-title: '&bUnderground users'
+    
+    # The name of the miner item
+    miner-name: '&bMiner GUI'
+    
+    # The lore of the miner item
+    miner-lore: '&7Shows all players under the set Y value.'
+    
+    # The y-level at which a player will be marked as a miner.
+    xray-level: 16
+    my-reports-title: '&bReports assigned to you'
+    my-reports-lore: '&7Shows reports currently assigned to you.'
+    assigned-reports-title: '&bReports In Progress'
+    assigned-reports-lore: '&7Shows reports that are currently being worked on.'
+    closed-reports-title: '&bClosed reports'
+    closed-reports-lore: '&7History of all closed reports.'
+    protected-areas-gui: true
+    protected-areas-title: '&bOverview protected areas'
+    protected-areas-name: '&bProtected Areas GUI'
+    protected-areas-lore: '&7Shows all currently set protected areas.'
+    ban-gui: true
+    ban-title: '&bOverview banned players'
+    ban-name: '&bBanned players GUI'
+    ban-lore: '&7Shows all currently banned players.'
+    mute-gui: true
+    mute-title: '&bOverview muted players'
+    mute-name: '&bMuted players GUI'
+    mute-lore: '&7Shows all currently muted players.'
+    investigation-gui: true
+    investigation-title: '&bOverview investigations'
+    investigation-name: '&bInvestigations GUI'
+    investigation-lore: '&7Shows all investigations.'
+  
+  counter-module:
+    # Whether or not this feature is enabled.
+    enabled: true
+    
+    # The slot that this module's item is at by default.
+    slot: 5
+    item:
+      type: HEAD
+      name: '&aStaff List'
+      lore: '&7Shows all staff online and in staff mode'
+    
+    # The title of the counter GUI.
+    title: '&bCurrent staff online'
+    
+    # Whether or not the head item count will represent online staff or staff in staff mode.
+    show-staff-mode: false
+  
+  freeze-module:
+    # Whether or not this feature is enabled.
+    enabled: true
+    
+    # The slot that this module's item is at by default.
+    slot: 6
+    item:
+      type: BLAZE_ROD
+      name: '&2Freeze'
+      lore: '&7Toggles freeze for the clicked player.'
+    
+    unfreeze-on-logout: false
+  
+  cps-module:
+    # Whether or not this feature is enabled.
+    enabled: true
+    
+    # The slot that this module's item is at by default.
+    slot: 7
+    item:
+      type: CLOCK
+      name: '&3CPS'
+      lore: '&7Runs a click per second test on, &7the player that was clicked.'
+    
+    # Amount of time, in seconds, that the test will run for.
+    time: 10
+    
+    # The maximum allowed amount of CPS. If a result contains this amount or more, it will be significantly marked.
+    max: 16.0
+  
+  examine-module:
+    # Whether or not this feature is enabled.
+    enabled: true
+    
+    # The slot that this module's item is at by default.
+    slot: 8
+    item:
+      type: CHEST
+      name: '&bExamine'
+      lore: '&7Inspects the inventory of the player that was clicked.'
+    
+    # The title of the examine GUI.
+    title: '&bExamine inventory'
+    
+    # The configuration of the final line of the examine GUI.
+    # Set the slot of a node to zero to disable it.
+    # Remember that the maximum amount of allowed items within this line is nine!
+    info-line:
+      # Food and hunger information.
+      food: 1
+      
+      # IP address information.
+      ip-address: 2
+      
+      # Ping information.
+      ping: 3
+      
+      # Gamemode and flight information.
+      gamemode: 4
+      
+      # Infractions information.
+      infractions: 5
+      
+      # Location information and teleport button.
+      location: 6
+      
+      # Player "notes" button.
+      notes: 7
+      
+      # Freeze button
+      freeze: 8
+      
+      # Warn button.
+      warn: 9
+  
+  follow-module:
+    # Whether or not this feature is enabled.
+    enabled: true
+    
+    # The slot that this module's item is at by default.
+    slot: 9
+    item:
+      type: LEAD
+      name: '&9Follow'
+      lore: '&7Mounts the player that was clicked.'
+    
+    # Whether or not following will literally mount a player.
+    use-mount: true
+  
+  player-details-module:
+    enabled: true
+    item:
+      type: STICK
+      name: '&9Details stick'
+      lore: '&7Show all player details.'

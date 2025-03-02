@@ -8,9 +8,9 @@
 # |                                                                                              |
 # +----------------------------------------------------------------------------------------------+
 
-prefix: '&f&l[&cCombat&f&l]&f: '
-no_perm: '&cNo tienes permiso para aser esto en combate!'
-reloaded: '&fAs relogueado el plugin!'
+prefix: '&f&l[&cCombat+&f&l]&f: '
+no_perm: '&cYou do not have permission to do that!'
+reloaded: '&fYou have successfully reloaded the plugin!'
 update_reminder: '&6There is a new version available, Your version &a%current%&6 new
   version &a%new%'
 golden_apple_cooldown: '&fYou cannot eat a Golden Apple yet, You must wait %seconds%

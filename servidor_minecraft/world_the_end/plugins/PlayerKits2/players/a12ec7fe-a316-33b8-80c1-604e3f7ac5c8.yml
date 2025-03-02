@@ -1,0 +1,10 @@
+name: DarkexGame
+kits:
+  PROTECCION_INICIAL:
+    cooldown: 1730173400012
+    one_time: false
+    bought: false
+  KITINICIAL:
+    cooldown: 1727584105261
+    one_time: false
+    bought: false

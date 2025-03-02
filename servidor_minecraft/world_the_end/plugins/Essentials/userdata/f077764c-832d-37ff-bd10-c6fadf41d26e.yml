@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 181.46.33.86
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727581573518
+  login: 1727580902703
+money: '0'
+last-account-name: Pepito_gaming
+lastlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 858.7731732661723
+  y: 69.49520087700593
+  z: 2971.0404355427654
+  yaw: -86.21703338623047
+  pitch: 7.704281806945801
+logoutlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 18.129261058612382
+  y: 84.0
+  z: 151.23706905146048
+  yaw: -19.7667236328125
+  pitch: 29.549983978271484

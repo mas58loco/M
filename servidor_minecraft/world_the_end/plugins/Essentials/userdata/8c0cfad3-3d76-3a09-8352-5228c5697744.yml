@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 201.215.221.116
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727578184150
+  login: 1727578176679
+money: '0'
+last-account-name: DinoAmaru123
+lastlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: 832.0549
+  y: 74.0
+  z: 2976.3733
+  yaw: -81.61112976074219
+  pitch: -0.3000946044921875
+logoutlocation:
+  world: 033a9579-88d3-429a-a642-e1ba2d6d1603
+  world-name: survival
+  x: -1198.1401
+  y: 6.0625
+  z: -745.3926
+  yaw: -50.56330871582031
+  pitch: 24.929290771484375
