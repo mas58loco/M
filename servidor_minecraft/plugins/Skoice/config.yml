@@ -14,7 +14,7 @@ discordsrv-synchronization: true
 essentialsx-synchronization: true
 release-channel: production
 unreviewed-settings:
-- voice-chat
-- discord-integration
-- in-game-messages
+  - voice-chat
+  - discord-integration
+  - in-game-messages
 session-reported: true

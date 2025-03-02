@@ -4,8 +4,11 @@ chest-paid: false
 lastColorChangeTime: 0
 lastRenameTime: 0
 total-kills: 1
-total-deaths: 20
+total-deaths: 43
 allies: []
 ally-count: 0
 clan-members: []
 player-count: 0
+members:
+  b3beefaa-3e3f-32cc-a98d-a6e365f4fed6:
+    deaths: 23

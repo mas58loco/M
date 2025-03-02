@@ -1,0 +1,23 @@
+[2025/03/02 16:04:34]: §9          __             _       
+[2025/03/02 16:04:34]: §9  _ __   / /  ___   __ _(_)_ __  
+[2025/03/02 16:04:34]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2025/03/02 16:04:34]: §9 | | | / /__| (_) | (_| | | | | |
+[2025/03/02 16:04:34]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2025/03/02 16:04:34]: §9                  |___/            
+[2025/03/02 16:04:34]: §9 By: www.nickuc.com - V 10.4.21
+[2025/03/02 16:04:34]: §9 
+[2025/03/02 16:04:34]: §3[nLogin] [DEBUG] All settings were loaded in 145 ms.
+[2025/03/02 16:04:34]: §3[nLogin] [DEBUG] Loading the messages_es.yml message file...
+[2025/03/02 16:04:34]: §3[nLogin] [DEBUG] All plugin messages were loaded in 72 ms (languageByClient=false).
+[2025/03/02 16:04:34]: §3[nLogin] [DEBUG] All proxy settings were loaded in 3 ms.
+[2025/03/02 16:04:34]: §3[nLogin] [DEBUG] Loading database...
+[2025/03/02 16:04:35]: §3[nLogin] [DEBUG] Starting logger filter...
+[2025/03/02 16:05:54]: §3[nLogin] [DEBUG] The mas_58_loco (100.86.4.53) player entered an incorrect password
+[2025/03/02 16:05:54]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'mas_58_loco', `unique_id` = b3beefaa3e3f32cca98da6e365f4fed6,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$Ervy/9nqdjAxu50vP9YCqOZYAEg0meZf5Ta7bGFP6YUoWgPdUzArO', `last_ip` = '186.102.101.113', `creation_date` = 2025-01-07 19:43:02.246, `last_seen` = 2025-01-27 18:59:07.545, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":{"block-tries-100.86.4.53":{"expires-on":1740932754417,"value":1}},"key":"temporary"},{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [settings] columns)
+[2025/03/02 16:06:08]: §3[nLogin] [DEBUG] The mas_58_loco (100.86.4.53) player entered an incorrect password
+[2025/03/02 16:06:08]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'mas_58_loco', `unique_id` = b3beefaa3e3f32cca98da6e365f4fed6,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$Ervy/9nqdjAxu50vP9YCqOZYAEg0meZf5Ta7bGFP6YUoWgPdUzArO', `last_ip` = '186.102.101.113', `creation_date` = 2025-01-07 19:43:02.246, `last_seen` = 2025-01-27 18:59:07.545, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":{"block-tries-100.86.4.53":{"expires-on":1740932768621,"value":2}},"key":"temporary"},{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [settings] columns)
+[2025/03/02 16:06:38]: §3[nLogin] [DEBUG] Forcing mas_58_loco login...
+[2025/03/02 16:06:38]: §3[nLogin] [DEBUG] The mas_58_loco player had his account authenticated by CONSOLE.
+[2025/03/02 16:06:38]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'mas_58_loco', `unique_id` = b3beefaa3e3f32cca98da6e365f4fed6,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$Ervy/9nqdjAxu50vP9YCqOZYAEg0meZf5Ta7bGFP6YUoWgPdUzArO', `last_ip` = '100.86.4.53', `creation_date` = 2025-01-07 19:43:02.246, `last_seen` = 2025-03-02 16:06:38.707, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":{"block-tries-100.86.4.53":{"expires-on":1740932768621,"value":2}},"key":"temporary"},{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/03/02 16:06:38]: [nLogin] The user mas_58_loco has successfully logged in.
+[2025/03/02 16:20:58]: [nLogin] Successful plugin core shutdown (took 0.00s)

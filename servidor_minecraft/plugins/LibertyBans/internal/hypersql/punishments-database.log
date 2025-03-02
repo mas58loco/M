@@ -1,0 +1,38 @@
+/*C2*/SET SCHEMA PUBLIC
+SET DATABASE TRANSACTION CONTROL MVLOCKS
+/*C3*/SET SCHEMA PUBLIC
+SET DATABASE TRANSACTION CONTROL MVLOCKS
+/*C4*/SET SCHEMA PUBLIC
+SET DATABASE TRANSACTION CONTROL MVLOCKS
+/*C5*/SET SCHEMA PUBLIC
+SET DATABASE TRANSACTION CONTROL MVLOCKS
+/*C6*/SET SCHEMA PUBLIC
+SET DATABASE TRANSACTION CONTROL MVLOCKS
+/*C7*/SET SCHEMA PUBLIC
+SET DATABASE TRANSACTION CONTROL MVLOCKS
+/*C2*/SET SCHEMA "PUBLIC"
+DELETE FROM "libertybans_names" WHERE "uuid"='b3beefaa-3e3f-32cc-a98d-a6e365f4fed6' AND "name"='mas_58_loco' AND "lower_name"='mas_58_loco' AND "updated"=1740931570
+INSERT INTO "libertybans_names" VALUES('b3beefaa-3e3f-32cc-a98d-a6e365f4fed6','mas_58_loco','mas_58_loco',1740951446)
+DELETE FROM "libertybans_addresses" WHERE "uuid"='b3beefaa-3e3f-32cc-a98d-a6e365f4fed6' AND "address"='64560435' AND "updated"=1740931570
+INSERT INTO "libertybans_addresses" VALUES('b3beefaa-3e3f-32cc-a98d-a6e365f4fed6','64560435',1740951446)
+COMMIT
+DELETE FROM "libertybans_names" WHERE "uuid"='b3beefaa-3e3f-32cc-a98d-a6e365f4fed6' AND "name"='mas_58_loco' AND "lower_name"='mas_58_loco' AND "updated"=1740951446
+INSERT INTO "libertybans_names" VALUES('b3beefaa-3e3f-32cc-a98d-a6e365f4fed6','mas_58_loco','mas_58_loco',1740951465)
+DELETE FROM "libertybans_addresses" WHERE "uuid"='b3beefaa-3e3f-32cc-a98d-a6e365f4fed6' AND "address"='64560435' AND "updated"=1740951446
+INSERT INTO "libertybans_addresses" VALUES('b3beefaa-3e3f-32cc-a98d-a6e365f4fed6','64560435',1740951465)
+COMMIT
+DELETE FROM "libertybans_names" WHERE "uuid"='b3beefaa-3e3f-32cc-a98d-a6e365f4fed6' AND "name"='mas_58_loco' AND "lower_name"='mas_58_loco' AND "updated"=1740951465
+INSERT INTO "libertybans_names" VALUES('b3beefaa-3e3f-32cc-a98d-a6e365f4fed6','mas_58_loco','mas_58_loco',1740951470)
+DELETE FROM "libertybans_addresses" WHERE "uuid"='b3beefaa-3e3f-32cc-a98d-a6e365f4fed6' AND "address"='64560435' AND "updated"=1740951465
+INSERT INTO "libertybans_addresses" VALUES('b3beefaa-3e3f-32cc-a98d-a6e365f4fed6','64560435',1740951470)
+COMMIT
+DELETE FROM "libertybans_names" WHERE "uuid"='b3beefaa-3e3f-32cc-a98d-a6e365f4fed6' AND "name"='mas_58_loco' AND "lower_name"='mas_58_loco' AND "updated"=1740951470
+INSERT INTO "libertybans_names" VALUES('b3beefaa-3e3f-32cc-a98d-a6e365f4fed6','mas_58_loco','mas_58_loco',1740951479)
+DELETE FROM "libertybans_addresses" WHERE "uuid"='b3beefaa-3e3f-32cc-a98d-a6e365f4fed6' AND "address"='64560435' AND "updated"=1740951470
+INSERT INTO "libertybans_addresses" VALUES('b3beefaa-3e3f-32cc-a98d-a6e365f4fed6','64560435',1740951479)
+COMMIT
+DELETE FROM "libertybans_names" WHERE "uuid"='b3beefaa-3e3f-32cc-a98d-a6e365f4fed6' AND "name"='mas_58_loco' AND "lower_name"='mas_58_loco' AND "updated"=1740951479
+INSERT INTO "libertybans_names" VALUES('b3beefaa-3e3f-32cc-a98d-a6e365f4fed6','mas_58_loco','mas_58_loco',1740951486)
+DELETE FROM "libertybans_addresses" WHERE "uuid"='b3beefaa-3e3f-32cc-a98d-a6e365f4fed6' AND "address"='64560435' AND "updated"=1740951479
+INSERT INTO "libertybans_addresses" VALUES('b3beefaa-3e3f-32cc-a98d-a6e365f4fed6','64560435',1740951486)
+COMMIT
