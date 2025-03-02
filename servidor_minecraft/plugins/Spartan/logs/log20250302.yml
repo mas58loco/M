@@ -7020,3 +7020,140 @@
   (Ping: 119ms), (W-XYZ: world -3 116 15), (Data: type: clicks-pattern, count: 11,
   difference: 31.662761839414728, deviation: 116.66276183941473)'
 2025/03/02 02:23:38:525Z: 'mas_58_loco was active for: 85793'
+2025/03/02 02:32:43:775Z: 'mas_58_loco was active for: 2392'
+2025/03/02 02:33:34:424Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 11,
+  difference: 14.481747794407454, deviation: 94.51825220559255)'
+2025/03/02 02:33:34:520Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.74), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 13,
+  difference: 3.829931908393803, deviation: 89.8299319083938)'
+2025/03/02 02:33:34:622Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 12,
+  difference: 11.272135181381827, deviation: 90.72786481861817)'
+2025/03/02 02:33:34:717Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 12,
+  difference: 4.86323522759227, deviation: 90.13676477240773)'
+2025/03/02 02:33:34:812Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 13,
+  difference: 4.4479891627653245, deviation: 90.55201083723468)'
+2025/03/02 02:33:34:908Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 13,
+  difference: 5.4479891627653245, deviation: 90.55201083723468)'
+2025/03/02 02:33:35:014Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 13,
+  difference: 15.0463082099091, deviation: 89.9536917900909)'
+2025/03/02 02:33:35:311Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 12,
+  difference: 21.775951439249653, deviation: 104.77595143924965)'
+2025/03/02 02:33:35:413Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 12,
+  difference: 2.133218872400519, deviation: 104.13321887240052)'
+2025/03/02 02:33:35:512Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 12,
+  difference: 7.0497717534623945, deviation: 105.0497717534624)'
+2025/03/02 02:33:35:608Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 12,
+  difference: 8.534465825652674, deviation: 104.53446582565267)'
+2025/03/02 02:33:35:708Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 12,
+  difference: 4.957567183557131, deviation: 104.95756718355713)'
+2025/03/02 02:33:35:811Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 12,
+  difference: 2.641331443194659, deviation: 105.64133144319466)'
+2025/03/02 02:33:36:014Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 12,
+  difference: 4.797405020590702, deviation: 105.7974050205907)'
+2025/03/02 02:33:36:117Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 12,
+  difference: 13.58930306013309, deviation: 89.41069693986691)'
+2025/03/02 02:33:36:213Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 13,
+  difference: 6.0217618902585315, deviation: 89.97823810974147)'
+2025/03/02 02:33:36:331Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 12,
+  difference: 25.66464284025224, deviation: 92.33535715974776)'
+2025/03/02 02:33:36:414Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 12,
+  difference: 12.666085944811186, deviation: 95.66608594481119)'
+2025/03/02 02:33:36:513Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 12,
+  difference: 5.913128378354202, deviation: 91.0868716216458)'
+2025/03/02 02:33:36:611Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 12,
+  difference: 7.110956755953353, deviation: 90.88904324404665)'
+2025/03/02 02:33:36:718Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 12,
+  difference: 14.797926658336422, deviation: 91.20207334166358)'
+2025/03/02 02:33:36:808Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 13,
+  difference: 0.18525100036737285, deviation: 91.18525100036737)'
+2025/03/02 02:33:36:907Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 13,
+  difference: 8.090704545684659, deviation: 90.90929545431534)'
+2025/03/02 02:33:37:012Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 13,
+  difference: 13.713819957965896, deviation: 91.2861800420341)'
+2025/03/02 02:33:37:123Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 12,
+  difference: 19.30187867493983, deviation: 91.69812132506017)'
+2025/03/02 02:33:37:211Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 13,
+  difference: 3.3956599990758036, deviation: 91.3956599990758)'
+2025/03/02 02:33:37:328Z: '(Player: mas_58_loco), (Check: FastClicks), (Java: true),
+  (Detection: click_pattern), (Certainty: 80.68), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 129ms), (W-XYZ: world -8 63 77), (Data: type: clicks-pattern, count: 13,
+  difference: 25.711537786348188, deviation: 91.28846221365181)'
+2025/03/02 02:34:16:575Z: 'mas_58_loco was active for: 24403'
