@@ -1,28 +1,26 @@
-[01:35:38] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[01:35:38] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[01:35:38] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:35:39] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
-[01:35:42] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 2668ms.
-[01:35:42] [ServerMain/INFO]: [PluginInitializerManager] Initialized 25 plugins
-[01:35:42] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (25):
+[15:08:53] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[15:08:53] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[15:08:53] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[15:08:54] [ServerMain/INFO]: [PluginInitializerManager] Initialized 25 plugins
+[15:08:54] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (25):
  - Chunky (1.4.28), CombatPlus (1.7.5), CoreProtect (22.4), DiscordSRV (1.29.0), EpicHomes (1.1.2), Essentials (2.21.0-dev+154-667b0f7), EssentialsSpawn (2.21.0-dev+154-667b0f7), FastAsyncWorldEdit (2.12.4-SNAPSHOT-1011;7160792), GUIShop (9.2.5), Geyser-Spigot (2.6.0-SNAPSHOT), LuckPerms (5.4.131), Multiverse-Core (4.3.15-SNAPSHOT), PlaceholderAPI (2.11.6), PlayerKits2 (1.14.3), ProtectionStones (2.10.5), SkinsRestorer (15.5.3), Spartan (4.0.0.7), TAB (5.0.3), UltraStaff (1.7.1-BETA), Vault (1.7.3-b131), VeldoraClan (0.2.3), ViaBackwards (5.2.1), ViaVersion (5.2.1), WorldGuard (7.0.12+829a4a4), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
-[01:35:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:35:51] [ServerMain/INFO]: Loaded 1290 recipes
-[01:35:51] [ServerMain/INFO]: Loaded 1399 advancements
-[01:35:52] [Server thread/INFO]: Starting minecraft server version 1.21
-[01:35:52] [Server thread/INFO]: Loading properties
-[01:35:52] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[01:35:53] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[01:35:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:35:53] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:35:54] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[01:35:54] [Server thread/INFO]: Default game type: SURVIVAL
-[01:35:54] [Server thread/INFO]: Generating keypair
-[01:35:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:35:54] [Server thread/INFO]: Using epoll channel type
-[01:35:54] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:35:54] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[01:35:54] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/.paper-remapped/UltraStaff-1.7.1-BETA.jar' in 'plugins/.paper-remapped'
+[15:09:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:09:02] [ServerMain/INFO]: Loaded 1290 recipes
+[15:09:03] [ServerMain/INFO]: Loaded 1399 advancements
+[15:09:03] [Server thread/INFO]: Starting minecraft server version 1.21
+[15:09:03] [Server thread/INFO]: Loading properties
+[15:09:03] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[15:09:04] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[15:09:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:09:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:09:05] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[15:09:06] [Server thread/INFO]: Default game type: SURVIVAL
+[15:09:06] [Server thread/INFO]: Generating keypair
+[15:09:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:09:06] [Server thread/INFO]: Using epoll channel type
+[15:09:06] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[15:09:06] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[15:09:06] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/.paper-remapped/UltraStaff-1.7.1-BETA.jar' in 'plugins/.paper-remapped'
 org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [NBTAPI]. Please download and install these plugins to run 'UltraStaff'.
 	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.jar:1.21-130-b1b5d4c]
 	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.jar:1.21-130-b1b5d4c]
@@ -32,392 +30,322 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.jar:1.21-130-b1b5d4c]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[01:35:58] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
-[01:35:58] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
-[01:35:59] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[01:35:59] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[01:36:00] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[01:36:00] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[01:36:01] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[01:36:02] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[01:36:02] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.12.4-SNAPSHOT-1011;7160792
-[01:36:02] [Server thread/WARN]: 
+[15:09:10] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
+[15:09:10] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
+[15:09:12] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[15:09:12] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[15:09:14] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[15:09:14] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[15:09:15] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[15:09:15] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[15:09:15] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.12.4-SNAPSHOT-1011;7160792
+[15:09:15] [Server thread/WARN]: 
 **********************************************
 ** You are using the Spigot-mapped FAWE jar on a modern Paper version.
 ** This will result in slower first-run times and wasted disk space from plugin remapping.
 ** Download the Paper FAWE jar from Modrinth to avoid this: https://modrinth.com/plugin/fastasyncworldedit/
 **********************************************
-[01:36:04] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4c06f8ed]
-[01:36:04] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[01:36:05] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[01:36:05] [Server thread/INFO]: [floodgate] Took 1,361ms to boot Floodgate
-[01:36:05] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[01:36:05] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.1
-[01:36:05] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.12+829a4a4
-[01:36:05] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.15-SNAPSHOT
-[01:36:05] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+154-667b0f7
-[01:36:05] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.3
-[01:36:05] [Server thread/INFO]: [ProtectionStones] Loading server plugin ProtectionStones v2.10.5
-[01:36:05] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.28
-[01:36:05] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
-[01:36:07] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[01:36:07] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[01:36:07] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.29.0
-[01:36:07] [Server thread/INFO]: [Spartan] Loading server plugin Spartan v4.0.0.7
-[01:36:07] [Server thread/INFO]: [PlayerKits2] Loading server plugin PlayerKits2 v1.14.3
-[01:36:07] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
-[01:36:07] [Server thread/INFO]: [EpicHomes] Loading server plugin EpicHomes v1.1.2
-[01:36:07] [Server thread/INFO]: [EpicHomes] -------------------------------------------
-[01:36:07] [Server thread/INFO]: [EpicHomes] A supported Minecraft version has been detected
-[01:36:07] [Server thread/INFO]: [EpicHomes] Your server version is: 1.21-130-b1b5d4c (MC: 1.21)
-[01:36:07] [Server thread/INFO]: [EpicHomes] Continuing plugin startup
-[01:36:07] [Server thread/INFO]: [EpicHomes] -------------------------------------------
-[01:36:07] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v22.4
-[01:36:07] [Server thread/INFO]: [CombatPlus] Loading server plugin CombatPlus v1.7.5
-[01:36:07] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.0-dev+154-667b0f7
-[01:36:07] [Server thread/INFO]: [GUIShop] Loading server plugin GUIShop v9.2.5
-[01:36:07] [Server thread/INFO]: [VeldoraClan] Loading server plugin VeldoraClan v0.2.3
-[01:36:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:36:07] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[01:36:08] [Server thread/INFO]:         __    
-[01:36:08] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[01:36:08] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[01:36:08] [Server thread/INFO]: 
-[01:36:08] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[01:36:08] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[01:36:08] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[01:36:08] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[01:36:09] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1418ms)
-[01:36:09] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[01:36:09] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[01:36:09] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[01:36:09] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[01:36:09] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[01:36:09] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.12.4-SNAPSHOT-1011;7160792
-[01:36:09] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
-[01:36:09] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
-[01:36:09] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[01:36:09] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
-[01:36:10] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_R1.PaperweightFaweAdapter as the Bukkit adapter
-[01:36:11] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.3
-[01:36:11] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[01:36:12] [ForkJoinPool.commonPool-worker-1/WARN]: [com.fastasyncworldedit.core.util.UpdateNotification] An update for FastAsyncWorldEdit is available. You are 48 build(s) out of date.
+[15:09:18] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6611ba72]
+[15:09:18] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[15:09:20] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[15:09:20] [Server thread/INFO]: [floodgate] Took 2,007ms to boot Floodgate
+[15:09:20] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[15:09:20] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.1
+[15:09:20] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.12+829a4a4
+[15:09:20] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.15-SNAPSHOT
+[15:09:20] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+154-667b0f7
+[15:09:20] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.3
+[15:09:20] [Server thread/INFO]: [ProtectionStones] Loading server plugin ProtectionStones v2.10.5
+[15:09:20] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.28
+[15:09:20] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
+[15:09:23] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[15:09:23] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[15:09:23] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.29.0
+[15:09:23] [Server thread/INFO]: [Spartan] Loading server plugin Spartan v4.0.0.7
+[15:09:23] [Server thread/INFO]: [PlayerKits2] Loading server plugin PlayerKits2 v1.14.3
+[15:09:23] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
+[15:09:23] [Server thread/INFO]: [EpicHomes] Loading server plugin EpicHomes v1.1.2
+[15:09:23] [Server thread/INFO]: [EpicHomes] -------------------------------------------
+[15:09:23] [Server thread/INFO]: [EpicHomes] A supported Minecraft version has been detected
+[15:09:23] [Server thread/INFO]: [EpicHomes] Your server version is: 1.21-130-b1b5d4c (MC: 1.21)
+[15:09:23] [Server thread/INFO]: [EpicHomes] Continuing plugin startup
+[15:09:23] [Server thread/INFO]: [EpicHomes] -------------------------------------------
+[15:09:23] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v22.4
+[15:09:23] [Server thread/INFO]: [CombatPlus] Loading server plugin CombatPlus v1.7.5
+[15:09:23] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.0-dev+154-667b0f7
+[15:09:23] [Server thread/INFO]: [GUIShop] Loading server plugin GUIShop v9.2.5
+[15:09:23] [Server thread/INFO]: [VeldoraClan] Loading server plugin VeldoraClan v0.2.3
+[15:09:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:09:23] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[15:09:23] [Server thread/INFO]:         __    
+[15:09:23] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[15:09:23] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[15:09:23] [Server thread/INFO]: 
+[15:09:23] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[15:09:24] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[15:09:24] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[15:09:24] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[15:09:25] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1889ms)
+[15:09:25] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[15:09:25] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[15:09:25] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[15:09:25] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[15:09:25] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[15:09:25] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.12.4-SNAPSHOT-1011;7160792
+[15:09:26] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[15:09:26] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[15:09:26] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[15:09:26] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[15:09:27] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_R1.PaperweightFaweAdapter as the Bukkit adapter
+[15:09:28] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.3
+[15:09:29] [ForkJoinPool.commonPool-worker-1/WARN]: [com.fastasyncworldedit.core.util.UpdateNotification] An update for FastAsyncWorldEdit is available. You are 48 build(s) out of date.
 You are running build 1011, the latest version is build 1059.
 Update at https://www.spigotmc.org/resources/13932/
-[01:36:12] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[01:36:12] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[01:36:13] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[01:36:13] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.5.3]
-[01:36:13] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
-[01:36:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:36:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:36:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:36:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:36:13] [Server thread/INFO]: Preparing level "world"
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.3
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 86e796c
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[01:36:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:36:14] [Server thread/INFO]: Time elapsed: 1164 ms
-[01:36:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:36:15] [Server thread/INFO]: Time elapsed: 150 ms
-[01:36:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:36:15] [Server thread/INFO]: Time elapsed: 106 ms
-[01:36:15] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
-[01:36:15] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[01:36:15] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[01:36:16] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[01:36:16] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[01:36:16] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.1
-[01:36:16] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.12+829a4a4
-[01:36:16] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[01:36:16] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[01:36:16] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
-[01:36:16] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[01:36:16] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[01:36:16] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[01:36:16] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[01:36:16] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
-[01:36:16] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[01:36:16] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[01:36:16] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[01:36:16] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[01:36:16] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
-[01:36:16] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[01:36:16] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[01:36:16] [Server thread/INFO]: [WorldGuard] Loading region data...
-[01:36:17] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.15-SNAPSHOT
-[01:36:17] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.15-SNAPSHOT" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
-[01:36:17] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
-[01:36:17] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
-[01:36:17] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
-[01:36:17] [Server thread/INFO]: [Multiverse-Core] Version 4.3.15-SNAPSHOT (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
-[01:36:17] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+154-667b0f7
-[01:36:18] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[01:36:18] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[01:36:18] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[01:36:18] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
-[01:36:18] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[01:36:18] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[01:36:18] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[01:36:18] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
-[01:36:18] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[01:36:18] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[01:36:18] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[01:36:18] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[01:36:18] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[01:36:18] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[01:36:18] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
-[01:36:18] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
-[01:36:18] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[01:36:18] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[01:36:18] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[01:36:18] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[01:36:18] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[01:36:18] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[01:36:18] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[01:36:18] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[01:36:18] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
-[01:36:18] [Server thread/INFO]: [Essentials] Using locale en
-[01:36:19] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[01:36:19] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[01:36:19] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[01:36:19] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[01:36:19] [Server thread/INFO]: [ProtectionStones] Enabling ProtectionStones v2.10.5
-[01:36:19] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.GreetingFlagHandler
-[01:36:19] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.FarewellFlagHandler
-[01:36:19] [Server thread/INFO]: [ProtectionStones] PlaceholderAPI support enabled!
-[01:36:19] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: protectionstones [2.10.5]
-[01:36:19] [Server thread/INFO]: [ProtectionStones] LuckPerms support enabled!
-[01:36:19] [Server thread/INFO]: [ProtectionStones] Protection Stone Blocks:
-[01:36:19] [Server thread/WARN]: [ProtectionStones] Unrecognized material: iron_ore
-[01:36:19] [Server thread/WARN]: [ProtectionStones] Block will not be added. Please fix this in your config.
-[01:36:19] [Server thread/WARN]: [ProtectionStones] Unrecognized material: coal_ore
-[01:36:19] [Server thread/WARN]: [ProtectionStones] Block will not be added. Please fix this in your config.
-[01:36:19] [Server thread/WARN]: [ProtectionStones] Unrecognized material: ancient_debris
-[01:36:19] [Server thread/WARN]: [ProtectionStones] Block will not be added. Please fix this in your config.
-[01:36:19] [Server thread/WARN]: [ProtectionStones] Unrecognized material: diamond_ore
-[01:36:19] [Server thread/WARN]: [ProtectionStones] Block will not be added. Please fix this in your config.
-[01:36:19] [Server thread/WARN]: [ProtectionStones] Unrecognized material: gold_ore
-[01:36:19] [Server thread/WARN]: [ProtectionStones] Block will not be added. Please fix this in your config.
-[01:36:19] [Server thread/INFO]: [ProtectionStones] Building region cache...
-[01:36:19] [Server thread/INFO]: [ProtectionStones] Building UUID cache... (if slow change async-load-uuid-cache in the config to true)
-[01:36:19] [Server thread/INFO]: [ProtectionStones] Checking if PS regions have been updated to UUIDs...
-[01:36:19] [Server thread/INFO]: [ProtectionStones] §fProtectionStones has successfully started!
-[01:36:19] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.28
-[01:36:20] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
-[01:36:20] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.29.0
-[01:36:20] [Server thread/INFO]: [Spartan] Enabling Spartan v4.0.0.7
-[01:36:20] [DiscordSRV - Initialization/ERROR]: [DiscordSRV] No bot token has been set in the config; a bot token is required to connect to Discord.
-[01:36:21] [pool-21-thread-1/WARN]: [floodgate] 
+[15:09:29] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[15:09:30] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[15:09:30] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[15:09:31] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[15:09:31] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.5.3]
+[15:09:31] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[15:09:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:09:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:09:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:09:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:09:31] [Server thread/INFO]: Preparing level "world"
+[15:09:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:09:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[15:09:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[15:09:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[15:09:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[15:09:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[15:09:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:09:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.3
+[15:09:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 86e796c
+[15:09:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[15:09:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:09:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[15:09:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[15:09:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:09:33] [Server thread/INFO]: Time elapsed: 1608 ms
+[15:09:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:09:33] [Server thread/INFO]: Time elapsed: 329 ms
+[15:09:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:09:33] [Server thread/INFO]: Time elapsed: 161 ms
+[15:09:33] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
+[15:09:33] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[15:09:34] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[15:09:35] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[15:09:35] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[15:09:35] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.1
+[15:09:35] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.12+829a4a4
+[15:09:36] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[15:09:36] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[15:09:36] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[15:09:36] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[15:09:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[15:09:36] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[15:09:36] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[15:09:36] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[15:09:36] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[15:09:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[15:09:36] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[15:09:36] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[15:09:36] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[15:09:36] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[15:09:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[15:09:36] [Server thread/INFO]: [WorldGuard] Loading region data...
+[15:09:37] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.15-SNAPSHOT
+[15:09:37] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.15-SNAPSHOT" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[15:09:37] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[15:09:37] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[15:09:37] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[15:09:37] [Server thread/INFO]: [Multiverse-Core] Version 4.3.15-SNAPSHOT (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[15:09:37] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+154-667b0f7
+[15:09:38] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[15:09:38] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[15:09:38] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[15:09:38] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[15:09:38] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[15:09:38] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
+[15:09:38] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[15:09:38] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[15:09:38] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[15:09:38] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[15:09:38] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[15:09:38] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[15:09:38] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[15:09:38] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[15:09:38] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[15:09:38] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[15:09:38] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[15:09:38] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[15:09:38] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[15:09:38] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[15:09:38] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[15:09:38] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[15:09:38] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[15:09:38] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[15:09:38] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[15:09:38] [Server thread/INFO]: [Essentials] Using locale en
+[15:09:39] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[15:09:39] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[15:09:39] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[15:09:39] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[15:09:39] [Server thread/INFO]: [ProtectionStones] Enabling ProtectionStones v2.10.5
+[15:09:39] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.GreetingFlagHandler
+[15:09:39] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.FarewellFlagHandler
+[15:09:39] [Server thread/INFO]: [ProtectionStones] PlaceholderAPI support enabled!
+[15:09:39] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: protectionstones [2.10.5]
+[15:09:39] [Server thread/INFO]: [ProtectionStones] LuckPerms support enabled!
+[15:09:40] [Server thread/INFO]: [ProtectionStones] Protection Stone Blocks:
+[15:09:40] [Server thread/WARN]: [ProtectionStones] Unrecognized material: iron_ore
+[15:09:40] [Server thread/WARN]: [ProtectionStones] Block will not be added. Please fix this in your config.
+[15:09:40] [Server thread/WARN]: [ProtectionStones] Unrecognized material: coal_ore
+[15:09:40] [Server thread/WARN]: [ProtectionStones] Block will not be added. Please fix this in your config.
+[15:09:40] [Server thread/WARN]: [ProtectionStones] Unrecognized material: ancient_debris
+[15:09:40] [Server thread/WARN]: [ProtectionStones] Block will not be added. Please fix this in your config.
+[15:09:40] [Server thread/WARN]: [ProtectionStones] Unrecognized material: diamond_ore
+[15:09:40] [Server thread/WARN]: [ProtectionStones] Block will not be added. Please fix this in your config.
+[15:09:40] [pool-20-thread-1/WARN]: [floodgate] 
 **********************************
 * The prefix you entered in your Floodgate config (_) could lead to username conflicts!
 * Should a Java player join with the username _Notch, and a Bedrock player join as Notch (who will be given the name _Notch), unwanted results will happen!
 * We strongly recommend using . as the prefix, but other alternatives that will not conflict include: +, - and *
 **********************************
-[01:36:21] [pool-61-thread-1/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (9d4734818ab27069d76f264a4cda74a699806770)
-[01:36:22] [Server thread/INFO]: [PlayerKits2] Enabling PlayerKits2 v1.14.3
-[01:36:22] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: playerkits [1.14.3]
-[01:36:22] [Server thread/INFO]: [PlayerKits²] Has been enabled! Version: 1.14.3
-[01:36:22] [Server thread/INFO]: [PlayerKits²] Thanks for using my plugin!   ~Ajneb97
-[01:36:22] [Server thread/INFO]: There is a new version available. (1.16.1)
-[01:36:22] [Server thread/INFO]: You can download it at: https://modrinth.com/plugin/playerkits-2
-[01:36:22] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
-[01:36:23] [Server thread/INFO]: [TAB] Loaded NMS hook in 78ms
-[01:36:23] [Server thread/INFO]: [TAB] Enabled in 738ms
-[01:36:23] [Server thread/INFO]: [EpicHomes] Enabling EpicHomes v1.1.2
-[01:36:23] [Server thread/INFO]: [EpicHomes] -------------------------------------------
-[01:36:23] [Server thread/INFO]: [EpicHomes] Successfully loaded usermap to memory.
-[01:36:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: epicHomes [1.1.2]
-[01:36:23] [Server thread/INFO]: [EpicHomes] -------------------------------------------
-[01:36:23] [Server thread/INFO]: [EpicHomes] PlaceholderAPI found!
-[01:36:23] [Server thread/INFO]: [EpicHomes] External placeholders enabled!
-[01:36:23] [Server thread/INFO]: [EpicHomes] Continuing plugin startup
-[01:36:23] [Server thread/INFO]: [EpicHomes] -------------------------------------------
-[01:36:23] [Server thread/INFO]: [EpicHomes] -------------------------------------------
-[01:36:23] [Server thread/INFO]: [EpicHomes] Plugin by: Loving11ish
-[01:36:23] [Server thread/INFO]: [EpicHomes] has been loaded successfully
-[01:36:23] [Server thread/INFO]: [EpicHomes] Plugin Version: 1.1.2
-[01:36:23] [Server thread/INFO]: [EpicHomes] -------------------------------------------
-[01:36:23] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v22.4
-[01:36:24] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
-[01:36:24] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
-[01:36:24] [Server thread/INFO]: --------------------
-[01:36:24] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
-[01:36:24] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
-[01:36:24] [Server thread/INFO]: --------------------
-[01:36:24] [Server thread/INFO]: [CombatPlus] Enabling CombatPlus v1.7.5
-[01:36:24] [Server thread/INFO]:  
-[01:36:24] [Server thread/INFO]: Combat Plus v1.7.5
-[01:36:24] [Server thread/INFO]:  
-[01:36:24] [Server thread/INFO]:   Author: Nik
-[01:36:24] [Server thread/INFO]:  
-[01:36:24] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: combatplus [1.7.5]
-[01:36:24] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0-dev+154-667b0f7
-[01:36:24] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
-[01:36:24] [Server thread/INFO]: [GUIShop] Enabling GUIShop v9.2.5
-[01:36:25] [Server thread/INFO]: [VeldoraClan] Enabling VeldoraClan v0.2.3
-[01:36:26] [Server thread/INFO]: ================================================================
-[01:36:26] [Server thread/INFO]:      __      __
-[01:36:26] [Server thread/INFO]:       \ \    / /
-[01:36:26] [Server thread/INFO]:        \ \  / / 
-[01:36:26] [Server thread/INFO]:         \ \/ /  
-[01:36:26] [Server thread/INFO]:          \  /   
-[01:36:26] [Server thread/INFO]:           \/    
-[01:36:26] [Server thread/INFO]: ================================================================
-[01:36:26] [Server thread/INFO]: Veldora Clan Plugin Information
-[01:36:26] [Server thread/INFO]: Running Version: 0.2.3
-[01:36:26] [Server thread/INFO]: Latest Version: 0.2.5
-[01:36:26] [Server thread/INFO]: You are currently 2 versions behind.
-[01:36:26] [Server thread/INFO]: Download the latest version here: https://veldora.dev/
-[01:36:26] [Server thread/INFO]: Discord: https://discord.com/invite/PyhmWdUa8m
-[01:36:26] [Server thread/INFO]: ================================================================
-[01:36:26] [Server thread/INFO]: ============================================
-[01:36:26] [Server thread/INFO]:      __      __
-[01:36:26] [Server thread/INFO]:       \ \    / /
-[01:36:26] [Server thread/INFO]:        \ \  / / 
-[01:36:26] [Server thread/INFO]:         \ \/ /  
-[01:36:26] [Server thread/INFO]:          \  /   
-[01:36:26] [Server thread/INFO]:           \/    
-[01:36:26] [Server thread/INFO]: 
-[01:36:26] [Server thread/INFO]: Veldora Clan Plugin
-[01:36:26] [Server thread/INFO]: Version: 0.2.3
-[01:36:26] [Server thread/INFO]: Author: eggsv31
-[01:36:26] [Server thread/INFO]: Discord: https://discord.com/invite/PyhmWdUa8m
-[01:36:26] [Server thread/INFO]: Spigot: https://www.spigotmc.org/resources/veldora-clan-1-16-1-20-2-6.119698
-[01:36:26] [Server thread/INFO]: --------------------------------------------
-[01:36:26] [Server thread/INFO]:   The plugin has been successfully enabled! 
-[01:36:26] [Server thread/INFO]: ============================================
-[01:36:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: veldora [0.2.3]
-[01:36:26] [Server thread/INFO]: [spark] Starting background profiler...
-[01:36:26] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[01:36:26] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[01:36:26] [Server thread/INFO]: [Geyser-Spigot] 
-[01:36:26] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b739 (git-master-623ec2b)
-[01:36:26] [Server thread/INFO]: [Geyser-Spigot] 
-[01:36:26] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[01:36:33] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 25565
-[01:36:34] [Server thread/INFO]: [Geyser-Spigot] Done (7.328s)! Run /geyser help for help!
-[01:36:34] [ForkJoinPool.commonPool-worker-1/INFO]: [Geyser-Spigot] There's a new Geyser update available to support Bedrock version 1.21.60. Download it here: https://geysermc.org/download
-[01:36:34] [Server thread/INFO]: Done preparing level "world" (20.867s)
-[01:36:34] [Server thread/INFO]: Running delayed init tasks
-[01:36:34] [Craft Scheduler Thread - 6 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[01:36:34] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] Checking for Updates ... 
-[01:36:34] [Craft Scheduler Thread - 4 - Essentials/INFO]: [Essentials] Fetching version information...
-[01:36:34] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.regions.WorldGuardFeature] Plugin 'WorldGuard' found. Using it now.
-[01:36:34] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.FaweBukkit] Attempting to use plugin 'WorldGuard'
-[01:36:34] [Craft Scheduler Thread - 11 - VeldoraClan/INFO]: ================================================================
-[01:36:34] [Craft Scheduler Thread - 11 - VeldoraClan/INFO]:      __      __
-[01:36:34] [Craft Scheduler Thread - 11 - VeldoraClan/INFO]:       \ \    / /
-[01:36:34] [Craft Scheduler Thread - 11 - VeldoraClan/INFO]:        \ \  / / 
-[01:36:34] [Craft Scheduler Thread - 11 - VeldoraClan/INFO]:         \ \/ /  
-[01:36:34] [Craft Scheduler Thread - 11 - VeldoraClan/INFO]:          \  /   
-[01:36:34] [Craft Scheduler Thread - 11 - VeldoraClan/INFO]:           \/    
-[01:36:34] [Craft Scheduler Thread - 11 - VeldoraClan/INFO]: ================================================================
-[01:36:34] [Craft Scheduler Thread - 11 - VeldoraClan/INFO]: Veldora Clan Plugin Information
-[01:36:34] [Craft Scheduler Thread - 11 - VeldoraClan/INFO]: Running Version: 0.2.3
-[01:36:34] [Craft Scheduler Thread - 11 - VeldoraClan/INFO]: Latest Version: 0.2.5
-[01:36:34] [Craft Scheduler Thread - 11 - VeldoraClan/INFO]: You are currently 2 versions behind.
-[01:36:34] [Craft Scheduler Thread - 11 - VeldoraClan/INFO]: Download the latest version here: https://veldora.dev/
-[01:36:34] [Craft Scheduler Thread - 11 - VeldoraClan/INFO]: Discord: https://discord.com/invite/PyhmWdUa8m
-[01:36:34] [Craft Scheduler Thread - 11 - VeldoraClan/INFO]: ================================================================
-[01:36:34] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[01:36:34] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.29.0
-[01:36:34] [Craft Scheduler Thread - 9 - EpicHomes/INFO]: [EpicHomes] *-------------------------------------------*
-[01:36:34] [Craft Scheduler Thread - 9 - EpicHomes/INFO]: [EpicHomes] Plugin is up to date!
-[01:36:34] [Craft Scheduler Thread - 9 - EpicHomes/INFO]: [EpicHomes] *-------------------------------------------*
-[01:36:34] [Craft Scheduler Thread - 6 - CombatPlus/INFO]: [Combat]: There is a new version available, Your version 1.7.5 new version 1.7.6
-[01:36:34] [Server thread/INFO]: [CoreProtect] FastAsyncWorldEdit logging successfully initialized.
-[01:36:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
-[01:36:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
-[01:36:34] [Server thread/INFO]: 2 placeholder hook(s) registered!
-[01:36:34] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] No new version available
-[01:36:34] [Server thread/INFO]: Done (57.715s)! For help, type "help"
-[01:36:34] [Server thread/INFO]: Timings Reset
-[01:36:34] [Craft Scheduler Thread - 4 - Essentials/WARN]: [Essentials] You're 31 EssentialsX dev build(s) out of date!
-[01:36:34] [Craft Scheduler Thread - 4 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
-[01:36:39] [Craft Scheduler Thread - 5 - EpicHomes/INFO]: [EpicHomes] Auto save task has started.
-[01:36:40] [Craft Scheduler Thread - 8 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[01:37:23] [User Authenticator #0/INFO]: UUID of player mas_58_loco is b3beefaa-3e3f-32cc-a98d-a6e365f4fed6
-[01:37:25] [Server thread/INFO]: mas_58_loco joined the game
-[01:37:25] [Server thread/INFO]: mas_58_loco[/100.86.4.53:62248] logged in with entity id 19 at ([world]-73.20797066177286, 79.0, 118.57377550151924)
-[01:39:33] [Server thread/INFO]: mas_58_loco was doomed to fall by Skeleton
-[01:39:48] [Server thread/INFO]: mas_58_loco was shot by Skeleton
-[01:40:13] [Server thread/INFO]: mas_58_loco was shot by Skeleton
-[01:51:40] [Craft Scheduler Thread - 5 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[01:54:24] [Server thread/INFO]: mas_58_loco was shot by Skeleton
-[01:55:26] [Server thread/INFO]: mas_58_loco was shot by Skeleton
-[02:06:40] [Craft Scheduler Thread - 17 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[02:19:22] [Server thread/INFO]: mas_58_loco issued server command: /memory
-[02:19:49] [Server thread/INFO]: mas_58_loco was shot by Skeleton
-[02:20:24] [Server thread/INFO]: mas_58_loco was slain by Spider
-[02:20:39] [Server thread/INFO]: mas_58_loco was shot by Skeleton
-[02:20:56] [Server thread/INFO]: mas_58_loco has made the advancement [Take Aim]
-[02:21:17] [Server thread/INFO]: mas_58_loco tried to swim in lava
-[02:21:23] [Server thread/INFO]: mas_58_loco issued server command: /lp editor
-[02:21:40] [Craft Scheduler Thread - 5 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[02:22:00] [Server thread/INFO]: mas_58_loco has made the advancement [Stone Age]
-[02:22:04] [Server thread/INFO]: mas_58_loco fell from a high place
-[02:22:25] [Server thread/INFO]: mas_58_loco was shot by Skeleton
-[02:22:45] [Server thread/INFO]: mas_58_loco was slain by Zombie
-[02:36:40] [Craft Scheduler Thread - 24 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[02:51:40] [Craft Scheduler Thread - 25 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[03:06:40] [Craft Scheduler Thread - 31 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[03:21:40] [Craft Scheduler Thread - 32 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[03:31:45] [Server thread/INFO]: mas_58_loco lost connection: Disconnected
-[03:31:46] [Server thread/INFO]: mas_58_loco left the game
-[03:36:40] [Craft Scheduler Thread - 23 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[03:51:40] [Craft Scheduler Thread - 40 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[04:06:40] [Craft Scheduler Thread - 23 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[04:21:40] [Craft Scheduler Thread - 44 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[04:36:40] [Craft Scheduler Thread - 49 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[04:51:40] [Craft Scheduler Thread - 50 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[05:06:40] [Craft Scheduler Thread - 55 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[05:21:40] [Craft Scheduler Thread - 53 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[05:36:40] [Craft Scheduler Thread - 59 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[05:51:40] [Craft Scheduler Thread - 59 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[06:06:40] [Craft Scheduler Thread - 59 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[06:21:40] [Craft Scheduler Thread - 67 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[06:36:40] [Craft Scheduler Thread - 70 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[06:51:40] [Craft Scheduler Thread - 74 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[07:06:40] [Craft Scheduler Thread - 76 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[07:21:40] [Craft Scheduler Thread - 74 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[07:24:28] [Server thread/INFO]: Unknown or incomplete command, see below for error
-op<--[HERE]
-[07:24:30] [Server thread/INFO]: Made mm a server operator
-[07:36:34] [Craft Scheduler Thread - 79 - Vault/INFO]: [Vault] Checking for Updates ... 
-[07:36:34] [Craft Scheduler Thread - 79 - Vault/INFO]: [Vault] No new version available
-[07:36:40] [Craft Scheduler Thread - 70 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[07:51:40] [Craft Scheduler Thread - 86 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[08:06:40] [Craft Scheduler Thread - 89 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[08:21:40] [Craft Scheduler Thread - 92 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[08:36:40] [Craft Scheduler Thread - 86 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[08:51:40] [Craft Scheduler Thread - 98 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[09:06:40] [Craft Scheduler Thread - 99 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[09:21:40] [Craft Scheduler Thread - 97 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[09:36:40] [Craft Scheduler Thread - 102 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[09:51:40] [Craft Scheduler Thread - 107 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[10:06:40] [Craft Scheduler Thread - 106 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[10:21:40] [Craft Scheduler Thread - 113 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[10:36:40] [Craft Scheduler Thread - 117 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[10:51:40] [Craft Scheduler Thread - 119 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[11:06:40] [Craft Scheduler Thread - 122 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[11:21:40] [Craft Scheduler Thread - 120 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[11:36:40] [Craft Scheduler Thread - 127 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[11:51:40] [Craft Scheduler Thread - 132 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[12:06:40] [Craft Scheduler Thread - 135 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[12:21:40] [Craft Scheduler Thread - 137 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[12:36:40] [Craft Scheduler Thread - 139 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[12:51:40] [Craft Scheduler Thread - 135 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[13:06:40] [Craft Scheduler Thread - 137 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
-[13:21:40] [Craft Scheduler Thread - 148 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
+[15:09:40] [Server thread/WARN]: [ProtectionStones] Unrecognized material: gold_ore
+[15:09:40] [Server thread/WARN]: [ProtectionStones] Block will not be added. Please fix this in your config.
+[15:09:40] [Server thread/INFO]: [ProtectionStones] Building region cache...
+[15:09:40] [Server thread/INFO]: [ProtectionStones] Building UUID cache... (if slow change async-load-uuid-cache in the config to true)
+[15:09:40] [Server thread/INFO]: [ProtectionStones] Checking if PS regions have been updated to UUIDs...
+[15:09:40] [Server thread/INFO]: [ProtectionStones] §fProtectionStones has successfully started!
+[15:09:40] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.28
+[15:09:40] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[15:09:41] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.29.0
+[15:09:41] [Server thread/INFO]: [Spartan] Enabling Spartan v4.0.0.7
+[15:09:41] [DiscordSRV - Initialization/ERROR]: [DiscordSRV] No bot token has been set in the config; a bot token is required to connect to Discord.
+[15:09:42] [pool-60-thread-1/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (9d4734818ab27069d76f264a4cda74a699806770)
+[15:09:43] [Server thread/INFO]: [PlayerKits2] Enabling PlayerKits2 v1.14.3
+[15:09:43] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: playerkits [1.14.3]
+[15:09:43] [Server thread/INFO]: [PlayerKits²] Has been enabled! Version: 1.14.3
+[15:09:43] [Server thread/INFO]: [PlayerKits²] Thanks for using my plugin!   ~Ajneb97
+[15:09:43] [Server thread/INFO]: There is a new version available. (1.16.1)
+[15:09:43] [Server thread/INFO]: You can download it at: https://modrinth.com/plugin/playerkits-2
+[15:09:43] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
+[15:09:44] [Server thread/INFO]: [TAB] Loaded NMS hook in 121ms
+[15:09:45] [Server thread/INFO]: [TAB] Enabled in 899ms
+[15:09:45] [Server thread/INFO]: [EpicHomes] Enabling EpicHomes v1.1.2
+[15:09:45] [Server thread/INFO]: [EpicHomes] -------------------------------------------
+[15:09:45] [Server thread/INFO]: [EpicHomes] Successfully loaded usermap to memory.
+[15:09:45] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: epicHomes [1.1.2]
+[15:09:45] [Server thread/INFO]: [EpicHomes] -------------------------------------------
+[15:09:45] [Server thread/INFO]: [EpicHomes] PlaceholderAPI found!
+[15:09:45] [Server thread/INFO]: [EpicHomes] External placeholders enabled!
+[15:09:45] [Server thread/INFO]: [EpicHomes] Continuing plugin startup
+[15:09:45] [Server thread/INFO]: [EpicHomes] -------------------------------------------
+[15:09:45] [Server thread/INFO]: [EpicHomes] -------------------------------------------
+[15:09:45] [Server thread/INFO]: [EpicHomes] Plugin by: Loving11ish
+[15:09:45] [Server thread/INFO]: [EpicHomes] has been loaded successfully
+[15:09:45] [Server thread/INFO]: [EpicHomes] Plugin Version: 1.1.2
+[15:09:45] [Server thread/INFO]: [EpicHomes] -------------------------------------------
+[15:09:45] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v22.4
+[15:09:45] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
+[15:09:45] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[15:09:45] [Server thread/INFO]: --------------------
+[15:09:45] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[15:09:45] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[15:09:45] [Server thread/INFO]: --------------------
+[15:09:45] [Server thread/INFO]: [CombatPlus] Enabling CombatPlus v1.7.5
+[15:09:45] [Server thread/INFO]:  
+[15:09:45] [Server thread/INFO]: Combat Plus v1.7.5
+[15:09:45] [Server thread/INFO]:  
+[15:09:45] [Server thread/INFO]:   Author: Nik
+[15:09:45] [Server thread/INFO]:  
+[15:09:45] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: combatplus [1.7.5]
+[15:09:45] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0-dev+154-667b0f7
+[15:09:45] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[15:09:45] [Server thread/INFO]: [GUIShop] Enabling GUIShop v9.2.5
+[15:09:47] [Server thread/INFO]: [VeldoraClan] Enabling VeldoraClan v0.2.3
+[15:09:47] [Server thread/INFO]: ================================================================
+[15:09:47] [Server thread/INFO]:      __      __
+[15:09:47] [Server thread/INFO]:       \ \    / /
+[15:09:47] [Server thread/INFO]:        \ \  / / 
+[15:09:47] [Server thread/INFO]:         \ \/ /  
+[15:09:47] [Server thread/INFO]:          \  /   
+[15:09:47] [Server thread/INFO]:           \/    
+[15:09:47] [Server thread/INFO]: ================================================================
+[15:09:47] [Server thread/INFO]: Veldora Clan Plugin Information
+[15:09:47] [Server thread/INFO]: Running Version: 0.2.3
+[15:09:47] [Server thread/INFO]: Latest Version: 0.2.5
+[15:09:47] [Server thread/INFO]: You are currently 2 versions behind.
+[15:09:47] [Server thread/INFO]: Download the latest version here: https://veldora.dev/
+[15:09:47] [Server thread/INFO]: Discord: https://discord.com/invite/PyhmWdUa8m
+[15:09:47] [Server thread/INFO]: ================================================================
+[15:09:47] [Server thread/INFO]: ============================================
+[15:09:47] [Server thread/INFO]:      __      __
+[15:09:47] [Server thread/INFO]:       \ \    / /
+[15:09:47] [Server thread/INFO]:        \ \  / / 
+[15:09:47] [Server thread/INFO]:         \ \/ /  
+[15:09:47] [Server thread/INFO]:          \  /   
+[15:09:47] [Server thread/INFO]:           \/    
+[15:09:47] [Server thread/INFO]: 
+[15:09:47] [Server thread/INFO]: Veldora Clan Plugin
+[15:09:47] [Server thread/INFO]: Version: 0.2.3
+[15:09:47] [Server thread/INFO]: Author: eggsv31
+[15:09:47] [Server thread/INFO]: Discord: https://discord.com/invite/PyhmWdUa8m
+[15:09:47] [Server thread/INFO]: Spigot: https://www.spigotmc.org/resources/veldora-clan-1-16-1-20-2-6.119698
+[15:09:47] [Server thread/INFO]: --------------------------------------------
+[15:09:47] [Server thread/INFO]:   The plugin has been successfully enabled! 
+[15:09:47] [Server thread/INFO]: ============================================
+[15:09:47] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: veldora [0.2.3]
+[15:09:47] [Server thread/INFO]: [spark] Starting background profiler...
+[15:09:48] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[15:09:48] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[15:09:48] [Server thread/INFO]: [Geyser-Spigot] 
+[15:09:48] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b739 (git-master-623ec2b)
+[15:09:48] [Server thread/INFO]: [Geyser-Spigot] 
+[15:09:48] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[15:09:58] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on UDP port 25565
+[15:09:58] [Server thread/INFO]: [Geyser-Spigot] Done (10.266s)! Run /geyser help for help!
+[15:09:58] [ForkJoinPool.commonPool-worker-1/INFO]: [Geyser-Spigot] There's a new Geyser update available to support Bedrock version 1.21.60. Download it here: https://geysermc.org/download
+[15:09:58] [Server thread/INFO]: Done preparing level "world" (27.479s)
+[15:09:58] [Server thread/INFO]: Running delayed init tasks
+[15:09:58] [Craft Scheduler Thread - 6 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[15:09:58] [Craft Scheduler Thread - 4 - Essentials/INFO]: [Essentials] Fetching version information...
+[15:09:58] [Craft Scheduler Thread - 12 - Vault/INFO]: [Vault] Checking for Updates ... 
+[15:09:58] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.regions.WorldGuardFeature] Plugin 'WorldGuard' found. Using it now.
+[15:09:58] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.FaweBukkit] Attempting to use plugin 'WorldGuard'
+[15:09:58] [Craft Scheduler Thread - 9 - EpicHomes/INFO]: [EpicHomes] *-------------------------------------------*
+[15:09:58] [Craft Scheduler Thread - 9 - EpicHomes/INFO]: [EpicHomes] Plugin is up to date!
+[15:09:58] [Craft Scheduler Thread - 9 - EpicHomes/INFO]: [EpicHomes] *-------------------------------------------*
+[15:09:58] [Craft Scheduler Thread - 10 - VeldoraClan/INFO]: ================================================================
+[15:09:58] [Craft Scheduler Thread - 10 - VeldoraClan/INFO]:      __      __
+[15:09:58] [Craft Scheduler Thread - 10 - VeldoraClan/INFO]:       \ \    / /
+[15:09:58] [Craft Scheduler Thread - 10 - VeldoraClan/INFO]:        \ \  / / 
+[15:09:58] [Craft Scheduler Thread - 10 - VeldoraClan/INFO]:         \ \/ /  
+[15:09:58] [Craft Scheduler Thread - 10 - VeldoraClan/INFO]:          \  /   
+[15:09:58] [Craft Scheduler Thread - 10 - VeldoraClan/INFO]:           \/    
+[15:09:58] [Craft Scheduler Thread - 10 - VeldoraClan/INFO]: ================================================================
+[15:09:58] [Craft Scheduler Thread - 10 - VeldoraClan/INFO]: Veldora Clan Plugin Information
+[15:09:58] [Craft Scheduler Thread - 10 - VeldoraClan/INFO]: Running Version: 0.2.3
+[15:09:58] [Craft Scheduler Thread - 10 - VeldoraClan/INFO]: Latest Version: 0.2.5
+[15:09:58] [Craft Scheduler Thread - 10 - VeldoraClan/INFO]: You are currently 2 versions behind.
+[15:09:58] [Craft Scheduler Thread - 10 - VeldoraClan/INFO]: Download the latest version here: https://veldora.dev/
+[15:09:58] [Craft Scheduler Thread - 10 - VeldoraClan/INFO]: Discord: https://discord.com/invite/PyhmWdUa8m
+[15:09:58] [Craft Scheduler Thread - 10 - VeldoraClan/INFO]: ================================================================
+[15:09:58] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[15:09:59] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.29.0
+[15:09:59] [Craft Scheduler Thread - 12 - Vault/INFO]: [Vault] No new version available
+[15:09:59] [Craft Scheduler Thread - 11 - CombatPlus/INFO]: [Combat]: There is a new version available, Your version 1.7.5 new version 1.7.6
+[15:09:59] [Server thread/INFO]: [CoreProtect] FastAsyncWorldEdit logging successfully initialized.
+[15:09:59] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[15:09:59] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[15:09:59] [Server thread/INFO]: 2 placeholder hook(s) registered!
+[15:09:59] [Server thread/INFO]: Done (67.418s)! For help, type "help"
+[15:09:59] [Server thread/INFO]: Timings Reset
+[15:09:59] [Craft Scheduler Thread - 4 - Essentials/WARN]: [Essentials] You're 31 EssentialsX dev build(s) out of date!
+[15:09:59] [Craft Scheduler Thread - 4 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[15:10:03] [Craft Scheduler Thread - 4 - EpicHomes/INFO]: [EpicHomes] Auto save task has started.
+[15:10:04] [Craft Scheduler Thread - 11 - EpicHomes/INFO]: [EpicHomes] Saved usermap data to disk!
+[15:11:46] [User Authenticator #0/INFO]: UUID of player mas_58_loco is b3beefaa-3e3f-32cc-a98d-a6e365f4fed6
+[15:11:48] [Server thread/INFO]: mas_58_loco joined the game
+[15:11:48] [Server thread/INFO]: mas_58_loco[/100.86.4.53:55193] logged in with entity id 45 at ([world]-7.566400129163405, 63.0, 77.69999998807907)

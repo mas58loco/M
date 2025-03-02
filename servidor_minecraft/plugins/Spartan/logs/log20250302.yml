@@ -7664,3 +7664,13 @@
 2025/03/02 03:04:50:525Z: 'mas_58_loco was active for: 10427'
 2025/03/02 03:24:31:275Z: 'mas_58_loco was active for: 360'
 2025/03/02 03:28:56:025Z: 'mas_58_loco was active for: 3498'
+2025/03/02 15:12:03:300Z: '(Player: mas_58_loco), (Check: IrregularMovements), (Java:
+  true), (Detection: gravity_bukkit), (Certainty: 0.0), (Data-Completion: 33.33),
+  (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true),
+  (Packets: false), (Ping: 27ms), (W-XYZ: world -20 63 86), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.011029411764705883, difference: 0.02035550383599319, prediction:
+  -0.1149281065330788, vertical: -0.135283610369072, old-vertical: -0.037273575812513116,
+  box: 0.5351178111159882, old-box: 0.6704014214850602, air-ticks: 51, sensitive:
+  false)'
+2025/03/02 15:12:16:666Z: 'mas_58_loco was active for: 8302'
+2025/03/02 15:13:58:766Z: 'mas_58_loco was active for: 2686'
