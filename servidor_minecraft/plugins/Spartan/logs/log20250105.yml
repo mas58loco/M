@@ -1,0 +1,1824 @@
+2025/01/05 13:14:48:540-05:00: 'mas_58_loco was active for: 27068'
+2025/01/05 13:15:56:990-05:00: 'mas_58_loco was active for: 20860'
+2025/01/05 13:16:55:843-05:00: 'mas_58_loco was active for: 6568'
+2025/01/05 13:20:25:645-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 0.0), (Data-Completion: 33.33),
+  (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true),
+  (Packets: false), (Ping: 511ms), (W-XYZ: world 14 63 37), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.029605263157894735, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 19, sensitive: false)'
+2025/01/05 13:20:25:690-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 0.0), (Data-Completion: 33.33),
+  (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true),
+  (Packets: false), (Ping: 511ms), (W-XYZ: world 14 63 38), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.028125, difference: 0.0784000015258789, prediction: -0.0784000015258789,
+  vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035, old-box: 0.4948961475862035,
+  air-ticks: 20, sensitive: false)'
+2025/01/05 13:20:25:744-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 14 63 39), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.026785714285714284, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 21, sensitive: false)'
+2025/01/05 13:20:25:790-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 13 63 39), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.02556818181818182, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 22, sensitive: false)'
+2025/01/05 13:20:25:843-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 13 63 40), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.024456521739130436, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 23, sensitive: false)'
+2025/01/05 13:20:25:889-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 13 63 41), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0234375, difference: 0.0784000015258789, prediction: -0.0784000015258789,
+  vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035, old-box: 0.4948961475862035,
+  air-ticks: 24, sensitive: false)'
+2025/01/05 13:20:25:945-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 13 63 41), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0225, difference: 0.0784000015258789, prediction: -0.0784000015258789,
+  vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035, old-box: 0.4948961475862035,
+  air-ticks: 25, sensitive: false)'
+2025/01/05 13:20:25:993-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 13 63 42), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.021634615384615384, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 26, sensitive: false)'
+2025/01/05 13:20:26:043-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 13 63 42), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.020833333333333332, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 27, sensitive: false)'
+2025/01/05 13:20:26:095-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 13 63 43), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.020089285714285716, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 28, sensitive: false)'
+2025/01/05 13:20:26:145-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 13 63 43), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.01939655172413793, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 29, sensitive: false)'
+2025/01/05 13:20:26:190-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 44), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.01875, difference: 0.0784000015258789, prediction: -0.0784000015258789,
+  vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035, old-box: 0.4948961475862035,
+  air-ticks: 30, sensitive: false)'
+2025/01/05 13:20:26:244-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 44), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.018145161290322582, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 31, sensitive: false)'
+2025/01/05 13:20:26:296-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 44), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.017578125, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 32, sensitive: false)'
+2025/01/05 13:20:26:344-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 44), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.017045454545454544, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 33, sensitive: false)'
+2025/01/05 13:20:26:393-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 45), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.016544117647058824, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 34, sensitive: false)'
+2025/01/05 13:20:26:444-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 45), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.01607142857142857, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 35, sensitive: false)'
+2025/01/05 13:20:26:489-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 45), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.015625, difference: 0.0784000015258789, prediction: -0.0784000015258789,
+  vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035, old-box: 0.4948961475862035,
+  air-ticks: 36, sensitive: false)'
+2025/01/05 13:20:26:544-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 45), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.015202702702702704, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 37, sensitive: false)'
+2025/01/05 13:20:26:594-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 45), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.014802631578947368, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 38, sensitive: false)'
+2025/01/05 13:20:26:643-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.014423076923076924, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 39, sensitive: false)'
+2025/01/05 13:20:26:693-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0140625, difference: 0.0784000015258789, prediction: -0.0784000015258789,
+  vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035, old-box: 0.4948961475862035,
+  air-ticks: 40, sensitive: false)'
+2025/01/05 13:20:26:744-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.013719512195121951, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 41, sensitive: false)'
+2025/01/05 13:20:26:794-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.013392857142857142, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 42, sensitive: false)'
+2025/01/05 13:20:26:840-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.01308139534883721, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 43, sensitive: false)'
+2025/01/05 13:20:26:894-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.01278409090909091, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 44, sensitive: false)'
+2025/01/05 13:20:26:967-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0125, difference: 0.0784000015258789, prediction: -0.0784000015258789,
+  vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035, old-box: 0.4948961475862035,
+  air-ticks: 45, sensitive: false)'
+2025/01/05 13:20:26:989-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.012228260869565218, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 46, sensitive: false)'
+2025/01/05 13:20:27:044-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.011968085106382979, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 47, sensitive: false)'
+2025/01/05 13:20:27:096-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.01171875, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 48, sensitive: false)'
+2025/01/05 13:20:27:144-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.011479591836734694, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 49, sensitive: false)'
+2025/01/05 13:20:27:248-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 47), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.01125, difference: 0.0784000015258789, prediction: -0.0784000015258789,
+  vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035, old-box: 0.4948961475862035,
+  air-ticks: 50, sensitive: false)'
+2025/01/05 13:20:27:343-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 47), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.011029411764705883, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 51, sensitive: false)'
+2025/01/05 13:20:27:390-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 47), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.010817307692307692, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 52, sensitive: false)'
+2025/01/05 13:20:27:443-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 47), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.01061320754716981, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 53, sensitive: false)'
+2025/01/05 13:20:27:493-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 47), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.010416666666666666, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 54, sensitive: false)'
+2025/01/05 13:20:27:543-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 47), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.010227272727272727, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 55, sensitive: false)'
+2025/01/05 13:20:27:594-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 47), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.010044642857142858, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.4948961475862035,
+  old-box: 0.4948961475862035, air-ticks: 56, sensitive: false)'
+2025/01/05 13:20:27:643-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 47), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.009868421052631578, difference: 0.22840000748634337, prediction:
+  -0.0784000015258789, vertical: 0.15000000596046448, old-vertical: 0.0, box: 0.644896153546668,
+  old-box: 0.4948961475862035, air-ticks: 57, sensitive: false)'
+2025/01/05 13:20:27:708-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 48), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.009698275862068966, difference: 0.1714000023603438, prediction:
+  0.06860000717639934, vertical: 0.24000000953674316, old-vertical: 0.15000000596046448,
+  box: 0.8848961630834111, old-box: 0.644896153546668, air-ticks: 58, sensitive: false)'
+2025/01/05 13:20:27:747-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 63 48), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.009533898305084746, difference: 0.13719999928474694, prediction:
+  0.15680001239776628, vertical: 0.2940000116825132, old-vertical: 0.24000000953674316,
+  box: 0.17889617476592434, old-box: 0.8848961630834111, air-ticks: 59, sensitive:
+  false)'
+2025/01/05 13:20:27:794-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 64 48), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.009375, difference: 0.03332000852108416, prediction: 0.20972001553058925,
+  vertical: 0.1764000070095051, old-vertical: 0.2940000116825132, box: 0.35529618177542943,
+  old-box: 0.17889617476592434, air-ticks: 60, sensitive: false)'
+2025/01/05 13:20:27:839-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 64 48), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.009221311475409836, difference: 0.011367995497703856,
+  prediction: 0.0944720087079992, vertical: 0.10584000420570305, old-vertical: 0.1764000070095051,
+  box: 0.4611361859811325, old-box: 0.35529618177542943, air-ticks: 61, sensitive:
+  false)'
+2025/01/05 13:20:27:889-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 64 48), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.009072580645161291, difference: 0.038180797908968195,
+  prediction: 0.025323204614447956, vertical: 0.06350400252341615, old-vertical: 0.10584000420570305,
+  box: 0.5246401885045486, old-box: 0.4611361859811325, air-ticks: 62, sensitive:
+  false)'
+2025/01/05 13:20:27:943-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 64 48), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.008928571428571428, difference: 0.05426847935574089, prediction:
+  -0.01616607784168836, vertical: 0.03810240151405253, old-vertical: 0.06350400252341615,
+  box: 0.5627425900186012, old-box: 0.5246401885045486, air-ticks: 63, sensitive:
+  false)'
+2025/01/05 13:20:27:989-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 64 48), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0087890625, difference: 0.21392109418425495, prediction:
+  -0.04105964731536179, vertical: 0.17286144686889315, old-vertical: 0.03810240151405253,
+  box: 0.7356040368874943, old-box: 0.5627425900186012, air-ticks: 64, sensitive:
+  false)'
+2025/01/05 13:20:28:043-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 64 48), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.008653846153846154, difference: 0.012712648418631914,
+  prediction: 0.09100421970270682, vertical: 0.10371686812133873, old-vertical: 0.17286144686889315,
+  box: 0.839320905008833, old-box: 0.7356040368874943, air-ticks: 65, sensitive: false)'
+2025/01/05 13:20:28:089-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 64 48), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.008522727272727272, difference: 0.03898758966152224, prediction:
+  0.023242531211275317, vertical: 0.062230120872797556, old-vertical: 0.10371686812133873,
+  box: 0.9015510258816306, old-box: 0.839320905008833, air-ticks: 66, sensitive: false)'
+2025/01/05 13:20:28:195-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 64 48), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.008395522388059701, difference: 0.07715539792148783, prediction:
+  -0.01741448188359194, vertical: 0.059740916037895886, old-vertical: 0.062230120872797556,
+  box: 0.9612919419195265, old-box: 0.9015510258816306, air-ticks: 67, sensitive:
+  false)'
+2025/01/05 13:20:28:293-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 64 48), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.008272058823529412, difference: 0.041360632442907386,
+  prediction: -0.019853902669273393, vertical: 0.021506729773633992, old-vertical:
+  0.059740916037895886, box: 0.9827986716931605, old-box: 0.9612919419195265, air-ticks:
+  68, sensitive: false)'
+2025/01/05 13:20:28:449-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 64 48), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.008152173913043478, difference: 0.06216242013657302, prediction:
+  -0.05732340593750928, vertical: 0.00483901419906374, old-vertical: 0.021506729773633992,
+  box: 0.9876376858922242, old-box: 0.9827986716931605, air-ticks: 69, sensitive:
+  false)'
+2025/01/05 13:20:28:615-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 64 49), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.008035714285714285, difference: 0.07365776751849958, prediction:
+  -0.07365776751849958, vertical: 0.0, old-vertical: 0.00483901419906374, box: 0.9876376858922242,
+  old-box: 0.9876376858922242, air-ticks: 70, sensitive: false)'
+2025/01/05 13:20:28:659-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 64 49), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.007922535211267605, difference: 0.22840000748634337, prediction:
+  -0.0784000015258789, vertical: 0.15000000596046448, old-vertical: 0.0, box: 0.1376376918526887,
+  old-box: 0.9876376858922242, air-ticks: 71, sensitive: false)'
+2025/01/05 13:20:28:690-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 65 49), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0078125, difference: 0.1714000023603438, prediction: 0.06860000717639934,
+  vertical: 0.24000000953674316, old-vertical: 0.15000000596046448, box: 0.37763770138943187,
+  old-box: 0.1376376918526887, air-ticks: 72, sensitive: false)'
+2025/01/05 13:20:28:746-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 65 49), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.007705479452054794, difference: 0.01280000667571754, prediction:
+  0.15680001239776628, vertical: 0.14400000572204874, old-vertical: 0.24000000953674316,
+  box: 0.5216377071114806, old-box: 0.37763770138943187, air-ticks: 73, sensitive:
+  false)'
+2025/01/05 13:20:28:794-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 65 49), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.007601351351351352, difference: 0.023679996604915404,
+  prediction: 0.062720006828311, vertical: 0.0864000034332264, old-vertical: 0.14400000572204874,
+  box: 0.608037710544707, old-box: 0.5216377071114806, air-ticks: 74, sensitive: false)'
+2025/01/05 13:20:28:852-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 65 49), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0075, difference: 0.04556799857330075, prediction: 0.00627200348663225,
+  vertical: 0.051840002059933, old-vertical: 0.0864000034332264, box: 0.65987771260464,
+  old-box: 0.608037710544707, air-ticks: 75, sensitive: false)'
+2025/01/05 13:20:28:898-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 65 48), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.007401315789473684, difference: 0.0587007997543348, prediction:
+  -0.027596798518374998, vertical: 0.0311040012359598, old-vertical: 0.051840002059933,
+  box: 0.6909817138405998, old-box: 0.65987771260464, air-ticks: 76, sensitive: false)'
+2025/01/05 13:20:28:944-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 11 65 48), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.007305194805194805, difference: 0.06658048046295245, prediction:
+  -0.047918079721376565, vertical: 0.01866240074157588, old-vertical: 0.0311040012359598,
+  box: 0.7096441145821757, old-box: 0.6909817138405998, air-ticks: 77, sensitive:
+  false)'
+2025/01/05 13:20:28:998-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 11 65 48), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.007211538461538462, difference: 0.07130828888812303, prediction:
+  -0.0601108484431775, vertical: 0.011197440444945528, old-vertical: 0.01866240074157588,
+  box: 0.7208415550271212, old-box: 0.7096441145821757, air-ticks: 78, sensitive:
+  false)'
+2025/01/05 13:20:29:054-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 11 65 48), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.007120253164556962, difference: 0.07414497394322538, prediction:
+  -0.06742650967625806, vertical: 0.006718464266967317, old-vertical: 0.011197440444945528,
+  box: 0.7275600192940885, old-box: 0.7208415550271212, air-ticks: 79, sensitive:
+  false)'
+2025/01/05 13:20:29:117-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 11 65 48), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.00703125, difference: 0.2258469909367456, prediction:
+  -0.0718159064161064, vertical: 0.15403108452063918, old-vertical: 0.006718464266967317,
+  box: 0.8815911038147277, old-box: 0.7275600192940885, air-ticks: 80, sensitive:
+  false)'
+2025/01/05 13:20:29:146-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 11 65 48), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.006944444444444444, difference: 0.1698681924305964, prediction:
+  0.07255046424225728, vertical: 0.24241865667285367, old-vertical: 0.15403108452063918,
+  box: 0.12400976048758139, old-box: 0.8815911038147277, air-ticks: 81, sensitive:
+  false)'
+2025/01/05 13:20:29:207-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 66 47), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.006859756097560976, difference: 0.13628091332689007, prediction:
+  0.1591702866372866, vertical: 0.2954511999641767, old-vertical: 0.24241865667285367,
+  box: 0.41946096045175807, old-box: 0.12400976048758139, air-ticks: 82, sensitive:
+  false)'
+2025/01/05 13:20:29:247-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 66 47), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.00677710843373494, difference: 0.033871460095789785, prediction:
+  0.21114218007429864, vertical: 0.17727071997850885, old-vertical: 0.2954511999641767,
+  box: 0.5967316804302669, old-box: 0.41946096045175807, air-ticks: 83, sensitive:
+  false)'
+2025/01/05 13:20:29:290-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 66 47), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.006696428571428571, difference: 0.011037124552877739,
+  prediction: 0.09532530743423041, vertical: 0.10636243198710815, old-vertical: 0.17727071997850885,
+  box: 0.7030941124173751, old-box: 0.5967316804302669, air-ticks: 84, sensitive:
+  false)'
+2025/01/05 13:20:29:344-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 66 47), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.006617647058823529, difference: 0.03798227534207542, prediction:
+  0.025835183850189476, vertical: 0.06381745919226489, old-vertical: 0.10636243198710815,
+  box: 0.76691157160964, old-box: 0.7030941124173751, air-ticks: 85, sensitive: false)'
+2025/01/05 13:20:29:394-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 66 47), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.006540697674418605, difference: 0.05414936581559113, prediction:
+  -0.01585889030023788, vertical: 0.03829047551535325, old-vertical: 0.06381745919226489,
+  box: 0.8052020471249932, old-box: 0.76691157160964, air-ticks: 86, sensitive: false)'
+2025/01/05 13:20:29:443-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 66 47), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.00646551724137931, difference: 0.0638496200997175, prediction:
+  -0.04087533479049986, vertical: 0.022974285309217635, old-vertical: 0.03829047551535325,
+  box: 0.8281763324342108, old-box: 0.8052020471249932, air-ticks: 87, sensitive:
+  false)'
+2025/01/05 13:20:29:494-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 66 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.006392045454545455, difference: 0.0696697726701708, prediction:
+  -0.05588520148464591, vertical: 0.013784571185524896, old-vertical: 0.022974285309217635,
+  box: 0.8419609036197357, old-box: 0.8281763324342108, air-ticks: 88, sensitive:
+  false)'
+2025/01/05 13:20:29:544-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 66 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.006320224719101123, difference: 0.07316186421246246, prediction:
+  -0.06489112150114468, vertical: 0.00827074271131778, old-vertical: 0.013784571185524896,
+  box: 0.8502316463310535, old-box: 0.8419609036197357, air-ticks: 89, sensitive:
+  false)'
+2025/01/05 13:20:29:594-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 66 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.00625, difference: 0.07525711913782342, prediction: -0.07029467351103559,
+  vertical: 0.004962445626787826, old-vertical: 0.00827074271131778, box: 0.8551940919578414,
+  old-box: 0.8502316463310535, air-ticks: 90, sensitive: false)'
+2025/01/05 13:20:29:655-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 66 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.006181318681318681, difference: 0.0735368047169757, prediction:
+  -0.0735368047169757, vertical: 0.0, old-vertical: 0.004962445626787826, box: 0.8551940919578414,
+  old-box: 0.8551940919578414, air-ticks: 91, sensitive: false)'
+2025/01/05 13:20:29:690-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 66 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.006114130434782609, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.8551940919578414,
+  old-box: 0.8551940919578414, air-ticks: 92, sensitive: false)'
+2025/01/05 13:20:29:793-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 66 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.006048387096774193, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.8551940919578414,
+  old-box: 0.8551940919578414, air-ticks: 93, sensitive: false)'
+2025/01/05 13:20:29:893-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 66 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.005984042553191489, difference: 0.22840000748634337, prediction:
+  -0.0784000015258789, vertical: 0.15000000596046448, old-vertical: 0.0, box: 0.005194097918305829,
+  old-box: 0.8551940919578414, air-ticks: 94, sensitive: false)'
+2025/01/05 13:20:29:943-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 67 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0059210526315789476, difference: 0.1714000023603438, prediction:
+  0.06860000717639934, vertical: 0.24000000953674316, old-vertical: 0.15000000596046448,
+  box: 0.245194107455049, old-box: 0.005194097918305829, air-ticks: 95, sensitive:
+  false)'
+2025/01/05 13:20:29:993-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 67 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.005859375, difference: 0.01280000667571754, prediction:
+  0.15680001239776628, vertical: 0.14400000572204874, old-vertical: 0.24000000953674316,
+  box: 0.38919411317709773, old-box: 0.245194107455049, air-ticks: 96, sensitive:
+  false)'
+2025/01/05 13:20:30:043-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 67 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.005798969072164949, difference: 0.023679996604915404,
+  prediction: 0.062720006828311, vertical: 0.0864000034332264, old-vertical: 0.14400000572204874,
+  box: 0.47559411661032414, old-box: 0.38919411317709773, air-ticks: 97, sensitive:
+  false)'
+2025/01/05 13:20:30:146-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 67 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.005739795918367347, difference: 0.017971200054926705,
+  prediction: 0.00627200348663225, vertical: 0.024243203541558955, old-vertical: 0.0864000034332264,
+  box: 0.4998373201518831, old-box: 0.47559411661032414, air-ticks: 98, sensitive:
+  false)'
+2025/01/05 13:20:30:189-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 12 67 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.005681818181818182, difference: 0.05080320300749544, prediction:
+  -0.05464166159274872, vertical: -0.10544486460024416, old-vertical: 0.024243203541558955,
+  box: 0.39439245555163893, old-box: 0.4998373201518831, air-ticks: 99, sensitive:
+  false)'
+2025/01/05 13:20:32:644-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 8 65 41), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.029605263157894735, difference: 0.11282977164642394, prediction:
+  0.2196495449020055, vertical: 0.33247931654842944, old-vertical: 0.30413218431328914,
+  box: 0.7584691744538361, old-box: 0.42598985790540667, air-ticks: 19, sensitive:
+  false)'
+2025/01/05 13:20:32:690-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 8 65 41), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.028125, difference: 0.1020578608564062, prediction: 0.24742973503312163,
+  vertical: 0.3494875958895278, old-vertical: 0.33247931654842944, box: 0.10795677034336393,
+  old-box: 0.7584691744538361, air-ticks: 20, sensitive: false)'
+2025/01/05 13:20:32:740-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 7 66 40), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.026785714285714284, difference: 0.054405291578091375,
+  prediction: 0.2640978491118052, vertical: 0.20969255753371385, old-vertical: 0.3494875958895278,
+  box: 0.3176493278770778, old-box: 0.10795677034336393, air-ticks: 21, sensitive:
+  false)'
+2025/01/05 13:20:32:857-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 7 66 39), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.024456521739130436, difference: 0.18059010196891576, prediction:
+  0.044899224703685715, vertical: 0.22548932667260146, old-vertical: 0.1258155345202283,
+  box: 0.6689541890699076, old-box: 0.4434648623973061, air-ticks: 23, sensitive:
+  false)'
+2025/01/05 13:20:32:899-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 6 66 38), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0234375, difference: 0.1427140590498901, prediction: 0.1425795429141381,
+  vertical: 0.2852936019640282, old-vertical: 0.22548932667260146, box: 0.9542477910339358,
+  old-box: 0.6689541890699076, air-ticks: 24, sensitive: false)'
+2025/01/05 13:20:32:943-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 6 66 37), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0225, difference: 0.11998843329846054, prediction: 0.20118773384041233,
+  vertical: 0.32117616713887287, old-vertical: 0.2852936019640282, box: 0.2754239581728086,
+  old-box: 0.9542477910339358, air-ticks: 25, sensitive: false)'
+2025/01/05 13:20:32:989-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 5 67 36), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.021634615384615384, difference: 0.1063530578476253, prediction:
+  0.23635264839616574, vertical: 0.34270570624379104, old-vertical: 0.32117616713887287,
+  box: 0.6181296644165997, old-box: 0.2754239581728086, air-ticks: 26, sensitive:
+  false)'
+2025/01/05 13:20:33:048-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 5 67 36), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.020833333333333332, difference: 0.05182817338335427, prediction:
+  0.2574515971296289, vertical: 0.20562342374627463, old-vertical: 0.34270570624379104,
+  box: 0.8237530881628743, old-box: 0.6181296644165997, air-ticks: 27, sensitive:
+  false)'
+2025/01/05 13:20:33:140-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 4 67 34), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.01939655172413793, difference: 0.03151785855855319, prediction:
+  0.042506573990101125, vertical: 0.07402443254865432, old-vertical: 0.12337405424776193,
+  box: 0.021151574959290542, old-box: 0.9471271424106362, air-ticks: 29, sensitive:
+  false)'
+2025/01/05 13:20:33:190-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 4 68 33), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.01875, difference: 0.05027071574548911, prediction: -0.005856056216293675,
+  vertical: 0.04441465952919543, old-vertical: 0.07402443254865432, box: 0.06556623448848597,
+  old-box: 0.021151574959290542, air-ticks: 30, sensitive: false)'
+2025/01/05 13:20:33:244-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 4 68 32), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.018145161290322582, difference: 0.061522430057645086,
+  prediction: -0.034873634340124984, vertical: 0.026648795717520102, old-vertical:
+  0.04441465952919543, box: 0.09221503020600608, old-box: 0.06556623448848597, air-ticks:
+  31, sensitive: false)'
+2025/01/05 13:20:33:302-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 4 68 32), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.017578125, difference: 0.06827345864493015, prediction:
+  -0.05228418121442377, vertical: 0.015989277430506377, old-vertical: 0.026648795717520102,
+  box: 0.10820430763651245, old-box: 0.09221503020600608, air-ticks: 32, sensitive:
+  false)'
+2025/01/05 13:20:33:364-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 4 68 31), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.017045454545454544, difference: 0.07232407579731806, prediction:
+  -0.06273050933901139, vertical: 0.009593566458306668, old-vertical: 0.015989277430506377,
+  box: 0.11779787409481912, old-box: 0.10820430763651245, air-ticks: 33, sensitive:
+  false)'
+2025/01/05 13:20:33:406-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 4 68 31), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.016544117647058824, difference: 0.0747544460887453, prediction:
+  -0.06899830621375562, vertical: 0.005756139874989685, old-vertical: 0.009593566458306668,
+  box: 0.1235540139698088, old-box: 0.11779787409481912, air-ticks: 34, sensitive:
+  false)'
+2025/01/05 13:20:33:439-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 4 68 30), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.01607142857142857, difference: 0.07621266826358748, prediction:
+  -0.07275898433859936, vertical: 0.003453683924988127, old-vertical: 0.005756139874989685,
+  box: 0.12700769789479693, old-box: 0.1235540139698088, air-ticks: 35, sensitive:
+  false)'
+2025/01/05 13:20:33:498-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 5 68 30), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.015625, difference: 0.07501539121351675, prediction: -0.07501539121351675,
+  vertical: 0.0, old-vertical: 0.003453683924988127, box: 0.12700769789479693, old-box:
+  0.12700769789479693, air-ticks: 36, sensitive: false)'
+2025/01/05 13:20:33:556-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 5 68 30), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.015202702702702704, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.12700769789479693,
+  old-box: 0.12700769789479693, air-ticks: 37, sensitive: false)'
+2025/01/05 13:20:33:595-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 5 68 30), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.014802631578947368, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.12700769789479693,
+  old-box: 0.12700769789479693, air-ticks: 38, sensitive: false)'
+2025/01/05 13:20:33:644-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 6 68 30), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.014423076923076924, difference: 0.0784000015258789, prediction:
+  -0.0784000015258789, vertical: 0.0, old-vertical: 0.0, box: 0.12700769789479693,
+  old-box: 0.12700769789479693, air-ticks: 39, sensitive: false)'
+2025/01/05 13:20:33:695-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 6 68 30), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0140625, difference: 0.0784000015258789, prediction: -0.0784000015258789,
+  vertical: 0.0, old-vertical: 0.0, box: 0.12700769789479693, old-box: 0.12700769789479693,
+  air-ticks: 40, sensitive: false)'
+2025/01/05 13:20:33:760-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 6 68 30), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.013719512195121951, difference: 0.22840000748634337, prediction:
+  -0.0784000015258789, vertical: 0.15000000596046448, old-vertical: 0.0, box: 0.2770077038552614,
+  old-box: 0.12700769789479693, air-ticks: 41, sensitive: false)'
+2025/01/05 13:20:33:799-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 7 68 31), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.013392857142857142, difference: 0.1714000023603438, prediction:
+  0.06860000717639934, vertical: 0.24000000953674316, old-vertical: 0.15000000596046448,
+  box: 0.5170077133920046, old-box: 0.2770077038552614, air-ticks: 42, sensitive:
+  false)'
+2025/01/05 13:20:33:854-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 7 68 31), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.01308139534883721, difference: 0.13719999928474694, prediction:
+  0.15680001239776628, vertical: 0.2940000116825132, old-vertical: 0.24000000953674316,
+  box: 0.8110077250745178, old-box: 0.5170077133920046, air-ticks: 43, sensitive:
+  false)'
+2025/01/05 13:20:33:909-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 7 68 31), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.01278409090909091, difference: 0.03332000852108416, prediction:
+  0.20972001553058925, vertical: 0.1764000070095051, old-vertical: 0.2940000116825132,
+  box: 0.9874077320840229, old-box: 0.8110077250745178, air-ticks: 44, sensitive:
+  false)'
+2025/01/05 13:20:33:991-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 8 69 32), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.012228260869565218, difference: 0.038180797908968195,
+  prediction: 0.025323204614447956, vertical: 0.06350400252341615, old-vertical: 0.10584000420570305,
+  box: 0.15675173881314208, old-box: 0.09324773628972594, air-ticks: 46, sensitive:
+  false)'
+2025/01/05 13:20:34:065-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 8 69 33), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.011968085106382979, difference: 0.05426847935574089, prediction:
+  -0.01616607784168836, vertical: 0.03810240151405253, old-vertical: 0.06350400252341615,
+  box: 0.1948541403271946, old-box: 0.15675173881314208, air-ticks: 47, sensitive:
+  false)'
+2025/01/05 13:20:34:133-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 8 69 33), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.01171875, difference: 0.06392108822379047, prediction:
+  -0.04105964731536179, vertical: 0.022861440908428676, old-vertical: 0.03810240151405253,
+  box: 0.2177155812356233, old-box: 0.1948541403271946, air-ticks: 48, sensitive:
+  false)'
+2025/01/05 13:20:34:149-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 8 69 34), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.011479591836734694, difference: 0.06971265354463146, prediction:
+  -0.05599578899957142, vertical: 0.013716864545060048, old-vertical: 0.022861440908428676,
+  box: 0.23143244578068334, old-box: 0.2177155812356233, air-ticks: 49, sensitive:
+  false)'
+2025/01/05 13:20:34:202-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 9 69 35), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.01125, difference: 0.22318759869759783, prediction: -0.06495747401009164,
+  vertical: 0.1582301246875062, old-vertical: 0.013716864545060048, box: 0.38966257046818953,
+  old-box: 0.23143244578068334, air-ticks: 50, sensitive: false)'
+2025/01/05 13:20:34:248-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 9 69 35), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.011029411764705883, difference: 0.1682725570870909, prediction:
+  0.07666552368587728, vertical: 0.2449380807729682, old-vertical: 0.1582301246875062,
+  box: 0.6346006512411577, old-box: 0.38966257046818953, air-ticks: 51, sensitive:
+  false)'
+2025/01/05 13:20:34:294-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 511ms), (W-XYZ: world 10 69 36), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.010817307692307692, difference: 0.13532353212078382, prediction:
+  0.16163932230345304, vertical: 0.29696285442423687, old-vertical: 0.2449380807729682,
+  box: 0.9315635056653946, old-box: 0.6346006512411577, air-ticks: 52, sensitive:
+  false)'
+2025/01/05 13:20:34:356-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 526ms), (W-XYZ: world 10 69 37), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.01061320754716981, difference: 0.11555411714101929, prediction:
+  0.21262360147399015, vertical: 0.32817771861500944, old-vertical: 0.29696285442423687,
+  box: 0.259741224280404, old-box: 0.9315635056653946, air-ticks: 53, sensitive: false)'
+2025/01/05 13:20:34:389-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 526ms), (W-XYZ: world 11 70 37), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.010416666666666666, difference: 0.04630753780732358, prediction:
+  0.24321416897632356, vertical: 0.19690663116899998, old-vertical: 0.32817771861500944,
+  box: 0.456647855449404, old-box: 0.259741224280404, air-ticks: 54, sensitive: false)'
+2025/01/05 13:20:34:541-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 526ms), (W-XYZ: world 11 70 39), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.010044642857142858, difference: 0.03350528736593043, prediction:
+  0.037381099854907854, vertical: 0.07088638722083829, old-vertical: 0.11814397870139715,
+  box: 0.6456782213716394, old-box: 0.5747918341508012, air-ticks: 56, sensitive:
+  false)'
+2025/01/05 13:20:34:545-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 526ms), (W-XYZ: world 12 70 40), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.009868421052631578, difference: 0.05146317302990698, prediction:
+  -0.008931340697406849, vertical: 0.04253183233250013, old-vertical: 0.07088638722083829,
+  box: 0.6882100537041396, old-box: 0.6456782213716394, air-ticks: 57, sensitive:
+  false)'
+2025/01/05 13:20:34:599-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 526ms), (W-XYZ: world 12 70 40), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.009698275862068966, difference: 0.06223790442830138, prediction:
+  -0.03671880502879846, vertical: 0.02551909939950292, old-vertical: 0.04253183233250013,
+  box: 0.7137291531036425, old-box: 0.6882100537041396, air-ticks: 58, sensitive:
+  false)'
+2025/01/05 13:20:34:644-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 526ms), (W-XYZ: world 12 70 41), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.009533898305084746, difference: 0.06870274326733244, prediction:
+  -0.05339128362762785, vertical: 0.015311459639704594, old-vertical: 0.02551909939950292,
+  box: 0.7290406127433471, old-box: 0.7137291531036425, air-ticks: 59, sensitive:
+  false)'
+2025/01/05 13:20:34:698-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 526ms), (W-XYZ: world 12 70 42), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.009375, difference: 0.07258164657075108, prediction: -0.06339477078692549,
+  vertical: 0.009186875783825599, old-vertical: 0.015311459639704594, box: 0.7382274885271727,
+  old-box: 0.7290406127433471, air-ticks: 60, sensitive: false)'
+2025/01/05 13:20:34:739-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 526ms), (W-XYZ: world 13 70 43), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.009221311475409836, difference: 0.22490899451325824, prediction:
+  -0.06939686308250408, vertical: 0.15551213143075415, old-vertical: 0.009186875783825599,
+  box: 0.8937396199579268, old-box: 0.7382274885271727, air-ticks: 61, sensitive:
+  false)'
+2025/01/05 13:20:34:794-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 526ms), (W-XYZ: world 13 70 44), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.009072580645161291, difference: 0.16930539457650684, prediction:
+  0.07400189024241867, vertical: 0.2433072848189255, old-vertical: 0.15551213143075415,
+  box: 0.13704690477685233, old-box: 0.8937396199579268, air-ticks: 62, sensitive:
+  false)'
+2025/01/05 13:20:34:845-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 526ms), (W-XYZ: world 13 71 45), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.008928571428571428, difference: 0.13594323461443353, prediction:
+  0.16004114223738625, vertical: 0.2959843768518198, old-vertical: 0.2433072848189255,
+  box: 0.4330312816286721, old-box: 0.13704690477685233, air-ticks: 63, sensitive:
+  false)'
+2025/01/05 13:20:34:930-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 526ms), (W-XYZ: world 13 71 46), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0087890625, difference: 0.03407406732327509, prediction:
+  0.21166469343435843, vertical: 0.17759062611108334, old-vertical: 0.2959843768518198,
+  box: 0.6106219077397554, old-box: 0.4330312816286721, air-ticks: 64, sensitive:
+  false)'
+2025/01/05 13:20:34:989-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 526ms), (W-XYZ: world 13 71 47), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.008653846153846154, difference: 0.01091556021639202, prediction:
+  0.09563881545025514, vertical: 0.10655437566664716, old-vertical: 0.17759062611108334,
+  box: 0.7171762834064026, old-box: 0.6106219077397554, air-ticks: 65, sensitive:
+  false)'
+2025/01/05 13:20:35:003-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 75.9), (Data-Completion:
+  33.33), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 526ms), (W-XYZ: world 13 71 48), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.008522727272727272, difference: 0.03790933674018672, prediction:
+  0.02602328865979874, vertical: 0.06393262539998545, old-vertical: 0.10655437566664716,
+  box: 0.7811089088063881, old-box: 0.7171762834064026, air-ticks: 66, sensitive:
+  false)'
+2025/01/05 13:23:12:689-05:00: '(Player: mas_58_loco), (Check: IrregularMovements),
+  (Java: true), (Detection: food_sprint), (Certainty: 38.64), (Data-Completion: 22.22),
+  (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true),
+  (Packets: false), (Ping: 402ms), (W-XYZ: world 96 66 -146), (Data: type: food-sprint,
+  game-mode: survival, food: 6)'
+2025/01/05 13:24:03:640-05:00: 'mas_58_loco was active for: 285747'
+2025/01/05 13:29:14:140-05:00: 'mas_58_loco was active for: 0'
+2025/01/05 13:33:59:690-05:00: 'mas_58_loco was active for: 66602'
+2025/01/05 21:07:15:055-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 0.0), (Data-Completion: 22.22),
+  (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true),
+  (Packets: false), (Ping: 0ms), (W-XYZ: world 353 87 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.08035714285714286, difference: 0.08058039410591017, prediction:
+  0.3028396058940908, vertical: 0.383420000000001, old-vertical: 0.38902000000000214,
+  box: 0.9278800000000018, old-box: 0.5444600000000008, air-ticks: 7, sensitive: false)'
+2025/01/05 21:07:15:091-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 0.0), (Data-Completion: 22.22),
+  (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true),
+  (Packets: false), (Ping: 0ms), (W-XYZ: world 354 87 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0703125, difference: 0.08269839421271896, prediction:
+  0.29735160578727815, vertical: 0.3800499999999971, old-vertical: 0.383420000000001,
+  box: 0.3079299999999989, old-box: 0.9278800000000018, air-ticks: 8, sensitive: false)'
+2025/01/05 21:07:15:151-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 354 88 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0625, difference: 0.08398099427699868, prediction: 0.29404900572299675,
+  vertical: 0.3780299999999954, old-vertical: 0.3800499999999971, box: 0.6859599999999944,
+  old-box: 0.3079299999999989, air-ticks: 9, sensitive: false)'
+2025/01/05 21:07:15:204-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 354 88 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.05625, difference: 0.08474059431553943, prediction: 0.29206940568446665,
+  vertical: 0.3768100000000061, old-vertical: 0.3780299999999954, box: 0.06277000000000044,
+  old-box: 0.6859599999999944, air-ticks: 10, sensitive: false)'
+2025/01/05 21:07:15:307-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 354 89 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.05113636363636364, difference: 0.08522619433878648, prediction:
+  0.2908738056612074, vertical: 0.3760999999999939, old-vertical: 0.3768100000000061,
+  box: 0.4388699999999943, old-box: 0.06277000000000044, air-ticks: 11, sensitive:
+  false)'
+2025/01/05 21:07:15:309-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 354 89 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.046875, difference: 0.08547199435235409, prediction: 0.2901780056476533,
+  vertical: 0.37565000000000737, old-vertical: 0.3760999999999939, box: 0.8145200000000017,
+  old-box: 0.4388699999999943, air-ticks: 12, sensitive: false)'
+2025/01/05 21:07:15:328-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 355 89 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.04326923076923077, difference: 0.08565299436091245, prediction:
+  0.28973700563908344, vertical: 0.3753899999999959, old-vertical: 0.37565000000000737,
+  box: 0.18990999999999758, old-box: 0.8145200000000017, air-ticks: 13, sensitive:
+  false)'
+2025/01/05 21:07:15:397-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 355 90 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.04017857142857143, difference: 0.20501220563411704, prediction:
+  0.2894822056341131, vertical: 0.08446999999999605, old-vertical: 0.3753899999999959,
+  box: 0.27437999999999363, old-box: 0.18990999999999758, air-ticks: 14, sensitive:
+  false)'
+2025/01/05 21:07:15:546-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 355 90 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.03515625, difference: 0.06405000116348264, prediction:
+  -0.05978000116347732, vertical: 0.004270000000005325, old-vertical: 0.019000000000005457,
+  box: 0.2976500000000044, old-box: 0.2933799999999991, air-ticks: 16, sensitive:
+  false)'
+2025/01/05 21:07:15:676-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 355 90 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.03308823529411765, difference: 0.14447459855557948, prediction:
+  -0.0742154014444299, vertical: -0.21869000000000938, old-vertical: 0.004270000000005325,
+  box: 0.07895999999999503, old-box: 0.2976500000000044, air-ticks: 17, sensitive:
+  false)'
+2025/01/05 21:07:15:700-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 355 90 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.03125, difference: 0.05920379430292383, prediction: -0.29271620569706885,
+  vertical: -0.3519199999999927, old-vertical: -0.21869000000000938, box: 0.7270400000000024,
+  old-box: 0.07895999999999503, air-ticks: 18, sensitive: false)'
+2025/01/05 21:07:15:762-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 355 89 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.029605263157894735, difference: 0.34409160823821605, prediction:
+  -0.42328160823821304, vertical: -0.07918999999999699, old-vertical: -0.3519199999999927,
+  box: 0.6478500000000054, old-box: 0.7270400000000024, air-ticks: 19, sensitive:
+  false)'
+2025/01/05 21:07:15:896-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 355 89 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.028125, difference: 0.28178620303629714, prediction: -0.15600620303630536,
+  vertical: 0.1257799999999918, old-vertical: -0.07918999999999699, box: 0.7736299999999972,
+  old-box: 0.6478500000000054, air-ticks: 20, sensitive: false)'
+2025/01/05 21:07:15:928-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 355 89 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.026785714285714284, difference: 0.19368559912682742, prediction:
+  0.044864400873176155, vertical: 0.2385500000000036, old-vertical: 0.1257799999999918,
+  box: 0.012180000000000746, old-box: 0.7736299999999972, air-ticks: 21, sensitive:
+  false)'
+2025/01/05 21:07:15:981-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 355 90 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.02556818181818182, difference: 0.1377609969758892, prediction:
+  0.15537900302410476, vertical: 0.29313999999999396, old-vertical: 0.2385500000000036,
+  box: 0.3053199999999947, old-box: 0.012180000000000746, air-ticks: 22, sensitive:
+  false)'
+2025/01/05 21:07:16:075-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 355 90 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.024456521739130436, difference: 0.032997204065310454,
+  prediction: 0.20887720406531693, vertical: 0.17588000000000648, old-vertical: 0.29313999999999396,
+  box: 0.4812000000000012, old-box: 0.3053199999999947, air-ticks: 23, sensitive:
+  false)'
+2025/01/05 21:07:16:201-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 355 90 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.021634615384615384, difference: 0.1506151989269382, prediction:
+  -0.05513480107307077, vertical: -0.20575000000000898, old-vertical: 0.023740000000003647,
+  box: 0.4047199999999975, old-box: 0.6104700000000065, air-ticks: 26, sensitive:
+  false)'
+2025/01/05 21:07:16:303-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 355 90 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.020833333333333332, difference: 0.06342499454973566, prediction:
+  -0.28003500545025756, vertical: -0.3434599999999932, old-vertical: -0.20575000000000898,
+  box: 0.06126000000000431, old-box: 0.4047199999999975, air-ticks: 27, sensitive:
+  false)'
+2025/01/05 21:07:16:367-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 355 90 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.020089285714285716, difference: 0.5650008080768465, prediction:
+  -0.4149908080768519, vertical: 0.15000999999999465, old-vertical: -0.3434599999999932,
+  box: 0.21126999999999896, old-box: 0.06126000000000431, air-ticks: 28, sensitive:
+  false)'
+2025/01/05 21:07:16:405-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 355 90 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.01939655172413793, difference: 0.1713801986646764, prediction:
+  0.06860980133532953, vertical: 0.23999000000000592, old-vertical: 0.15000999999999465,
+  box: 0.4512600000000049, old-box: 0.21126999999999896, air-ticks: 29, sensitive:
+  false)'
+2025/01/05 21:07:16:484-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 355 90 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.01875, difference: 0.09063020305157643, prediction: 0.15679020305157287,
+  vertical: 0.06615999999999644, old-vertical: 0.23999000000000592, box: 0.5174200000000013,
+  old-box: 0.4512600000000049, air-ticks: 30, sensitive: false)'
+2025/01/05 21:07:16:623-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 355 90 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.018145161290322582, difference: 0.048886799736017804,
+  prediction: -0.013563200263980538, vertical: -0.06244999999999834, old-vertical:
+  0.06615999999999644, box: 0.454970000000003, old-box: 0.5174200000000013, air-ticks:
+  31, sensitive: false)'
+2025/01/05 21:07:22:789-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: step_abstract_up), (Certainty: 38.64), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 351 81 -55), (Data: type: step(abstract-up),
+  box: 0.0, old-box: 0.4200000000000017, vertical: 0.5799999999999983, limit: 0.41999998688697815)'
+2025/01/05 21:07:22:862-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 350 82 -55), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.140625, difference: 0.2418568015003257, prediction: -0.0770868015003214,
+  vertical: 0.1647700000000043, old-vertical: 0.0013399999999990087, box: 0.1661100000000033,
+  old-box: 0.0013399999999990087, air-ticks: 4, sensitive: false)'
+2025/01/05 21:07:23:635-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 348 83 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0625, difference: 0.6232832044315277, prediction: -0.22769320443152918,
+  vertical: 0.39558999999999855, old-vertical: -0.15233999999999526, box: 0.4200000000000017,
+  old-box: 0.02441000000000315, air-ticks: 9, sensitive: false)'
+2025/01/05 21:07:23:682-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: step_abstract_up), (Certainty: 97.67), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 347 83 -53), (Data: type: step(abstract-up),
+  box: 0.0, old-box: 0.4200000000000017, vertical: 0.5799999999999983, limit: 0.41999998688697815)'
+2025/01/05 21:07:23:795-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 347 84 -53), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.046875, difference: 0.2418568015003257, prediction: -0.0770868015003214,
+  vertical: 0.1647700000000043, old-vertical: 0.0013399999999990087, box: 0.1661100000000033,
+  old-box: 0.0013399999999990087, air-ticks: 12, sensitive: false)'
+2025/01/05 21:07:39:822-05:00: '(Player: _FFisaacRD6119), (Check: GhostHand), (Java:
+  true), (Detection: breaking), (Certainty: 0.0), (Data-Completion: 11.11), (Server-Version:
+  1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish: true), (Packets: false),
+  (Ping: 0ms), (W-XYZ: world 320 74 -18), (Data: type: breaking, interacted-block:
+  grass-block, blocking-block: dirt, interacted-distance: 1.1761636096330277, blocking-distance:
+  0.9971162603352739)'
+2025/01/05 21:07:40:310-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 74 -18), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0703125, difference: 0.22539700143338876, prediction:
+  -0.07364700143338183, vertical: 0.15175000000000693, old-vertical: 0.004849999999990473,
+  box: 0.9636100000000027, old-box: 0.8118599999999958, air-ticks: 8, sensitive: false)'
+2025/01/05 21:07:40:371-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 74 -18), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0625, difference: 0.17007499863146133, prediction: 0.07031500136852945,
+  vertical: 0.24038999999999078, old-vertical: 0.15175000000000693, box: 0.20399999999999352,
+  old-box: 0.9636100000000027, air-ticks: 9, sensitive: false)'
+2025/01/05 21:07:40:432-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -18), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.05625, difference: 0.13705779694081463, prediction: 0.15718220305918743,
+  vertical: 0.29424000000000206, old-vertical: 0.24038999999999078, box: 0.4982399999999956,
+  old-box: 0.20399999999999352, air-ticks: 10, sensitive: false)'
+2025/01/05 21:07:40:482-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -18), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.05113636363636364, difference: 0.11658479591370277, prediction:
+  0.20995520408630572, vertical: 0.3265400000000085, old-vertical: 0.29424000000000206,
+  box: 0.8247800000000041, old-box: 0.4982399999999956, air-ticks: 11, sensitive:
+  false)'
+2025/01/05 21:07:40:686-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 76 -18), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0375, difference: 0.0515908001804447, prediction: -0.009270800180441012,
+  vertical: 0.04232000000000369, old-vertical: 0.07053999999999405, box: 0.25110999999999706,
+  old-box: 0.20878999999999337, air-ticks: 15, sensitive: false)'
+2025/01/05 21:07:40:709-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 76 -18), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.03515625, difference: 0.06231640071868693, prediction:
+  -0.03692640071868535, vertical: 0.025390000000001578, old-vertical: 0.04232000000000369,
+  box: 0.27649999999999864, old-box: 0.25110999999999706, air-ticks: 16, sensitive:
+  false)'
+2025/01/05 21:07:40:773-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 76 -18), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.03308823529411765, difference: 0.0592278010416092, prediction:
+  -0.053517801041601545, vertical: 0.005710000000007653, old-vertical: 0.025390000000001578,
+  box: 0.2822100000000063, old-box: 0.27649999999999864, air-ticks: 17, sensitive:
+  false)'
+2025/01/05 21:07:40:862-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 321 76 -18), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.03125, difference: 0.07408420141695597, prediction: -0.0728042014169618,
+  vertical: 0.0012799999999941747, old-vertical: 0.005710000000007653, box: 0.28349000000000046,
+  old-box: 0.2822100000000063, air-ticks: 18, sensitive: false)'
+2025/01/05 21:07:40:896-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 321 76 -18), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.029605263157894735, difference: 0.07743560150146313, prediction:
+  -0.07714560150147055, vertical: 2.89999999992574E-4, old-vertical: 0.0012799999999941747,
+  box: 0.28377999999999304, old-box: 0.28349000000000046, air-ticks: 19, sensitive:
+  false)'
+2025/01/05 21:07:40:998-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 321 76 -18), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.028125, difference: 0.07820580152035501, prediction: -0.07811580152035487,
+  vertical: 9.000000000014552E-5, old-vertical: 2.89999999992574E-4, box: 0.2838699999999932,
+  old-box: 0.28377999999999304, air-ticks: 20, sensitive: false)'
+2025/01/05 21:07:41:103-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 321 76 -18), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.026785714285714284, difference: 0.07831180152416214, prediction:
+  -0.07831180152416214, vertical: 0.0, old-vertical: 9.000000000014552E-5, box: 0.2838699999999932,
+  old-box: 0.2838699999999932, air-ticks: 21, sensitive: false)'
+2025/01/05 21:07:41:202-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 321 76 -18), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.02556818181818182, difference: 0.14159999847411997, prediction:
+  -0.0784000015258789, vertical: -0.21999999999999886, old-vertical: 0.0, box: 0.06386999999999432,
+  old-box: 0.2838699999999932, air-ticks: 22, sensitive: false)'
+2025/01/05 21:07:41:211-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 321 76 -18), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.024456521739130436, difference: 0.05799999427794483, prediction:
+  -0.2940000057220448, vertical: -0.35199999999998965, old-vertical: -0.21999999999999886,
+  box: 0.7118700000000047, old-box: 0.06386999999999432, air-ticks: 23, sensitive:
+  false)'
+2025/01/05 21:07:42:095-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 38.72), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -19), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 32, limit: 6)'
+2025/01/05 21:07:42:151-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 97.5), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -19), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 33, limit: 6)'
+2025/01/05 21:07:42:211-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -19), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 34, limit: 6)'
+2025/01/05 21:07:42:215-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 75 -19), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 35, limit: 6)'
+2025/01/05 21:07:42:289-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 75 -19), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 36, limit: 6)'
+2025/01/05 21:07:42:325-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 75 -19), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 37, limit: 6)'
+2025/01/05 21:07:42:404-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 75 -19), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 38, limit: 6)'
+2025/01/05 21:07:42:437-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 75 -19), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 39, limit: 6)'
+2025/01/05 21:07:42:603-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 75 -19), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 40, limit: 6)'
+2025/01/05 21:07:42:612-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 75 -19), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 41, limit: 6)'
+2025/01/05 21:07:42:655-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 75 -19), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 42, limit: 6)'
+2025/01/05 21:07:42:714-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 75 -19), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 43, limit: 6)'
+2025/01/05 21:07:42:777-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 44, limit: 6)'
+2025/01/05 21:07:42:939-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 45, limit: 6)'
+2025/01/05 21:07:42:940-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 46, limit: 6)'
+2025/01/05 21:07:43:064-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 47, limit: 6)'
+2025/01/05 21:07:43:187-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 48, limit: 6)'
+2025/01/05 21:07:43:251-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 49, limit: 6)'
+2025/01/05 21:07:43:328-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 50, limit: 6)'
+2025/01/05 21:07:43:454-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 51, limit: 6)'
+2025/01/05 21:07:43:511-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 52, limit: 6)'
+2025/01/05 21:07:43:881-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 53, limit: 6)'
+2025/01/05 21:07:43:931-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 54, limit: 6)'
+2025/01/05 21:07:43:971-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 55, limit: 6)'
+2025/01/05 21:07:44:030-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 56, limit: 6)'
+2025/01/05 21:07:44:087-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 57, limit: 6)'
+2025/01/05 21:07:44:252-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 58, limit: 6)'
+2025/01/05 21:07:44:315-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 59, limit: 6)'
+2025/01/05 21:07:44:574-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 60, limit: 6)'
+2025/01/05 21:07:44:628-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 61, limit: 6)'
+2025/01/05 21:07:44:680-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 62, limit: 6)'
+2025/01/05 21:07:44:750-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 63, limit: 6)'
+2025/01/05 21:07:44:952-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 64, limit: 6)'
+2025/01/05 21:07:44:953-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 65, limit: 6)'
+2025/01/05 21:07:45:021-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 66, limit: 6)'
+2025/01/05 21:07:45:077-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 67, limit: 6)'
+2025/01/05 21:07:45:151-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 68, limit: 6)'
+2025/01/05 21:07:45:194-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 69, limit: 6)'
+2025/01/05 21:07:45:211-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 70, limit: 6)'
+2025/01/05 21:07:45:402-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: step_abstract_down), (Certainty: 99.99), (Data-Completion:
+  11.11), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -20), (Data: type: step(abstract-down),
+  box: 0.7800000000000011, old-box: 0.0, vertical: -0.21999999999999886, limit: 0.08)'
+2025/01/05 21:07:45:453-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 74 -20), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0078125, difference: 0.057999994277959044, prediction:
+  -0.2940000057220448, vertical: -0.35200000000000387, old-vertical: -0.21999999999999886,
+  box: 0.42799999999999727, old-box: 0.7800000000000011, air-ticks: 72, sensitive:
+  false)'
+2025/01/05 21:07:46:052-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 74 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 77, limit: 6)'
+2025/01/05 21:07:46:151-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 74 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 78, limit: 6)'
+2025/01/05 21:07:46:320-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 74 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 79, limit: 6)'
+2025/01/05 21:07:46:613-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 74 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 80, limit: 6)'
+2025/01/05 21:07:46:713-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 74 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 81, limit: 6)'
+2025/01/05 21:07:46:771-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 74 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 82, limit: 6)'
+2025/01/05 21:07:47:080-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 74 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 83, limit: 6)'
+2025/01/05 21:07:47:081-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 74 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 84, limit: 6)'
+2025/01/05 21:07:47:148-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 74 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 85, limit: 6)'
+2025/01/05 21:07:47:444-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 74 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 86, limit: 6)'
+2025/01/05 21:07:47:702-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 321 74 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 87, limit: 6)'
+2025/01/05 21:07:47:768-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 321 74 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 88, limit: 6)'
+2025/01/05 21:07:47:769-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 321 74 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 89, limit: 6)'
+2025/01/05 21:07:48:172-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: horizontal_known), (Certainty: 99.96), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 321 74 -20), (Data: type: horizontal(known),
+  box: 0.0, old-box: 0.0, vertical: 0.0, air-ticks: 92, limit: 6)'
+2025/01/05 21:07:48:360-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 321 74 -20), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.005984042553191489, difference: 0.1713999986648453, prediction:
+  0.06860000133514961, vertical: 0.23999999999999488, old-vertical: 0.15000000000000568,
+  box: 0.39000000000000057, old-box: 0.15000000000000568, air-ticks: 94, sensitive:
+  false)'
+2025/01/05 21:07:48:373-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 321 74 -20), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0059210526315789476, difference: 0.13719999694824414,
+  prediction: 0.1568000030517528, vertical: 0.29399999999999693, old-vertical: 0.23999999999999488,
+  box: 0.6839999999999975, old-box: 0.39000000000000057, air-ticks: 95, sensitive:
+  false)'
+2025/01/05 21:07:48:411-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 321 74 -20), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.005859375, difference: 0.11667999591828362, prediction:
+  0.20972000408172306, vertical: 0.3264000000000067, old-vertical: 0.29399999999999693,
+  box: 0.010400000000004184, old-box: 0.6839999999999975, air-ticks: 96, sensitive:
+  false)'
+2025/01/05 21:07:48:469-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -19), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.005798969072164949, difference: 0.10436799530028193, prediction:
+  0.24147200469971355, vertical: 0.3458399999999955, old-vertical: 0.3264000000000067,
+  box: 0.35623999999999967, old-box: 0.010400000000004184, air-ticks: 97, sensitive:
+  false)'
+2025/01/05 21:07:48:502-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -19), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.005739795918367347, difference: 0.09698679492951373, prediction:
+  0.26052320507049115, vertical: 0.3575100000000049, old-vertical: 0.3458399999999955,
+  box: 0.7137500000000045, old-box: 0.35623999999999967, air-ticks: 98, sensitive:
+  false)'
+2025/01/05 21:07:48:537-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 75 -19), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.005681818181818182, difference: 0.09254019470690455, prediction:
+  0.27195980529308794, vertical: 0.3644999999999925, old-vertical: 0.3575100000000049,
+  box: 0.07824999999999704, old-box: 0.7137500000000045, air-ticks: 99, sensitive:
+  false)'
+2025/01/05 21:07:48:576-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 76 -19), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.005625, difference: 0.08988999457360453, prediction: 0.2788100054263995,
+  vertical: 0.368700000000004, old-vertical: 0.3644999999999925, box: 0.44695000000000107,
+  old-box: 0.07824999999999704, air-ticks: 100, sensitive: false)'
+2025/01/05 21:07:48:633-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 320 76 -19), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.005569306930693069, difference: 0.08829399449347447, prediction:
+  0.2829260055065194, vertical: 0.3712199999999939, old-vertical: 0.368700000000004,
+  box: 0.818169999999995, old-box: 0.44695000000000107, air-ticks: 101, sensitive:
+  false)'
+2025/01/05 21:07:48:689-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 76 -18), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0055147058823529415, difference: 0.08733439444542956,
+  prediction: 0.28539560555457466, vertical: 0.3727300000000042, old-vertical: 0.3712199999999939,
+  box: 0.19089999999999918, old-box: 0.818169999999995, air-ticks: 102, sensitive:
+  false)'
+2025/01/05 21:07:48:747-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 77 -18), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0054611650485436895, difference: 0.08676459441660889,
+  prediction: 0.28687540558338576, vertical: 0.37363999999999464, old-vertical: 0.3727300000000042,
+  box: 0.5645399999999938, old-box: 0.19089999999999918, air-ticks: 103, sensitive:
+  false)'
+2025/01/05 21:07:48:777-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 77 -18), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.005408653846153846, difference: 0.08642279439927963, prediction:
+  0.28776720560073327, vertical: 0.3741900000000129, old-vertical: 0.37363999999999464,
+  box: 0.9387300000000067, old-box: 0.5645399999999938, air-ticks: 104, sensitive:
+  false)'
+2025/01/05 21:07:48:812-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 319 77 -18), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.005357142857142857, difference: 0.08620379438874498, prediction:
+  0.2883062056112416, vertical: 0.3745099999999866, old-vertical: 0.3741900000000129,
+  box: 0.3132399999999933, old-box: 0.9387300000000067, air-ticks: 105, sensitive:
+  false)'
+2025/01/05 21:07:48:873-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 318 78 -17), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.005306603773584905, difference: 0.2043498056173157, prediction:
+  0.2886198056173193, vertical: 0.08427000000000362, old-vertical: 0.3745099999999866,
+  box: 0.3975099999999969, old-box: 0.3132399999999933, air-ticks: 106, sensitive:
+  false)'
+2025/01/05 21:07:49:061-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 318 78 -17), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.005208333333333333, difference: 0.06663920116422928, prediction:
+  -0.05981920116423878, vertical: 0.0068199999999905, old-vertical: 0.01896000000000697,
+  box: 0.4232899999999944, old-box: 0.4164700000000039, air-ticks: 108, sensitive:
+  false)'
+2025/01/05 21:07:49:087-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 318 78 -17), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.005160550458715597, difference: 0.07324640139580951, prediction:
+  -0.07171640139580704, vertical: 0.0015300000000024738, old-vertical: 0.0068199999999905,
+  box: 0.42481999999999687, old-box: 0.4232899999999944, air-ticks: 109, sensitive:
+  false)'
+2025/01/05 21:07:49:147-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 318 78 -17), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.005113636363636364, difference: 0.07724060149670249, prediction:
+  -0.07690060149669405, vertical: 3.4000000000844466E-4, old-vertical: 0.0015300000000024738,
+  box: 0.4251600000000053, old-box: 0.42481999999999687, air-ticks: 110, sensitive:
+  false)'
+2025/01/05 21:07:49:276-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 318 78 -17), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.005067567567567568, difference: 0.07816680151937476, prediction:
+  -0.07806680151938565, vertical: 9.99999999891088E-5, old-vertical: 3.4000000000844466E-4,
+  box: 0.4252599999999944, old-box: 0.4251600000000053, air-ticks: 111, sensitive:
+  false)'
+2025/01/05 21:07:49:311-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 317 78 -17), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.005022321428571429, difference: 0.0783120015239854, prediction:
+  -0.07830200152398223, vertical: 1.0000000003174137E-5, old-vertical: 9.99999999891088E-5,
+  box: 0.4252699999999976, old-box: 0.4252599999999944, air-ticks: 112, sensitive:
+  false)'
+2025/01/05 21:07:49:368-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 317 78 -17), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.00497787610619469, difference: 0.22839020152569073, prediction:
+  -0.07839020152568506, vertical: 0.15000000000000568, old-vertical: 1.0000000003174137E-5,
+  box: 0.5752700000000033, old-box: 0.4252699999999976, air-ticks: 113, sensitive:
+  false)'
+2025/01/05 21:07:49:515-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 317 78 -16), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.004934210526315789, difference: 0.17140999866484846, prediction:
+  0.06860000133514961, vertical: 0.24000999999999806, old-vertical: 0.15000000000000568,
+  box: 0.8152800000000013, old-box: 0.5752700000000033, air-ticks: 114, sensitive:
+  false)'
+2025/01/05 21:07:49:516-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 317 78 -16), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.004891304347826087, difference: 0.1371901969480503, prediction:
+  0.15680980305194664, vertical: 0.29399999999999693, old-vertical: 0.24000999999999806,
+  box: 0.10927999999999827, old-box: 0.8152800000000013, air-ticks: 115, sensitive:
+  false)'
+2025/01/05 21:07:49:575-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 317 79 -16), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.004849137931034483, difference: 0.11667999591828362, prediction:
+  0.20972000408172306, vertical: 0.3264000000000067, old-vertical: 0.29399999999999693,
+  box: 0.43568000000000495, old-box: 0.10927999999999827, air-ticks: 116, sensitive:
+  false)'
+2025/01/05 21:07:49:583-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 316 79 -16), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.004807692307692308, difference: 0.10436799530028193, prediction:
+  0.24147200469971355, vertical: 0.3458399999999955, old-vertical: 0.3264000000000067,
+  box: 0.7815200000000004, old-box: 0.43568000000000495, air-ticks: 117, sensitive:
+  false)'
+2025/01/05 21:07:49:627-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 316 79 -15), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.004766949152542373, difference: 0.09697679492951056, prediction:
+  0.26052320507049115, vertical: 0.3575000000000017, old-vertical: 0.3458399999999955,
+  box: 0.13902000000000214, old-box: 0.7815200000000004, air-ticks: 118, sensitive:
+  false)'
+2025/01/05 21:07:49:677-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 315 80 -15), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.004726890756302521, difference: 0.0925499947070984, prediction:
+  0.2719500052928941, vertical: 0.3644999999999925, old-vertical: 0.3575000000000017,
+  box: 0.5035199999999946, old-box: 0.13902000000000214, air-ticks: 119, sensitive:
+  false)'
+2025/01/05 21:07:49:764-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 315 80 -14), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0046875, difference: 0.060100005426397984, prediction:
+  0.2788100054263995, vertical: 0.21871000000000151, old-vertical: 0.3644999999999925,
+  box: 0.7222299999999962, old-box: 0.5035199999999946, air-ticks: 120, sensitive:
+  false)'
+2025/01/05 21:07:49:823-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 315 80 -14), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0046487603305785125, difference: 0.004715802645685746,
+  prediction: 0.13593580264568475, vertical: 0.131219999999999, old-vertical: 0.21871000000000151,
+  box: 0.8534499999999952, old-box: 0.7222299999999962, air-ticks: 121, sensitive:
+  false)'
+2025/01/05 21:07:49:873-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 314 80 -13), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.004610655737704918, difference: 0.028534399023064302,
+  prediction: 0.05019560097694299, vertical: 0.0787300000000073, old-vertical: 0.131219999999999,
+  box: 0.9321800000000025, old-box: 0.8534499999999952, air-ticks: 122, sensitive:
+  false)'
+2025/01/05 21:07:49:932-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 314 80 -12), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0045362903225806455, difference: 0.060454800624834285,
+  prediction: -0.03210480062484529, vertical: 0.028349999999988995, old-vertical:
+  0.04724000000000217, box: 0.007769999999993615, old-box: 0.9794200000000046, air-ticks:
+  124, sensitive: false)'
+2025/01/05 21:07:50:022-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 313 81 -11), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0045, difference: 0.06761700098516647, prediction: -0.050617000985156355,
+  vertical: 0.017000000000010118, old-vertical: 0.028349999999988995, box: 0.024770000000003733,
+  old-box: 0.007769999999993615, air-ticks: 125, sensitive: false)'
+2025/01/05 21:07:50:027-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 313 81 -11), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.004464285714285714, difference: 0.07194000120161727, prediction:
+  -0.061740001201619724, vertical: 0.010199999999997544, old-vertical: 0.017000000000010118,
+  box: 0.03497000000000128, old-box: 0.024770000000003733, air-ticks: 126, sensitive:
+  false)'
+2025/01/05 21:07:50:098-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 313 81 -10), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0044291338582677165, difference: 0.07452400133132744,
+  prediction: -0.06840400133133176, vertical: 0.0061199999999956844, old-vertical:
+  0.010199999999997544, box: 0.04108999999999696, old-box: 0.03497000000000128, air-ticks:
+  127, sensitive: false)'
+2025/01/05 21:07:50:146-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 312 81 -9), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.00439453125, difference: 0.22607240140915869, prediction:
+  -0.0724024014091534, vertical: 0.1536700000000053, old-vertical: 0.0061199999999956844,
+  box: 0.19476000000000226, old-box: 0.04108999999999696, air-ticks: 128, sensitive:
+  false)'
+2025/01/05 21:07:50:211-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 312 81 -8), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.00436046511627907, difference: 0.1700133985948511, prediction:
+  0.07219660140514893, vertical: 0.24221000000000004, old-vertical: 0.1536700000000053,
+  box: 0.4369700000000023, old-box: 0.19476000000000226, air-ticks: 129, sensitive:
+  false)'
+2025/01/05 21:07:50:252-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 312 81 -7), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.004326923076923077, difference: 0.1363441969060904, prediction:
+  0.15896580309391023, vertical: 0.2953100000000006, old-vertical: 0.24221000000000004,
+  box: 0.7322800000000029, old-box: 0.4369700000000023, air-ticks: 130, sensitive:
+  false)'
+2025/01/05 21:07:50:282-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 312 81 -7), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.004293893129770993, difference: 0.0338038041067138, prediction:
+  0.21100380410671293, vertical: 0.17719999999999914, old-vertical: 0.2953100000000006,
+  box: 0.9094800000000021, old-box: 0.7322800000000029, air-ticks: 131, sensitive:
+  false)'
+2025/01/05 21:07:50:364-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 312 81 -6), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.004261363636363636, difference: 0.011053998146051444,
+  prediction: 0.09525600185394202, vertical: 0.10630999999999347, old-vertical: 0.17719999999999914,
+  box: 0.01578999999999553, old-box: 0.9094800000000021, air-ticks: 132, sensitive:
+  false)'
+2025/01/05 21:07:50:416-05:00: '(Player: _FFisaacRD6119), (Check: IrregularMovements),
+  (Java: true), (Detection: gravity_bukkit), (Certainty: 99.93), (Data-Completion:
+  22.22), (Server-Version: 1.21), (Plugin-Version: 4.0.0.7), (Silent: false), (Punish:
+  true), (Packets: false), (Ping: 0ms), (W-XYZ: world 311 82 -5), (Data: type: gravity(prediction),
+  product: 0.5625, limit: 0.0042293233082706765, difference: 0.03800619949819454,
+  prediction: 0.02578380050181702, vertical: 0.06379000000001156, old-vertical: 0.10630999999999347,
+  box: 0.07958000000000709, old-box: 0.01578999999999553, air-ticks: 133, sensitive:
+  false)'
+2025/01/05 21:08:07:240-05:00: '_FFisaacRD6119 was active for: 50388'
+2025/01/06 01:46:32:403-05:00: 'mas_58_loco was active for: 20'

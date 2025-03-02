@@ -1,0 +1,172 @@
+# =====================
+# Messages de Commande (Command Messages) en FR
+# =====================
+commands:
+  # Messages Généraux (General messages)
+  config-reloaded: "%prefix% &aLa configuration a été rechargée avec succès."
+  no-permission: "%prefix% &cVous n'avez pas la permission d'exécuter cette commande."
+  unknown-command: "%prefix% &7Commande de &cClan &7inconnue &c❌"
+
+  # Création de Clan (Clan creation)
+  Vault:
+    CreatePriceFailed: '%prefix% &7Vous avez besoin de &b%amount% &a$ &7pour créer un clan'
+    RenamePriceFailed: '%prefix% &7Vous avez besoin de &b%amount% &a$ &7pour renommer un clan'
+  clan-exists: "%prefix% &7Un clan avec ce nom existe déjà &c❌"
+  already-in-clan: "%prefix% &7Vous êtes déjà dans un clan, vous ne pouvez pas en créer un autre."
+  no-clan-name: "%prefix% &7Veuillez entrer un nom de &cClan &7&c❌"
+  clan-name-banned: "%prefix% &7Le nom de clan que vous avez entré est &cinterdit ❌"
+  clan-name-too-long: "&7Le nom du clan est trop long ! Longueur maximale : &a%maxlength%"
+  clan-name-too-short: "%prefix% &7Le nom du clan est trop court ! Longueur minimale : &c%minlength%"
+  not-enough-kills: "%prefix% &7Vous avez besoin de &c%remainingkill% &7tués supplémentaires pour créer un clan."
+  clan-created: "%prefix% &7Le clan a été créé avec succès &a✔"
+
+  # Messages d'Invitation (Invitation related)
+  player-in-clan: "%prefix% &7Ce joueur est déjà dans un clan."
+  player-already-leader: "%prefix% &7Ce joueur est déjà chef d'un clan."
+  player-not-online: "%prefix% &7Ce joueur est actuellement hors ligne."
+  no-player-specified: "%prefix% &7Veuillez spécifier un joueur."
+  cannot-invite-self: "%prefix% &7Vous ne pouvez pas vous inviter vous-même!"
+  clan-invite: "&a%inviter_name% &7vous a invité à rejoindre le clan &c%clan_name%."
+  invite-sent: "%prefix% &7Invitation envoyée &a✔"
+  invite-accepted: "%prefix% &7Vous avez &aaccepté ✔ l'invitation du clan."
+  invite-denied: "%prefix% &7Vous avez &crefusé ✔ l'invitation du clan."
+  invite-expired: "%prefix% &7Votre invitation de clan a expiré &c❌"
+  clan-full: "%prefix% &7Le clan a atteint sa capacité maximale."
+  no-invite: "%prefix% &7Vous n'avez pas d'invitation en attente de &cClan &c❌"
+  invite-cooldown: "%prefix% &7Veuillez attendre &c%remaining_time% secondes &7avant d'envoyer une nouvelle invitation à ce joueur."
+
+  accept-button: "&a&l[ACCEPTER]"
+  or: "&7ou"
+  deny-button: "&c&l[REFUSER]"
+
+  # Transfert de Chef (Clan Transfer)
+  transfer-success: "%prefix% &7Vous avez transféré la direction à &e%player% &a✔"
+  you-are-now-leader: "%prefix% &7Le joueur &a%player% &7vous a transféré la direction du clan."
+
+  # Messages de Couleur (Color Messages)
+  color-set: "%prefix% &7La couleur de votre clan a été définie sur &a%color% &a✔"
+  invalid-color: "%prefix% &7Couleur invalide."
+  color-wait: "%prefix% &7Vous devez attendre &e%hours% heures &e%minutes% minutes &7avant de changer la couleur à nouveau."
+
+  # Chat de Clan (Clan chat)
+  clan-chat-disabled: "%prefix% &7Le chat de clan est &cdésactivé ❌"
+  clan-chat-enabled: "%prefix% &7Le chat de clan est &aactivé ✔"
+  cannot-enable-clan-chat: "%prefix% &7Vous ne pouvez pas activer le chat de clan lorsque le chat des alliés est actif. &c❌"
+
+  # Désactivation des Attaques entre Membres du Clan (PvP Disable Clan)
+  cannot-attack-clan: "%prefix% &7Vous ne pouvez pas attaquer les membres de votre clan!"
+
+  # Expulsion et départ du Clan (Kicking and leaving)
+  no-clan: "%prefix% &7Vous n'êtes pas dans un clan."
+  leader-cannot-leave: "%prefix% &7Vous êtes le chef du clan, utilisez la commande &c/clan delete &7pour dissoudre le clan."
+  clan-left: "%prefix% &7Vous avez &aquitté ✔ &7le clan avec succès."
+  not-leader: "%prefix% &cSeul le chef du clan peut utiliser cette commande."
+  kick-success: "%prefix% &c%player% &7a été &aexpulsé ✔ &7de votre clan."
+  kicked: "%prefix% &7Vous avez été &cexpelé &c❌ du clan."
+  player-not-in-clan: "%prefix% &7Ce joueur n'est pas dans votre clan."
+
+  # Suppression du Clan (Clan deletion)
+  clan-deleted: "%prefix% &aLe clan a été supprimé avec succès ✔"
+
+clan_list_messages:
+  clan-list-title: "&bInformations &7du Clan :"
+  clan-list-leader: "&7Chef: &c%leader%"
+  clan-list-players: "&7Nombre de Joueurs: &b%player-count%"
+  clan-list-kills: "&7Total des Tués: &a%total-kills%"
+  clan-list-deaths: "&7Total des Morts: &c%total-deaths%"
+  clan-list-kdr: "&7KDR : &a%kdr%"
+  clan-list-members: "&7Membres: &a%members%"
+  clan-list-allies: "&7Alliés: &e%allies%"
+  clan-list-no-allies: "&7Alliés: &cX"
+  clan-list-ranking: "&7Rang: &e#&b%rank%"
+
+clan_stats_messages:
+  clan-stats-title: "&6&lINFORMATIONS DU CLAN %clan%"
+  clan-stats-leader: "&7Chef du Clan : &a%leader%"
+  clan-stats-players: "&7Nombre de Joueurs : &a%player-count%"
+  clan-stats-kills: "&7Total des Tués : &a%total-kills%"
+  clan-stats-deaths: "&7Total des Morts : &a%total-deaths%"
+  clan-stats-kdr: "&7KDR : &a%kdr%"
+  clan-stats-members: "&7Membres : &a%members%"
+  clan-stats-no-allies: "&7Alliés : &cX"
+  clan-stats-allies: "&7Alliés : &a%allies%"
+  clan-stats-ranking: "&7Rang : &a#%rank%"
+  clan-stats-not-found: "%prefix% &cClan introuvable &c❌"
+
+clan_top_messages:
+  top-clans-header: "&6&lMEILLEURS CLANS"
+  top-clans-format1: "&6%veldora_clan_top_1% &e%clan% &7- &c%kills% &7tués"
+  top-clans-format2: "&6%veldora_clan_top_2% &e%clan% &7- &c%kills% &7tués"
+  top-clans-format3: "&6%veldora_clan_top_3% &e%clan% &7- &c%kills% &7tués"
+  top-clans-format4: "&6%veldora_clan_top_4% &e%clan% &7- &c%kills% &7tués"
+  top-clans-format5: "&6%veldora_clan_top_5% &e%clan% &7- &c%kills% &7tués"
+  top-clans-format6: "&6%veldora_clan_top_6% &e%clan% &7- &c%kills% &7tués"
+  top-clans-format7: "&6%veldora_clan_top_7% &e%clan% &7- &c%kills% &7tués"
+  top-clans-format8: "&6%veldora_clan_top_8% &e%clan% &7- &c%kills% &7tués"
+  top-clans-format9: "&6%veldora_clan_top_9% &e%clan% &7- &c%kills% &7tués"
+  top-clans-format10: "&6%veldora_clan_top_10% &e%clan% &7- &c%kills% &7tués"
+  top-clans-footer: "&r"
+
+# =====================
+# Messages de Commande d'Alliés (Ally Command Messages)
+# =====================
+ally.commands:
+  cannot-attack-ally: "%prefix% &7Vous ne pouvez pas attaquer un joueur allié &c❌"
+  ally-no-clan-name: "%prefix% &7Veuillez entrer un nom de &cClan &c❌"
+  ally-invite-message: "&7Le chef du clan &b%inviter_leader% &7vous invite à vous allier avec le clan &a%inviter_clan%. Acceptez-vous ?"
+  ally-invite-cooldown: "%prefix% &7Veuillez attendre &c%remaining_time% secondes &7avant d'envoyer une nouvelle invitation à ce clan."
+  invite-sent: "%prefix% &7Invitation d'alliance envoyée &a✔"
+  target-leader-offline: "%prefix% &7Le chef de ce clan est hors ligne &c❌"
+  invite-expired: "%prefix% &7Votre invitation d'alliance a expiré &c❌"
+  accept-button: "&a&l[ACCEPTER]"
+  deny-button: "&c&l[REFUSER]"
+  or: "&7ou"
+  ally-accepted: "%prefix% &7Vous avez &aaccepté ✔ l'invitation d'alliance."
+  invite-accepted: "%prefix% &7Le clan &a%clan% &7a accepté votre invitation d'alliance &a✔"
+  ally-denied: "%prefix% &7Vous avez &crefusé ❌ l'invitation d'alliance."
+  invite-denied: "%prefix% &7Le clan &c%clan% &7a refusé votre invitation d'alliance &c❌"
+  no-pending-invite: "%prefix% &7Vous n'avez pas d'invitation d'alliance en attente &c❌"
+  ally-removed: "%prefix% &7Vous avez terminé l'alliance avec le clan &a%clan% ✔"
+  ally-limit-reached: "%prefix% &7La limite d'alliés de votre clan est atteinte &7(&c%limit%&7) &c❌"
+  ally-removed-notification: "%prefix% &7Le clan &c%clan% &7a mis fin à son alliance avec vous &c❌"
+  clan-does-not-exist: "%prefix% &7Aucun clan avec ce nom n'existe."
+  already-ally: "%prefix% &7Ce clan est déjà un allié &c❌"
+  not-ally: "%prefix% &7Ce clan n'est pas votre allié &c❌"
+  ally-own-clan: "%prefix% &7Vous ne pouvez pas vous allier avec votre propre clan &c❌"
+  unknown-ally-command: "%prefix% &7Commande d'alliance inconnue &c❌"
+
+AllyChatMessages:
+  ally-chat-enabled: "%prefix% &7Le chat d'alliance est &aactivé ✔"
+  ally-chat-disabled: "%prefix% &7Le chat d'alliance est &cdésactivé ❌"
+  cannot-enable-ally-chat: "%prefix% &7Vous ne pouvez pas activer le chat d'alliance tant que le chat de clan est activé."
+  no-allies: "%prefix% &7Vous n'avez pas de clans alliés, vous ne pouvez pas activer le chat d'alliance &c❌"
+  not-allied: "%prefix% &7Vous n'êtes pas allié avec ce clan &c❌"
+
+# =====================
+# Messages d'Aide (Help Command Messages)
+# =====================
+clan-help:
+  header: "&bAide de Clan: &7(%page%/2)"
+  description: "   &a&l[!] &7subcmd"
+  footer:
+    next: " &bSuivant »"
+    previous: " &b« Retour"
+  commands:
+    '1': ' &b/clan create &c[name] &7| &eCrée un clan. &a&l[!]'
+    '2': ' &b/clan set rename &c[name] &7| &eChange le nom du clan. &a&l[!]'
+    '3': ' &b/clan color set &c[color] &7| &eDéfinit la couleur du clan. &a&l[!]'
+    '4': ' &b/clan transfer &c[player] &7| &eTransfère le leadership. &a&l[!]'
+    '5': ' &b/clan delete &7| &eSupprime le clan.'
+    '6': ' &b/clan invite &c[player] &7| &eInvite un joueur. &a&l[!]'
+    '7': ' &b/clan accept &7| &eAccepte une invitation.'
+    '8': ' &b/clan deny &7| &eRefuse une invitation.'
+    '9': ' &b/clan kick &c[player] &7| &eExpulse un joueur. &a&l[!]'
+    '10': ' &b/clan leave &7| &eQuitte le clan.'
+    '11': ' &b/clan chat &7| &eActive ou désactive le chat du clan.'
+    '12': ' &b/clan ally chat &7| &eActive ou désactive le chat des alliés. &a&l[!]'
+    '13': ' &b/clan ally add &c[name] &7| &eAjoute un allié. &a&l[!]'
+    '14': ' &b/clan ally remove &c[name] &7| &eRetire un allié. &a&l[!]'
+    '15': ' &b/clan stats &c[name] &7| &eAffiche les informations du clan. &a&l[!]'
+    '16': ' &b/clan list &7| &eListe les membres.'
+    '17': ' &b/clan top &7| &eAffiche le top 10 des clans.'
+    '18': ' &b/clan chest &7| &eOuvre le coffre du clan.'

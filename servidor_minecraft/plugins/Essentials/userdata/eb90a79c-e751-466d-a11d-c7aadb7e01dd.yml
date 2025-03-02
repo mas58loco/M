@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 63.141.243.26
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735830876198
+  login: 1735830358956
+money: '0'
+last-account-name: mas_58_loco
+lastlocation:
+  world: 4d65a67f-9c7b-4858-ba40-7ca67df5a8b4
+  world-name: world
+  x: -5.5
+  y: 64.0
+  z: -2.5
+  yaw: 0.37596774101257324
+  pitch: 0.0
+logoutlocation:
+  world: 4d65a67f-9c7b-4858-ba40-7ca67df5a8b4
+  world-name: world
+  x: -50.71694815543349
+  y: 101.0
+  z: -205.88994402592783
+  yaw: -151.63897705078125
+  pitch: 22.50004768371582

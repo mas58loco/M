@@ -1,0 +1,86 @@
+prefix: '&7[&cVeldoraClan&7]'
+language: ENG
+database:
+  type: YAML
+Clan:
+  name:
+    damage: false
+    minLength: 2
+    maxLength: 16
+    regex: ^[a-zA-Z0-9]*$
+    blacklistedNames:
+    - admin
+    - mod
+stats:
+  includeStats: true
+create:
+  killToCreate: false
+  killCount: 15
+color:
+  default: '&e'
+  cooldown: 24
+invite:
+  cooldown: 30
+rename:
+  cooldown: 24
+limit:
+  default: 10
+  clanLimit: true
+chat:
+  enabled: true
+  chatFormat: '&7[&b%veldora_clan_tag%&7] &aClan Chat &b%player% &8» &f%message%'
+  allyChatFormat: '&7[&b%veldora_clan_tag%&7] &eAlly Chat &b%player% &8» &f%message%'
+allies:
+  enabled: true
+  damage: false
+  allyChat: true
+  limit: true
+  allyLimit: 4
+VaultSupport:
+  enabled: false
+  create: 100.0
+  rename: 100.0
+  chest: 100.0
+Chest:
+  enabled: true
+  slots: 54
+  title: '&6%clan% &cClan Chest'
+broadcasts:
+  create: true
+  join: true
+  delete: true
+  leave: true
+TitleMessages:
+  clan-created-title: '&a+ Clan Created!'
+  clan-created-subtitle: '&6&l%clan%'
+  clan-join-title: '&a+ You joined the clan!'
+  unknown-message-title: '&c! &d/clan help'
+  unknown-message-subtitle: '&eTo see the commands!'
+BroadCastMessages:
+  clan-create-messages: '%prefix% &7| &a%player% &ehas created a new clan named &b%clan%'
+  clan-join-player-messages: '%prefix% &7| &a%player% &ehas joined the clan &b%clan%'
+  clan-delete-messages: '%prefix% &7| &eThe clan &b%clan% &ehas been deleted by &a%player%'
+  clan-leave-player-messages: '%prefix% &7| &a%player% &ehas left the clan &b%clan%'
+Permission: false
+PermissionClanCreate: veldora.clan.create
+PermissionClanInvite: veldora.clan.invite
+PermissionClanAccept: veldora.clan.accept
+PermissionClanChat: veldora.clan.chat
+PermissionClanKick: veldora.clan.kick
+PermissionClanTransfer: veldora.clan.transfer
+PermissionClanColor: veldora.clan.set.color
+PermissionClanRename: veldora.clan.set.rename
+PermissionClanChest: veldora.clan.chest
+PermissionClanAllyAdd: veldora.clan.ally.add
+PermissionClanAllyRemove: veldora.clan.ally.remove
+PermissionClanAllyAccept: veldora.clan.ally.accept
+PermissionClanAllyDeny: veldora.clan.ally.deny
+PermissionClanAllyChat: veldora.clan.ally.chat
+PermissionClanTopStats: veldora.clan.topstats
+PermissionClanStats: veldora.clan.stats
+PermissionClanLeave: veldora.clan.leave
+PermissionClanDelete: veldora.clan.delete
+PermissionClanList: veldora.clan.list
+PermissionClanReload: veldora.clan.reload
+PermissionClanLimit: veldora.clan.limit.X
+PermissionClanAllyLimit: veldora.clan.ally.limit.X

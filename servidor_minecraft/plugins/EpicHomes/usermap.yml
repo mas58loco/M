@@ -1,0 +1,15 @@
+import-completed: false
+users:
+  data:
+    b3beefaa-3e3f-32cc-a98d-a6e365f4fed6:
+      userUUID: b3beefaa-3e3f-32cc-a98d-a6e365f4fed6
+      lastKnownName: mas_58_loco
+    00000000-0000-0000-0009-01f5e3b241e7:
+      userUUID: 00000000-0000-0000-0009-01f5e3b241e7
+      lastKnownName: _FFisaacRD6119
+    d55792b8-a530-3f9f-a2da-cffb9e616407:
+      userUUID: d55792b8-a530-3f9f-a2da-cffb9e616407
+      lastKnownName: FFisaacRD6119
+    408e36f3-b12b-3089-b30c-0da8bbb865a8:
+      userUUID: 408e36f3-b12b-3089-b30c-0da8bbb865a8
+      lastKnownName: _FFisaacRD6119

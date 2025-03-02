@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 177.200.239.66
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736200366671
+  login: 1736200279906
+money: '0'
+last-account-name: _FFisaacRD6119
+lastlocation:
+  world: a1d1ad45-9b8c-48eb-acac-5cf2c56f9373
+  world-name: world
+  x: -4.5
+  y: 63.0
+  z: -41.5
+  yaw: 4.739124774932861
+  pitch: 0.0
+logoutlocation:
+  world: a1d1ad45-9b8c-48eb-acac-5cf2c56f9373
+  world-name: world
+  x: -13.633335
+  y: 115.94069
+  z: -120.28672
+  yaw: 36.194122314453125
+  pitch: -4.434478759765625
+past-usernames:
+- .FFisaacRD6119

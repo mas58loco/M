@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 63.141.243.26
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735832884972
+  login: 1735832193723
+money: '10010000999'
+last-account-name: alexYT
+lastlocation:
+  world: 4d65a67f-9c7b-4858-ba40-7ca67df5a8b4
+  world-name: world
+  x: 4.5
+  y: 65.0
+  z: 10.5
+  yaw: 5.517485618591309
+  pitch: 0.0
+logoutlocation:
+  world: 4d65a67f-9c7b-4858-ba40-7ca67df5a8b4
+  world-name: world
+  x: -63.78922836417789
+  y: 74.03722997241042
+  z: 89.36186183227038
+  yaw: 35.63445281982422
+  pitch: 63.789302825927734
