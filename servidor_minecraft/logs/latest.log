@@ -1,3 +1,8 @@
 [00:00:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
 op<--[HERE]
 [00:26:18] [Server thread/INFO]: mas_58_loco lost connection: Disconnected
+[00:27:30] [User Authenticator #1/INFO]: UUID of player mas_58_loco is b3beefaa-3e3f-32cc-a98d-a6e365f4fed6
+[00:27:32] [TAB Processing Thread/INFO]: [TAB] [WARN] Player mas_58_loco's group (deidad) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:27:32] [Server thread/INFO]: mas_58_loco[/100.86.4.53:51371] logged in with entity id 25472 at ([world]476.30000001192093, 71.0, -839.6999999880791)
+[00:27:40] [Folia Async Scheduler Thread #1/INFO]: [nLogin] The user mas_58_loco has successfully logged in.
+[00:32:10] [Server thread/INFO]: mas_58_loco lost connection: Timed out
