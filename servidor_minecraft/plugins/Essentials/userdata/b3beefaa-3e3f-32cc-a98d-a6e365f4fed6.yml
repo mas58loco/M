@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740951484233
+  logout: 1740961578836
   login: 1740951487032
 money: '9999994.0'
 last-account-name: mas_58_loco
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 188d3430-cc3d-460f-99eb-bcbf7bf29edc
   world-name: world
-  x: -0.25460000634193425
-  y: 63.0
-  z: -32.4951299846607
-  yaw: -1.3500001430511475
-  pitch: 2.4000003337860107
+  x: 476.30000001192093
+  y: 71.0
+  z: -839.6999999880791
+  yaw: -43.6943359375
+  pitch: 28.350099563598633
